@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Text, StyleSheet, TouchableOpacity, Image } from "react-native";
+import { View, StyleSheet, Image, ScrollView } from "react-native";
 import { useRouter } from "expo-router";
 import Cards from "@/src/components/cards";
 
@@ -14,7 +14,7 @@ export default function MainScreen() {
   ];
 
   return (
-    <View style={styles.container}>
+    <ScrollView style={styles.container}>
       <View style={styles.title}>
         <Image
           source={require("../assets/images/logo/fena-logo.png")}
@@ -36,7 +36,7 @@ export default function MainScreen() {
           />
         ))}
       </View>
-    </View>
+    </ScrollView>
   );
 }
 
@@ -47,6 +47,7 @@ const styles = StyleSheet.create({
   },
   title: { width: "100%", backgroundColor: "#000", height: 100 },
   cardContainer: {
+    padding: 20,
     flex: 1,
     flexDirection: "row",
     flexWrap: "wrap",
