@@ -1,4 +1,126 @@
 {
+    "aircraft-tugs": {
+        "images": [
+            {
+                "id": 1,
+                "path": "assets\\images\\product\\aircraft-tugs\\1-9.jpg"
+            },
+            {
+                "id": 2,
+                "path": "assets\\images\\product\\aircraft-tugs\\2-8.jpg"
+            },
+            {
+                "id": 3,
+                "path": "assets\\images\\product\\aircraft-tugs\\4-7.jpg"
+            },
+            {
+                "id": 4,
+                "path": "assets\\images\\product\\aircraft-tugs\\5-4.jpg"
+            },
+            {
+                "id": 5,
+                "path": "assets\\images\\product\\aircraft-tugs\\6-4.jpg"
+            },
+            {
+                "id": 6,
+                "path": "assets\\images\\product\\aircraft-tugs\\7-2.jpg"
+            },
+            {
+                "id": 7,
+                "path": "assets\\images\\product\\aircraft-tugs\\key1-14.jpg"
+            },
+            {
+                "id": 8,
+                "path": "assets\\images\\product\\aircraft-tugs\\key10.jpg"
+            },
+            {
+                "id": 9,
+                "path": "assets\\images\\product\\aircraft-tugs\\key2-10.jpg"
+            },
+            {
+                "id": 10,
+                "path": "assets\\images\\product\\aircraft-tugs\\key3-8.jpg"
+            },
+            {
+                "id": 11,
+                "path": "assets\\images\\product\\aircraft-tugs\\key4-6.jpg"
+            },
+            {
+                "id": 12,
+                "path": "assets\\images\\product\\aircraft-tugs\\key5-5.jpg"
+            },
+            {
+                "id": 13,
+                "path": "assets\\images\\product\\aircraft-tugs\\key6-4.jpg"
+            },
+            {
+                "id": 14,
+                "path": "assets\\images\\product\\aircraft-tugs\\key7-3.jpg"
+            },
+            {
+                "id": 15,
+                "path": "assets\\images\\product\\aircraft-tugs\\key8-1.jpg"
+            },
+            {
+                "id": 16,
+                "path": "assets\\images\\product\\aircraft-tugs\\key9-1.jpg"
+            }
+        ],
+        "videos": []
+    },
+    "automated-vertical-storage-system": {
+        "images": [
+            {
+                "id": 1,
+                "path": "assets\\images\\product\\automated-vertical-storage-system\\1-2.png"
+            },
+            {
+                "id": 2,
+                "path": "assets\\images\\product\\automated-vertical-storage-system\\1Normal.png"
+            },
+            {
+                "id": 3,
+                "path": "assets\\images\\product\\automated-vertical-storage-system\\2-1.png"
+            },
+            {
+                "id": 4,
+                "path": "assets\\images\\product\\automated-vertical-storage-system\\2-2.png"
+            },
+            {
+                "id": 5,
+                "path": "assets\\images\\product\\automated-vertical-storage-system\\3-1.png"
+            },
+            {
+                "id": 6,
+                "path": "assets\\images\\product\\automated-vertical-storage-system\\3-2.png"
+            },
+            {
+                "id": 7,
+                "path": "assets\\images\\product\\automated-vertical-storage-system\\4-3.png"
+            },
+            {
+                "id": 8,
+                "path": "assets\\images\\product\\automated-vertical-storage-system\\6-1.png"
+            },
+            {
+                "id": 9,
+                "path": "assets\\images\\product\\automated-vertical-storage-system\\key1-2.png"
+            },
+            {
+                "id": 10,
+                "path": "assets\\images\\product\\automated-vertical-storage-system\\key2-2.png"
+            },
+            {
+                "id": 11,
+                "path": "assets\\images\\product\\automated-vertical-storage-system\\key3-2.png"
+            },
+            {
+                "id": 12,
+                "path": "assets\\images\\product\\automated-vertical-storage-system\\key5-2.png"
+            }
+        ],
+        "videos": []
+    },
     "cable-pulling-system": {
         "images": [
             {
@@ -89,6 +211,51 @@
         ],
         "videos": []
     },
+    "crane-system": {
+        "images": [
+            {
+                "id": 1,
+                "path": "assets\\images\\product\\crane-system\\1.jpg"
+            },
+            {
+                "id": 2,
+                "path": "assets\\images\\product\\crane-system\\10.jpg"
+            },
+            {
+                "id": 3,
+                "path": "assets\\images\\product\\crane-system\\2.jpg"
+            },
+            {
+                "id": 4,
+                "path": "assets\\images\\product\\crane-system\\3.jpg"
+            },
+            {
+                "id": 5,
+                "path": "assets\\images\\product\\crane-system\\4.jpg"
+            },
+            {
+                "id": 6,
+                "path": "assets\\images\\product\\crane-system\\5.jpg"
+            },
+            {
+                "id": 7,
+                "path": "assets\\images\\product\\crane-system\\6.jpg"
+            },
+            {
+                "id": 8,
+                "path": "assets\\images\\product\\crane-system\\7.jpg"
+            },
+            {
+                "id": 9,
+                "path": "assets\\images\\product\\crane-system\\8.jpg"
+            },
+            {
+                "id": 10,
+                "path": "assets\\images\\product\\crane-system\\9.jpg"
+            }
+        ],
+        "videos": []
+    },
     "dumpers-and-carriers": {
         "images": [
             {
@@ -134,6 +301,104 @@
         ],
         "videos": []
     },
+    "electric-tugs": {
+        "images": [
+            {
+                "id": 1,
+                "path": "assets\\images\\product\\electric-tugs\\key1-15.jpg"
+            },
+            {
+                "id": 2,
+                "path": "assets\\images\\product\\electric-tugs\\key1-19.jpg"
+            },
+            {
+                "id": 3,
+                "path": "assets\\images\\product\\electric-tugs\\key10-1.jpg"
+            },
+            {
+                "id": 4,
+                "path": "assets\\images\\product\\electric-tugs\\key11.jpg"
+            },
+            {
+                "id": 5,
+                "path": "assets\\images\\product\\electric-tugs\\key12.jpg"
+            },
+            {
+                "id": 6,
+                "path": "assets\\images\\product\\electric-tugs\\key13.jpg"
+            },
+            {
+                "id": 7,
+                "path": "assets\\images\\product\\electric-tugs\\key2-11.jpg"
+            },
+            {
+                "id": 8,
+                "path": "assets\\images\\product\\electric-tugs\\key2-15.jpg"
+            },
+            {
+                "id": 9,
+                "path": "assets\\images\\product\\electric-tugs\\key3-13.jpg"
+            },
+            {
+                "id": 10,
+                "path": "assets\\images\\product\\electric-tugs\\key3-9.jpg"
+            },
+            {
+                "id": 11,
+                "path": "assets\\images\\product\\electric-tugs\\key4-11.jpg"
+            },
+            {
+                "id": 12,
+                "path": "assets\\images\\product\\electric-tugs\\key4-7.jpg"
+            },
+            {
+                "id": 13,
+                "path": "assets\\images\\product\\electric-tugs\\key5-6.jpg"
+            },
+            {
+                "id": 14,
+                "path": "assets\\images\\product\\electric-tugs\\key5-9.jpg"
+            },
+            {
+                "id": 15,
+                "path": "assets\\images\\product\\electric-tugs\\key6-5.jpg"
+            },
+            {
+                "id": 16,
+                "path": "assets\\images\\product\\electric-tugs\\key6-8.jpg"
+            },
+            {
+                "id": 17,
+                "path": "assets\\images\\product\\electric-tugs\\key7-4.jpg"
+            },
+            {
+                "id": 18,
+                "path": "assets\\images\\product\\electric-tugs\\key8-2.jpg"
+            },
+            {
+                "id": 19,
+                "path": "assets\\images\\product\\electric-tugs\\key9-2.jpg"
+            }
+        ],
+        "videos": []
+    },
+    "gantry-cranes": {
+        "images": [
+            {
+                "id": 1,
+                "path": "assets\\images\\product\\gantry-cranes\\1.jpg"
+            },
+            {
+                "id": 2,
+                "path": "assets\\images\\product\\gantry-cranes\\2.jpg"
+            },
+            {
+                "id": 3,
+                "path": "assets\\images\\product\\gantry-cranes\\3-2.jpg"
+            }
+        ],
+        "videos": []
+    },
     "gripper-tool": {
         "images": [
             {
@@ -150,34 +415,66 @@
             },
             {
                 "id": 4,
-                "path": "assets\\images\\product\\gripper-tool\\2.jpg"
+                "path": "assets\\images\\product\\gripper-tool\\12.jpg"
             },
             {
                 "id": 5,
-                "path": "assets\\images\\product\\gripper-tool\\3.jpg"
+                "path": "assets\\images\\product\\gripper-tool\\13.jpg"
             },
             {
                 "id": 6,
-                "path": "assets\\images\\product\\gripper-tool\\4.jpg"
+                "path": "assets\\images\\product\\gripper-tool\\14.jpg"
             },
             {
                 "id": 7,
-                "path": "assets\\images\\product\\gripper-tool\\5.jpg"
+                "path": "assets\\images\\product\\gripper-tool\\15.jpg"
             },
             {
                 "id": 8,
-                "path": "assets\\images\\product\\gripper-tool\\6.jpg"
+                "path": "assets\\images\\product\\gripper-tool\\16.jpg"
             },
             {
                 "id": 9,
-                "path": "assets\\images\\product\\gripper-tool\\7.jpg"
+                "path": "assets\\images\\product\\gripper-tool\\17.jpg"
             },
             {
                 "id": 10,
-                "path": "assets\\images\\product\\gripper-tool\\8.jpg"
+                "path": "assets\\images\\product\\gripper-tool\\18.jpg"
             },
             {
                 "id": 11,
+                "path": "assets\\images\\product\\gripper-tool\\19.jpg"
+            },
+            {
+                "id": 12,
+                "path": "assets\\images\\product\\gripper-tool\\2.jpg"
+            },
+            {
+                "id": 13,
+                "path": "assets\\images\\product\\gripper-tool\\3.jpg"
+            },
+            {
+                "id": 14,
+                "path": "assets\\images\\product\\gripper-tool\\4.jpg"
+            },
+            {
+                "id": 15,
+                "path": "assets\\images\\product\\gripper-tool\\5.jpg"
+            },
+            {
+                "id": 16,
+                "path": "assets\\images\\product\\gripper-tool\\6.jpg"
+            },
+            {
+                "id": 17,
+                "path": "assets\\images\\product\\gripper-tool\\7.jpg"
+            },
+            {
+                "id": 18,
+                "path": "assets\\images\\product\\gripper-tool\\8.jpg"
+            },
+            {
+                "id": 19,
                 "path": "assets\\images\\product\\gripper-tool\\9.jpg"
             }
         ],
@@ -228,31 +525,132 @@
             },
             {
                 "id": 2,
-                "path": "assets\\images\\product\\industrial-manipulator\\2.png"
+                "path": "assets\\images\\product\\industrial-manipulator\\10.jpg"
             },
             {
                 "id": 3,
-                "path": "assets\\images\\product\\industrial-manipulator\\3.png"
+                "path": "assets\\images\\product\\industrial-manipulator\\11.jpg"
             },
             {
                 "id": 4,
-                "path": "assets\\images\\product\\industrial-manipulator\\4.png"
+                "path": "assets\\images\\product\\industrial-manipulator\\12.jpg"
             },
             {
                 "id": 5,
-                "path": "assets\\images\\product\\industrial-manipulator\\5.png"
+                "path": "assets\\images\\product\\industrial-manipulator\\13.jpg"
             },
             {
                 "id": 6,
-                "path": "assets\\images\\product\\industrial-manipulator\\6.png"
+                "path": "assets\\images\\product\\industrial-manipulator\\14.jpg"
             },
             {
                 "id": 7,
-                "path": "assets\\images\\product\\industrial-manipulator\\7.png"
+                "path": "assets\\images\\product\\industrial-manipulator\\15.jpg"
             },
             {
                 "id": 8,
+                "path": "assets\\images\\product\\industrial-manipulator\\16.jpg"
+            },
+            {
+                "id": 9,
+                "path": "assets\\images\\product\\industrial-manipulator\\2.png"
+            },
+            {
+                "id": 10,
+                "path": "assets\\images\\product\\industrial-manipulator\\3.png"
+            },
+            {
+                "id": 11,
+                "path": "assets\\images\\product\\industrial-manipulator\\4.png"
+            },
+            {
+                "id": 12,
+                "path": "assets\\images\\product\\industrial-manipulator\\5.png"
+            },
+            {
+                "id": 13,
+                "path": "assets\\images\\product\\industrial-manipulator\\6.png"
+            },
+            {
+                "id": 14,
+                "path": "assets\\images\\product\\industrial-manipulator\\7.png"
+            },
+            {
+                "id": 15,
                 "path": "assets\\images\\product\\industrial-manipulator\\8.png"
+            },
+            {
+                "id": 16,
+                "path": "assets\\images\\product\\industrial-manipulator\\9.jpg"
+            }
+        ],
+        "videos": []
+    },
+    "lean-system": {
+        "images": [
+            {
+                "id": 1,
+                "path": "assets\\images\\product\\lean-system\\1-19.jpg"
+            },
+            {
+                "id": 2,
+                "path": "assets\\images\\product\\lean-system\\10-4.jpg"
+            },
+            {
+                "id": 3,
+                "path": "assets\\images\\product\\lean-system\\11-4.jpg"
+            },
+            {
+                "id": 4,
+                "path": "assets\\images\\product\\lean-system\\12-3.jpg"
+            },
+            {
+                "id": 5,
+                "path": "assets\\images\\product\\lean-system\\2-18.jpg"
+            },
+            {
+                "id": 6,
+                "path": "assets\\images\\product\\lean-system\\3-19.jpg"
+            },
+            {
+                "id": 7,
+                "path": "assets\\images\\product\\lean-system\\4-15.jpg"
+            },
+            {
+                "id": 8,
+                "path": "assets\\images\\product\\lean-system\\5-15.jpg"
+            },
+            {
+                "id": 9,
+                "path": "assets\\images\\product\\lean-system\\6-9.jpg"
+            },
+            {
+                "id": 10,
+                "path": "assets\\images\\product\\lean-system\\7-11.jpg"
+            },
+            {
+                "id": 11,
+                "path": "assets\\images\\product\\lean-system\\8-7.jpg"
+            },
+            {
+                "id": 12,
+                "path": "assets\\images\\product\\lean-system\\9-3.jpg"
+            },
+            {
+                "id": 13,
+                "path": "assets\\images\\product\\lean-system\\key.jpg"
+            },
+            {
+                "id": 14,
+                "path": "assets\\images\\product\\lean-system\\key1-20.jpg"
+            },
+            {
+                "id": 15,
+                "path": "assets\\images\\product\\lean-system\\key2-19.jpg"
+            },
+            {
+                "id": 16,
+                "path": "assets\\images\\product\\lean-system\\key3-18.jpg"
             }
         ],
         "videos": []
@@ -318,6 +716,76 @@
         ],
         "videos": []
     },
+    "magnetic-lifter": {
+        "images": [
+            {
+                "id": 1,
+                "path": "assets\\images\\product\\magnetic-lifter\\2-10.jpg"
+            },
+            {
+                "id": 2,
+                "path": "assets\\images\\product\\magnetic-lifter\\3-11.jpg"
+            },
+            {
+                "id": 3,
+                "path": "assets\\images\\product\\magnetic-lifter\\4-7.jpg"
+            },
+            {
+                "id": 4,
+                "path": "assets\\images\\product\\magnetic-lifter\\7-6.jpg"
+            }
+        ],
+        "videos": []
+    },
+    "pipe-vacuum-lifters": {
+        "images": [
+            {
+                "id": 1,
+                "path": "assets\\images\\product\\pipe-vacuum-lifters\\1.jpg"
+            },
+            {
+                "id": 2,
+                "path": "assets\\images\\product\\pipe-vacuum-lifters\\10.jpg"
+            },
+            {
+                "id": 3,
+                "path": "assets\\images\\product\\pipe-vacuum-lifters\\11.jpg"
+            },
+            {
+                "id": 4,
+                "path": "assets\\images\\product\\pipe-vacuum-lifters\\2.jpg"
+            },
+            {
+                "id": 5,
+                "path": "assets\\images\\product\\pipe-vacuum-lifters\\3.jpg"
+            },
+            {
+                "id": 6,
+                "path": "assets\\images\\product\\pipe-vacuum-lifters\\4.jpg"
+            },
+            {
+                "id": 7,
+                "path": "assets\\images\\product\\pipe-vacuum-lifters\\5.jpg"
+            },
+            {
+                "id": 8,
+                "path": "assets\\images\\product\\pipe-vacuum-lifters\\6.jpg"
+            },
+            {
+                "id": 9,
+                "path": "assets\\images\\product\\pipe-vacuum-lifters\\7.jpg"
+            },
+            {
+                "id": 10,
+                "path": "assets\\images\\product\\pipe-vacuum-lifters\\8.jpg"
+            },
+            {
+                "id": 11,
+                "path": "assets\\images\\product\\pipe-vacuum-lifters\\9.jpg"
+            }
+        ],
+        "videos": []
+    },
     "spider-lifters": {
         "images": [
             {
@@ -344,6 +812,95 @@
             {
                 "id": 1,
                 "path": "assets\\images\\product\\tool-balancer\\1.jpg"
+            },
+            {
+                "id": 2,
+                "path": "assets\\images\\product\\tool-balancer\\10.jpg"
+            },
+            {
+                "id": 3,
+                "path": "assets\\images\\product\\tool-balancer\\11.jpg"
+            },
+            {
+                "id": 4,
+                "path": "assets\\images\\product\\tool-balancer\\12.jpg"
+            },
+            {
+                "id": 5,
+                "path": "assets\\images\\product\\tool-balancer\\13.jpg"
+            },
+            {
+                "id": 6,
+                "path": "assets\\images\\product\\tool-balancer\\2.jpg"
+            },
+            {
+                "id": 7,
+                "path": "assets\\images\\product\\tool-balancer\\3.jpg"
+            },
+            {
+                "id": 8,
+                "path": "assets\\images\\product\\tool-balancer\\4.jpg"
+            },
+            {
+                "id": 9,
+                "path": "assets\\images\\product\\tool-balancer\\5.jpg"
+            },
+            {
+                "id": 10,
+                "path": "assets\\images\\product\\tool-balancer\\6.jpg"
+            },
+            {
+                "id": 11,
+                "path": "assets\\images\\product\\tool-balancer\\7.jpg"
+            },
+            {
+                "id": 12,
+                "path": "assets\\images\\product\\tool-balancer\\8.jpg"
+            },
+            {
+                "id": 13,
+                "path": "assets\\images\\product\\tool-balancer\\9.jpg"
+            }
+        ],
+        "videos": []
+    },
+    "vacum-tube-lifter": {
+        "images": [
+            {
+                "id": 1,
+                "path": "assets\\images\\product\\vacum-tube-lifter\\1.jpg"
+            },
+            {
+                "id": 2,
+                "path": "assets\\images\\product\\vacum-tube-lifter\\2.jpg"
+            },
+            {
+                "id": 3,
+                "path": "assets\\images\\product\\vacum-tube-lifter\\3.jpg"
+            },
+            {
+                "id": 4,
+                "path": "assets\\images\\product\\vacum-tube-lifter\\4.jpg"
+            },
+            {
+                "id": 5,
+                "path": "assets\\images\\product\\vacum-tube-lifter\\5.jpg"
+            },
+            {
+                "id": 6,
+                "path": "assets\\images\\product\\vacum-tube-lifter\\6.jpg"
+            },
+            {
+                "id": 7,
+                "path": "assets\\images\\product\\vacum-tube-lifter\\7.jpg"
+            },
+            {
+                "id": 8,
+                "path": "assets\\images\\product\\vacum-tube-lifter\\8.jpg"
+            },
+            {
+                "id": 9,
+                "path": "assets\\images\\product\\vacum-tube-lifter\\9.jpg"
             }
         ],
         "videos": []
