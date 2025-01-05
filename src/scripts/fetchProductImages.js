@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 // Base directory (adjust this to your actual path)
-const baseDir = "../../assets/images/product";
+const baseDir = path.join(__dirname, "../../assets/images/product"); // Use __dirname for correct relative paths
 
 // Function to generate the product data object
 function generateProductData(baseDir) {
@@ -21,7 +21,7 @@ function generateProductData(baseDir) {
         .filter((file) => file.match(/\.(png|jpg|jpeg|webp)$/i)) // Only image files
         .map((file, id) => ({
           id: id + 1,
-          path: `../../assets/images/product/${product}/${file}`,
+          path: path.join("assets/images/product", product, file), // Save path as a string
         }));
 
       // Collect videos from videos.json if present
@@ -44,6 +44,9 @@ function generateProductData(baseDir) {
 const data = generateProductData(baseDir);
 
 // Output the result to a file
-fs.writeFileSync("productData.json", JSON.stringify(data, null, 4));
+fs.writeFileSync(
+  path.join(__dirname, "productData.json"),
+  JSON.stringify(data, null, 4)
+);
 
 console.log("productData.json generated successfully!");

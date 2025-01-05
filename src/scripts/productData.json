@@ -1,0 +1,388 @@
+{
+    "cable-pulling-system": {
+        "images": [
+            {
+                "id": 1,
+                "path": "assets\\images\\product\\cable-pulling-system\\1.jpg"
+            },
+            {
+                "id": 2,
+                "path": "assets\\images\\product\\cable-pulling-system\\10.jpg"
+            },
+            {
+                "id": 3,
+                "path": "assets\\images\\product\\cable-pulling-system\\11.jpg"
+            },
+            {
+                "id": 4,
+                "path": "assets\\images\\product\\cable-pulling-system\\12.jpg"
+            },
+            {
+                "id": 5,
+                "path": "assets\\images\\product\\cable-pulling-system\\2.jpg"
+            },
+            {
+                "id": 6,
+                "path": "assets\\images\\product\\cable-pulling-system\\3.jpg"
+            },
+            {
+                "id": 7,
+                "path": "assets\\images\\product\\cable-pulling-system\\4.jpg"
+            },
+            {
+                "id": 8,
+                "path": "assets\\images\\product\\cable-pulling-system\\5.jpg"
+            },
+            {
+                "id": 9,
+                "path": "assets\\images\\product\\cable-pulling-system\\6.jpg"
+            },
+            {
+                "id": 10,
+                "path": "assets\\images\\product\\cable-pulling-system\\7.jpg"
+            },
+            {
+                "id": 11,
+                "path": "assets\\images\\product\\cable-pulling-system\\8.jpg"
+            },
+            {
+                "id": 12,
+                "path": "assets\\images\\product\\cable-pulling-system\\9.jpg"
+            }
+        ],
+        "videos": []
+    },
+    "cladding-vacuum-lifters": {
+        "images": [
+            {
+                "id": 1,
+                "path": "assets\\images\\product\\cladding-vacuum-lifters\\1.jpg"
+            },
+            {
+                "id": 2,
+                "path": "assets\\images\\product\\cladding-vacuum-lifters\\2.jpg"
+            },
+            {
+                "id": 3,
+                "path": "assets\\images\\product\\cladding-vacuum-lifters\\3.jpg"
+            },
+            {
+                "id": 4,
+                "path": "assets\\images\\product\\cladding-vacuum-lifters\\4.jpg"
+            },
+            {
+                "id": 5,
+                "path": "assets\\images\\product\\cladding-vacuum-lifters\\5.jpg"
+            },
+            {
+                "id": 6,
+                "path": "assets\\images\\product\\cladding-vacuum-lifters\\6.jpg"
+            },
+            {
+                "id": 7,
+                "path": "assets\\images\\product\\cladding-vacuum-lifters\\7.jpg"
+            },
+            {
+                "id": 8,
+                "path": "assets\\images\\product\\cladding-vacuum-lifters\\8.jpg"
+            }
+        ],
+        "videos": []
+    },
+    "dumpers-and-carriers": {
+        "images": [
+            {
+                "id": 1,
+                "path": "assets\\images\\product\\dumpers-and-carriers\\1.jpg"
+            },
+            {
+                "id": 2,
+                "path": "assets\\images\\product\\dumpers-and-carriers\\10.jpg"
+            },
+            {
+                "id": 3,
+                "path": "assets\\images\\product\\dumpers-and-carriers\\2.jpg"
+            },
+            {
+                "id": 4,
+                "path": "assets\\images\\product\\dumpers-and-carriers\\3.jpg"
+            },
+            {
+                "id": 5,
+                "path": "assets\\images\\product\\dumpers-and-carriers\\4.jpg"
+            },
+            {
+                "id": 6,
+                "path": "assets\\images\\product\\dumpers-and-carriers\\5.jpg"
+            },
+            {
+                "id": 7,
+                "path": "assets\\images\\product\\dumpers-and-carriers\\6.jpg"
+            },
+            {
+                "id": 8,
+                "path": "assets\\images\\product\\dumpers-and-carriers\\7.jpg"
+            },
+            {
+                "id": 9,
+                "path": "assets\\images\\product\\dumpers-and-carriers\\8.jpg"
+            },
+            {
+                "id": 10,
+                "path": "assets\\images\\product\\dumpers-and-carriers\\9.jpg"
+            }
+        ],
+        "videos": []
+    },
+    "gripper-tool": {
+        "images": [
+            {
+                "id": 1,
+                "path": "assets\\images\\product\\gripper-tool\\1.jpg"
+            },
+            {
+                "id": 2,
+                "path": "assets\\images\\product\\gripper-tool\\10.jpg"
+            },
+            {
+                "id": 3,
+                "path": "assets\\images\\product\\gripper-tool\\11.jpg"
+            },
+            {
+                "id": 4,
+                "path": "assets\\images\\product\\gripper-tool\\2.jpg"
+            },
+            {
+                "id": 5,
+                "path": "assets\\images\\product\\gripper-tool\\3.jpg"
+            },
+            {
+                "id": 6,
+                "path": "assets\\images\\product\\gripper-tool\\4.jpg"
+            },
+            {
+                "id": 7,
+                "path": "assets\\images\\product\\gripper-tool\\5.jpg"
+            },
+            {
+                "id": 8,
+                "path": "assets\\images\\product\\gripper-tool\\6.jpg"
+            },
+            {
+                "id": 9,
+                "path": "assets\\images\\product\\gripper-tool\\7.jpg"
+            },
+            {
+                "id": 10,
+                "path": "assets\\images\\product\\gripper-tool\\8.jpg"
+            },
+            {
+                "id": 11,
+                "path": "assets\\images\\product\\gripper-tool\\9.jpg"
+            }
+        ],
+        "videos": []
+    },
+    "indstrial-hoses": {
+        "images": [
+            {
+                "id": 1,
+                "path": "assets\\images\\product\\indstrial-hoses\\1.webp"
+            },
+            {
+                "id": 2,
+                "path": "assets\\images\\product\\indstrial-hoses\\2.webp"
+            },
+            {
+                "id": 3,
+                "path": "assets\\images\\product\\indstrial-hoses\\3.webp"
+            },
+            {
+                "id": 4,
+                "path": "assets\\images\\product\\indstrial-hoses\\4.webp"
+            },
+            {
+                "id": 5,
+                "path": "assets\\images\\product\\indstrial-hoses\\5.webp"
+            },
+            {
+                "id": 6,
+                "path": "assets\\images\\product\\indstrial-hoses\\6.webp"
+            },
+            {
+                "id": 7,
+                "path": "assets\\images\\product\\indstrial-hoses\\7.webp"
+            },
+            {
+                "id": 8,
+                "path": "assets\\images\\product\\indstrial-hoses\\8.webp"
+            }
+        ],
+        "videos": []
+    },
+    "industrial-manipulator": {
+        "images": [
+            {
+                "id": 1,
+                "path": "assets\\images\\product\\industrial-manipulator\\1.png"
+            },
+            {
+                "id": 2,
+                "path": "assets\\images\\product\\industrial-manipulator\\2.png"
+            },
+            {
+                "id": 3,
+                "path": "assets\\images\\product\\industrial-manipulator\\3.png"
+            },
+            {
+                "id": 4,
+                "path": "assets\\images\\product\\industrial-manipulator\\4.png"
+            },
+            {
+                "id": 5,
+                "path": "assets\\images\\product\\industrial-manipulator\\5.png"
+            },
+            {
+                "id": 6,
+                "path": "assets\\images\\product\\industrial-manipulator\\6.png"
+            },
+            {
+                "id": 7,
+                "path": "assets\\images\\product\\industrial-manipulator\\7.png"
+            },
+            {
+                "id": 8,
+                "path": "assets\\images\\product\\industrial-manipulator\\8.png"
+            }
+        ],
+        "videos": []
+    },
+    "lifting-robot": {
+        "images": [
+            {
+                "id": 1,
+                "path": "assets\\images\\product\\lifting-robot\\1.jpg"
+            },
+            {
+                "id": 2,
+                "path": "assets\\images\\product\\lifting-robot\\10.jpg"
+            },
+            {
+                "id": 3,
+                "path": "assets\\images\\product\\lifting-robot\\11.jpg"
+            },
+            {
+                "id": 4,
+                "path": "assets\\images\\product\\lifting-robot\\12.jpg"
+            },
+            {
+                "id": 5,
+                "path": "assets\\images\\product\\lifting-robot\\13.jpg"
+            },
+            {
+                "id": 6,
+                "path": "assets\\images\\product\\lifting-robot\\14.jpg"
+            },
+            {
+                "id": 7,
+                "path": "assets\\images\\product\\lifting-robot\\2.jpg"
+            },
+            {
+                "id": 8,
+                "path": "assets\\images\\product\\lifting-robot\\3.jpg"
+            },
+            {
+                "id": 9,
+                "path": "assets\\images\\product\\lifting-robot\\4.jpg"
+            },
+            {
+                "id": 10,
+                "path": "assets\\images\\product\\lifting-robot\\5.jpg"
+            },
+            {
+                "id": 11,
+                "path": "assets\\images\\product\\lifting-robot\\6.jpg"
+            },
+            {
+                "id": 12,
+                "path": "assets\\images\\product\\lifting-robot\\7.jpg"
+            },
+            {
+                "id": 13,
+                "path": "assets\\images\\product\\lifting-robot\\8.jpg"
+            },
+            {
+                "id": 14,
+                "path": "assets\\images\\product\\lifting-robot\\9.jpg"
+            }
+        ],
+        "videos": []
+    },
+    "spider-lifters": {
+        "images": [
+            {
+                "id": 1,
+                "path": "assets\\images\\product\\spider-lifters\\1.png"
+            },
+            {
+                "id": 2,
+                "path": "assets\\images\\product\\spider-lifters\\2.png"
+            },
+            {
+                "id": 3,
+                "path": "assets\\images\\product\\spider-lifters\\3.png"
+            },
+            {
+                "id": 4,
+                "path": "assets\\images\\product\\spider-lifters\\4.png"
+            }
+        ],
+        "videos": []
+    },
+    "tool-balancer": {
+        "images": [
+            {
+                "id": 1,
+                "path": "assets\\images\\product\\tool-balancer\\1.jpg"
+            }
+        ],
+        "videos": []
+    },
+    "vehicle-aerial-platforms": {
+        "images": [
+            {
+                "id": 1,
+                "path": "assets\\images\\product\\vehicle-aerial-platforms\\1.png"
+            },
+            {
+                "id": 2,
+                "path": "assets\\images\\product\\vehicle-aerial-platforms\\2.png"
+            },
+            {
+                "id": 3,
+                "path": "assets\\images\\product\\vehicle-aerial-platforms\\3.png"
+            },
+            {
+                "id": 4,
+                "path": "assets\\images\\product\\vehicle-aerial-platforms\\4.png"
+            },
+            {
+                "id": 5,
+                "path": "assets\\images\\product\\vehicle-aerial-platforms\\5.png"
+            },
+            {
+                "id": 6,
+                "path": "assets\\images\\product\\vehicle-aerial-platforms\\6.png"
+            },
+            {
+                "id": 7,
+                "path": "assets\\images\\product\\vehicle-aerial-platforms\\7.png"
+            },
+            {
+                "id": 8,
+                "path": "assets\\images\\product\\vehicle-aerial-platforms\\8.png"
+            }
+        ],
+        "videos": []
+    }
+}
