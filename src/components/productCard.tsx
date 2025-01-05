@@ -5,7 +5,7 @@ const ProductCard = ({ title = "Product Card", onPress = () => {} }) => {
   return (
     <TouchableOpacity style={styles.card} onPress={onPress}>
       <Image
-        source={require("../../assets/images/material-handling/vacuum-lifting/glass-vacuum-lifter/1.jpg")}
+        source={require("../../assets/images/product/aircraft-tugs/1-9.jpg")}
         resizeMode="cover"
         style={styles.cardImage}
       />
