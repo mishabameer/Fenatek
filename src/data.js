@@ -1,39 +1,40 @@
-const getProductData = (name) => {
-  switch (name) {
-    case "Indstrial Manipulator":
+const GetProductData = (name) => {
+  const normalizedName = name.toLowerCase().replace(/\s+/g, "-");
+  switch (normalizedName) {
+    case "industrial-manipulator":
       return {
         images: [
           {
             id: 1,
-            path: "assets/images/industrial-manipulator/1.png",
+            path: require("../assets/images/product/industrial-manipulator/1.png"),
           },
           {
             id: 2,
-            path: "assets/images/industrial-manipulator/2.png",
+            path: require("../assets/images/product/industrial-manipulator/2.png"),
           },
           {
             id: 3,
-            path: "assets/images/industrial-manipulator/3.png",
+            path: require("../assets/images/product/industrial-manipulator/3.png"),
           },
           {
             id: 4,
-            path: "assets/images/industrial-manipulator/4.png",
+            path: require("../assets/images/product/industrial-manipulator/4.png"),
           },
           {
             id: 5,
-            path: "assets/images/industrial-manipulator/5.png",
+            path: require("../assets/images/product/industrial-manipulator/5.png"),
           },
           {
             id: 6,
-            path: "assets/images/industrial-manipulator/6.png",
+            path: require("../assets/images/product/industrial-manipulator/6.png"),
           },
           {
             id: 7,
-            path: "assets/images/industrial-manipulator/7.png",
+            path: require("../assets/images/product/industrial-manipulator/7.png"),
           },
           {
             id: 8,
-            path: "assets/images/industrial-manipulator/8.png",
+            path: require("../assets/images/product/industrial-manipulator/8.png"),
           },
         ],
         videos: [
@@ -49,4 +50,4 @@ const getProductData = (name) => {
       break;
   }
 };
-export default getProductData;
+export default GetProductData;

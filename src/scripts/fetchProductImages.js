@@ -21,7 +21,7 @@ function generateProductData(baseDir) {
         .filter((file) => file.match(/\.(png|jpg|jpeg|webp)$/i)) // Only image files
         .map((file, id) => ({
           id: id + 1,
-          path: `assets/images/product/${product}/${file}`,
+          path: `../assets/images/product/${product}/${file}`,
         }));
 
       // Collect videos from videos.json if present

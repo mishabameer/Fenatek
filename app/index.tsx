@@ -8,9 +8,9 @@ export default function MainScreen() {
 
   const category = [
     { id: 1, name: "Material Handling" },
-    { id: 2, name: "Steel Machineries" },
     { id: 3, name: "Construction" },
-    { id: 4, name: "Industrial Solutions" },
+    { id: 2, name: "Steel Machineries" },
+    { id: 4, name: "Industrial Technologies" },
   ];
 
   return (

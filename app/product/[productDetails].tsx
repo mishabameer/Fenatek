@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import {
   Dimensions,
   FlatList,
@@ -11,93 +11,85 @@ import {
 import { useLocalSearchParams } from "expo-router";
 import VideoSection from "../../src/components/videoSection";
 import { PRIMARY_THEME } from "../../src/constants";
-import productDataJson from "../../src/scripts/productData.json";
+import GetProductData from "../../src/GetProductData";
 
 interface ImageData {
   id: number;
   path: string;
-  //   title: string;
 }
 interface VideoData {
   id: number;
   uri: string;
 }
-interface ProductData {
-  [key: string]: {
-    images: { id: number; path: string }[];
-    videos: { id: number; uri: string }[];
-  };
-}
 
 const ProductDetails: React.FC = () => {
   const { productDetails } = useLocalSearchParams<{ productDetails: string }>();
+  const productData = GetProductData(productDetails);
 
-  const productData: ProductData = productDataJson;
+  // const getProductData = (
+  //   productName: string
+  // ): { images: ImageData[]; videos: VideoData[] } => {
+  //   const normalizedName = productName.toLowerCase().replace(/\s+/g, "-");
+  //   return productData[normalizedName] || { images: [], videos: [] };
+  // };
 
-  const getProductData = (
-    productName: string
-  ): { images: ImageData[]; videos: VideoData[] } => {
-    const normalizedName = productName.toLowerCase().replace(/\s+/g, "-");
-    return productData[normalizedName] || { images: [], videos: [] };
-  };
-
-  const imageData: ImageData[] = [
-    {
-      id: 2,
-      path: "https://fenatek.com/wp-content/uploads/2024/11/3-17.jpg",
-      // title: "Image 2",
-    },
-    {
-      id: 3,
-      path: "https://fenatek.com/wp-content/uploads/2024/11/3-17.jpg",
-      // title: "Image 3",
-    },
-    {
-      id: 4,
-      path: "https://fenatek.com/wp-content/uploads/2024/11/3-17.jpg",
-      // title: "Image 4",
-    },
-    {
-      id: 5,
-      path: "https://fenatek.com/wp-content/uploads/2024/11/3-17.jpg",
-      // title: "Image 5",
-    },
-    {
-      id: 6,
-      path: "https://fenatek.com/wp-content/uploads/2024/11/1-17.jpg",
-      // title: "Image 6",
-    },
-    {
-      id: 1,
-      path: "https://fenatek.com/wp-content/uploads/2024/11/3-17.jpg",
-      // title: "Image 1",
-    },
-    {
-      id: 2,
-      path: "https://fenatek.com/wp-content/uploads/2024/11/3-17.jpg",
-      // title: "Image 2",
-    },
-    {
-      id: 3,
-      path: "https://fenatek.com/wp-content/uploads/2024/11/3-17.jpg",
-      // title: "Image 3",
-    },
-    {
-      id: 4,
-      path: "https://fenatek.com/wp-content/uploads/2024/11/3-17.jpg",
-      // title: "Image 4",
-    },
-    {
-      id: 5,
-      path: "https://fenatek.com/wp-content/uploads/2024/11/3-17.jpg",
-      // title: "Image 5",
-    },
-    {
-      id: 6,
-      path: "https://fenatek.com/wp-content/uploads/2024/11/1-17.jpg",
-      // title: "Image 6",
-    },
-  ];
+  // const imageData: ImageData[] = [
+  //   {
+  //     id: 2,
+  //     path: "https://fenatek.com/wp-content/uploads/2024/11/3-17.jpg",
+  //     // title: "Image 2",
+  //   },
+  //   {
+  //     id: 3,
+  //     path: "https://fenatek.com/wp-content/uploads/2024/11/3-17.jpg",
+  //     // title: "Image 3",
+  //   },
+  //   {
+  //     id: 4,
+  //     path: "https://fenatek.com/wp-content/uploads/2024/11/3-17.jpg",
+  //     // title: "Image 4",
+  //   },
+  //   {
+  //     id: 5,
+  //     path: "https://fenatek.com/wp-content/uploads/2024/11/3-17.jpg",
+  //     // title: "Image 5",
+  //   },
+  //   {
+  //     id: 6,
+  //     path: "https://fenatek.com/wp-content/uploads/2024/11/1-17.jpg",
+  //     // title: "Image 6",
+  //   },
+  //   {
+  //     id: 1,
+  //     path: "https://fenatek.com/wp-content/uploads/2024/11/3-17.jpg",
+  //     // title: "Image 1",
+  //   },
+  //   {
+  //     id: 2,
+  //     path: "https://fenatek.com/wp-content/uploads/2024/11/3-17.jpg",
+  //     // title: "Image 2",
+  //   },
+  //   {
+  //     id: 3,
+  //     path: "https://fenatek.com/wp-content/uploads/2024/11/3-17.jpg",
+  //     // title: "Image 3",
+  //   },
+  //   {
+  //     id: 4,
+  //     path: "https://fenatek.com/wp-content/uploads/2024/11/3-17.jpg",
+  //     // title: "Image 4",
+  //   },
+  //   {
+  //     id: 5,
+  //     path: "https://fenatek.com/wp-content/uploads/2024/11/3-17.jpg",
+  //     // title: "Image 5",
+  //   },
+  //   {
+  //     id: 6,
+  //     path: "https://fenatek.com/wp-content/uploads/2024/11/1-17.jpg",
+  //     // title: "Image 6",
+  //   },
+  // ];
   const videoData: VideoData[] = [
     {
       id: 1,
@@ -116,7 +108,6 @@ const ProductDetails: React.FC = () => {
       uri: "https://www.youtube.com/embed/0mdAV0fk1r8?si=1--oU4nH5ioJUo_1",
     },
   ];
-
   const numColumns = 3;
   const itemWidth = Dimensions.get("window").width / numColumns - 40;
 
@@ -124,9 +115,7 @@ const ProductDetails: React.FC = () => {
     return (
       <View style={styles.card}>
         <Image
-          source={{
-            uri: item.path,
-          }}
+          source={item.path}
           style={[styles.image, { width: itemWidth, height: itemWidth }]}
         />
       </View>
@@ -140,18 +129,18 @@ const ProductDetails: React.FC = () => {
       </View>
       <View style={styles.body}>
         <FlatList
-          data={imageData}
+          data={productData?.images}
           renderItem={renderItem}
           keyExtractor={(item) => item.id.toString()}
           numColumns={numColumns}
           scrollEnabled={false}
         />
       </View>
-      {/* {videoData.length > 0 && (
+      {productData?.videos?.length > 0 && (
         <View>
-          <VideoSection videoData={videoData} />
+          <VideoSection videoData={productData?.videos} />
         </View>
-      )} */}
+      )}
     </ScrollView>
   );
 };
