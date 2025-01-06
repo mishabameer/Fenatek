@@ -22,7 +22,11 @@ const GetProductData = (name) => {
           { id: 16, path: require("../assets/images/product/aircraft-tugs/key9-1.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/watch?v=kN3vhw0Hvc8" },
+          { id: 2, uri: "https://www.youtube.com/watch?v=2q1B-5oPYuU" },
+          { id: 3, uri: "https://www.youtube.com/watch?v=5Uj8hyuDapM" },
+          { id: 4, uri: "https://www.youtube.com/watch?v=vpiGRmvIJC0" },
+          { id: 5, uri: "https://www.youtube.com/watch?v=QCBzOauCjsw" }
         ]
       };
 
@@ -43,7 +47,14 @@ const GetProductData = (name) => {
           { id: 12, path: require("../assets/images/product/automated-vertical-storage/key5-2.png") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/2kgfX2lBNWY" },
+          { id: 2, uri: "https://www.youtube.com/embed/Hq83qbSW2TU" },
+          { id: 3, uri: "https://www.youtube.com/embed/XGxd_RS9FHg" },
+          { id: 4, uri: "https://www.youtube.com/embed/rCkcZcL7o2M" },
+          { id: 5, uri: "https://www.youtube.com/embed/DWJXkZTEmO8" },
+          { id: 6, uri: "https://www.youtube.com/embed/_kBbDDdOkXk" },
+          { id: 7, uri: "https://www.youtube.com/embed/h3CbXKmWYiw" },
+          { id: 8, uri: "https://www.youtube.com/embed/RDlJGDtJGPw" }
         ]
       };
 
@@ -64,7 +75,10 @@ const GetProductData = (name) => {
           { id: 12, path: require("../assets/images/product/cable-pulling-system/9.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://fenatek.com/wp-content/uploads/2024/10/KakaoTalk_20231123_190820919.mp4" },
+          { id: 2, uri: "https://fenatek.com/wp-content/uploads/2024/10/Powerball-installation-and-operation-in-the-section-of-the-utility-tunnel-where-the-cable-tray-is-not-installed-1-1.mp4" },
+          { id: 3, uri: "https://fenatek.com/wp-content/uploads/2024/10/Powerball-spacing-control-video.mp4" },
+          { id: 4, uri: "https://fenatek.com/wp-content/uploads/2024/10/Powerball-operation-method-graphic-version.mp4" }
         ]
       };
 
@@ -81,7 +95,10 @@ const GetProductData = (name) => {
           { id: 8, path: require("../assets/images/product/cladding-panel-lifters/8.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/PiOSwfEUazY" },
+          { id: 2, uri: "https://www.youtube.com/embed/BlE7KYfwLbI" },
+          { id: 3, uri: "https://www.youtube.com/embed/xqrkATyp2oA" },
+          { id: 4, uri: "https://www.youtube.com/embed/laOqkCQCPRg" }
         ]
       };
 
@@ -100,7 +117,10 @@ const GetProductData = (name) => {
           { id: 10, path: require("../assets/images/product/conveyor-system/key7.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/p_rD-skYxY0" },
+          { id: 2, uri: "https://www.youtube.com/embed/rKivgVztueE" },
+          { id: 3, uri: "https://www.youtube.com/embed/uVSydI__Td0" },
+          { id: 4, uri: "https://www.youtube.com/embed/WOowSBrWlBY" }
         ]
       };
 
@@ -119,7 +139,9 @@ const GetProductData = (name) => {
           { id: 10, path: require("../assets/images/product/crane-system/9.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/VMq4zFCIIVo" },
+          { id: 2, uri: "https://fenatek.com/wp-content/uploads/2024/10/IMG_2407.mp4" },
+          { id: 3, uri: "https://fenatek.com/wp-content/uploads/2024/10/IMG_6704.mp4" }
         ]
       };
 
@@ -145,7 +167,9 @@ const GetProductData = (name) => {
           { id: 17, path: require("../assets/images/product/drum-handling-solutions/83_lg.webp") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/X6jiBMhkc34" },
+          { id: 2, uri: "https://www.youtube.com/embed/X6jiBMhkc34" },
+          { id: 3, uri: "https://www.youtube.com/embed/G_lSSz3phII" }
         ]
       };
 
@@ -161,10 +185,18 @@ const GetProductData = (name) => {
           { id: 7, path: require("../assets/images/product/dumpers-and-carriers/6.jpg") },
           { id: 8, path: require("../assets/images/product/dumpers-and-carriers/7.jpg") },
           { id: 9, path: require("../assets/images/product/dumpers-and-carriers/8.jpg") },
-          { id: 10, path: require("../assets/images/product/dumpers-and-carriers/9.jpg") }
+          { id: 10, path: require("../assets/images/product/dumpers-and-carriers/9.jpg") },
+          { id: 11, path: require("../assets/images/product/dumpers-and-carriers/d.jpg") },
+          { id: 12, path: require("../assets/images/product/dumpers-and-carriers/key2-13.jpg") },
+          { id: 13, path: require("../assets/images/product/dumpers-and-carriers/key3-11.jpg") },
+          { id: 14, path: require("../assets/images/product/dumpers-and-carriers/key4-9.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/QfgpjnYJmWI" },
+          { id: 2, uri: "https://www.youtube.com/embed/8pUcMDsANCs" },
+          { id: 3, uri: "https://www.youtube.com/embed/3bhfYQM1dOk" },
+          { id: 4, uri: "https://www.youtube.com/embed/jxpFQrk5oGU" },
+          { id: 5, uri: "https://www.youtube.com/embed/9_PnzG9SGKs" }
         ]
       };
 
@@ -197,7 +229,10 @@ const GetProductData = (name) => {
           { id: 24, path: require("../assets/images/product/dust-and-chip-aspirators/workbench-hood-91.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -227,7 +262,10 @@ const GetProductData = (name) => {
           { id: 21, path: require("../assets/images/product/electric-cutters/key9-9.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -255,33 +293,11 @@ const GetProductData = (name) => {
           { id: 19, path: require("../assets/images/product/electric-tugs/key9-2.jpg") }
         ],
         videos: [
-
-        ]
-      };
-
-    case "floor-marking-solutions":
-      return {
-        images: [
-          { id: 1, path: require("../assets/images/product/floor-marking-solutions/1-20.jpg") },
-          { id: 2, path: require("../assets/images/product/floor-marking-solutions/10-5.jpg") },
-          { id: 3, path: require("../assets/images/product/floor-marking-solutions/2-19.jpg") },
-          { id: 4, path: require("../assets/images/product/floor-marking-solutions/3-20.jpg") },
-          { id: 5, path: require("../assets/images/product/floor-marking-solutions/4-16.jpg") },
-          { id: 6, path: require("../assets/images/product/floor-marking-solutions/5-16.jpg") },
-          { id: 7, path: require("../assets/images/product/floor-marking-solutions/6-10.jpg") },
-          { id: 8, path: require("../assets/images/product/floor-marking-solutions/7-12.jpg") },
-          { id: 9, path: require("../assets/images/product/floor-marking-solutions/8-8.jpg") },
-          { id: 10, path: require("../assets/images/product/floor-marking-solutions/9-4.jpg") },
-          { id: 11, path: require("../assets/images/product/floor-marking-solutions/key1-21.jpg") },
-          { id: 12, path: require("../assets/images/product/floor-marking-solutions/key2-20.jpg") },
-          { id: 13, path: require("../assets/images/product/floor-marking-solutions/key3-19.jpg") },
-          { id: 14, path: require("../assets/images/product/floor-marking-solutions/key4-8.jpg") },
-          { id: 15, path: require("../assets/images/product/floor-marking-solutions/key5-3.jpg") },
-          { id: 16, path: require("../assets/images/product/floor-marking-solutions/key6-3.jpg") },
-          { id: 17, path: require("../assets/images/product/floor-marking-solutions/key7-3.jpg") }
-        ],
-        videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/r_uHlGU3W3Q" },
+          { id: 2, uri: "https://www.youtube.com/embed/9kxCfkD0Vho" },
+          { id: 3, uri: "https://www.youtube.com/embed/nqkmulajMMw" },
+          { id: 4, uri: "https://www.youtube.com/embed/uwTL5nSmDIE" },
+          { id: 5, uri: "https://www.youtube.com/embed/7T-wgsdXQB0" }
         ]
       };
 
@@ -290,10 +306,15 @@ const GetProductData = (name) => {
         images: [
           { id: 1, path: require("../assets/images/product/gantry-cranes/1.jpg") },
           { id: 2, path: require("../assets/images/product/gantry-cranes/2.jpg") },
-          { id: 3, path: require("../assets/images/product/gantry-cranes/3-2.jpg") }
+          { id: 3, path: require("../assets/images/product/gantry-cranes/3-2.jpg") },
+          { id: 4, path: require("../assets/images/product/gantry-cranes/4.jpg") },
+          { id: 5, path: require("../assets/images/product/gantry-cranes/key2-3.jpg") },
+          { id: 6, path: require("../assets/images/product/gantry-cranes/key3-1.jpg") },
+          { id: 7, path: require("../assets/images/product/gantry-cranes/key4.jpg") },
+          { id: 8, path: require("../assets/images/product/gantry-cranes/key5.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/B_xAb-GejWc" }
         ]
       };
 
@@ -315,7 +336,10 @@ const GetProductData = (name) => {
           { id: 13, path: require("../assets/images/product/glass-vacuum-lifters/Vacuum5.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/F_NEUOm7-p8" },
+          { id: 2, uri: "https://www.youtube.com/embed/qPTTSMV6kY4" },
+          { id: 3, uri: "https://www.youtube.com/embed/ZqIvjFDBs6s" },
+          { id: 4, uri: "https://www.youtube.com/embed/F_NEUOm7-p8" }
         ]
       };
 
@@ -343,7 +367,11 @@ const GetProductData = (name) => {
           { id: 19, path: require("../assets/images/product/gripper-tool/9.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/YIbGBD5XiS0" },
+          { id: 2, uri: "https://www.youtube.com/embed/xAOLrIid0zs" },
+          { id: 3, uri: "https://www.youtube.com/embed/EoyWPQkBHig" },
+          { id: 4, uri: "https://www.youtube.com/embed/Df6Y2G04FrI" },
+          { id: 5, uri: "https://www.youtube.com/embed/cc2WoNgLEis" }
         ]
       };
 
@@ -357,7 +385,10 @@ const GetProductData = (name) => {
           { id: 5, path: require("../assets/images/product/heat-shrink-ovens/key2-43.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -372,7 +403,10 @@ const GetProductData = (name) => {
           { id: 6, path: require("../assets/images/product/heavy-roll-handling-equipment/key4-13.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/XT_ACaL9ZpM" },
+          { id: 2, uri: "https://www.youtube.com/embed/SgDx42lEdOg" },
+          { id: 3, uri: "https://www.youtube.com/embed/LQUZXOq23E0" },
+          { id: 4, uri: "https://www.youtube.com/embed/SIAXjYucXVA" }
         ]
       };
 
@@ -406,7 +440,10 @@ const GetProductData = (name) => {
           { id: 25, path: require("../assets/images/product/industrial-doors/key9-4.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -432,7 +469,10 @@ const GetProductData = (name) => {
           { id: 17, path: require("../assets/images/product/industrial-filtration/key4-23.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -469,7 +509,10 @@ const GetProductData = (name) => {
           { id: 28, path: require("../assets/images/product/industrial-flooring-solutions/key9-3.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -483,7 +526,20 @@ const GetProductData = (name) => {
           { id: 5, path: require("../assets/images/product/industrial-hoses/5.webp") },
           { id: 6, path: require("../assets/images/product/industrial-hoses/6.webp") },
           { id: 7, path: require("../assets/images/product/industrial-hoses/7.webp") },
-          { id: 8, path: require("../assets/images/product/industrial-hoses/8.webp") }
+          { id: 8, path: require("../assets/images/product/industrial-hoses/8.webp") },
+          { id: 9, path: require("../assets/images/product/industrial-hoses/key1-1.webp") },
+          { id: 10, path: require("../assets/images/product/industrial-hoses/key10.webp") },
+          { id: 11, path: require("../assets/images/product/industrial-hoses/key11.webp") },
+          { id: 12, path: require("../assets/images/product/industrial-hoses/key12-1.webp") },
+          { id: 13, path: require("../assets/images/product/industrial-hoses/key13.webp") },
+          { id: 14, path: require("../assets/images/product/industrial-hoses/key2-1.webp") },
+          { id: 15, path: require("../assets/images/product/industrial-hoses/key3-1.webp") },
+          { id: 16, path: require("../assets/images/product/industrial-hoses/key4-1.webp") },
+          { id: 17, path: require("../assets/images/product/industrial-hoses/key5.webp") },
+          { id: 18, path: require("../assets/images/product/industrial-hoses/key6.webp") },
+          { id: 19, path: require("../assets/images/product/industrial-hoses/key7.webp") },
+          { id: 20, path: require("../assets/images/product/industrial-hoses/key8.webp") },
+          { id: 21, path: require("../assets/images/product/industrial-hoses/key9.webp") }
         ],
         videos: [
 
@@ -511,7 +567,11 @@ const GetProductData = (name) => {
           { id: 16, path: require("../assets/images/product/industrial-manipulator/9.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/0mdAV0fk1r8" },
+          { id: 2, uri: "https://www.youtube.com/embed/o8dlQ9rxVlo" },
+          { id: 3, uri: "https://www.youtube.com/embed/gNJVS_VH9jk" },
+          { id: 4, uri: "https://www.youtube.com/embed/5b6Yn5ggAEw" },
+          { id: 5, uri: "https://www.youtube.com/embed/-PaxWnAku6c" }
         ]
       };
 
@@ -530,7 +590,10 @@ const GetProductData = (name) => {
           { id: 10, path: require("../assets/images/product/industrial-springs/key4.webp") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -555,7 +618,10 @@ const GetProductData = (name) => {
           { id: 16, path: require("../assets/images/product/lean-system/key3-18.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/Ak2SfHoS1U0" },
+          { id: 2, uri: "https://www.youtube.com/embed/JJKEf6zFViQ" },
+          { id: 3, uri: "https://www.youtube.com/embed/9mmL0CGvbUY" },
+          { id: 4, uri: "https://www.youtube.com/embed/5M3StI3WTYs" }
         ]
       };
 
@@ -578,7 +644,10 @@ const GetProductData = (name) => {
           { id: 14, path: require("../assets/images/product/lifting-&-handling-robots/9.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/eUEw_akYEBU" },
+          { id: 2, uri: "https://www.youtube.com/embed/KQxu1Sfbw-M" },
+          { id: 3, uri: "https://www.youtube.com/embed/XrUaCZEfJ5s" },
+          { id: 4, uri: "https://www.youtube.com/embed/dwxIH2T-cIM" }
         ]
       };
 
@@ -588,7 +657,9 @@ const GetProductData = (name) => {
           { id: 1, path: require("../assets/images/product/magnetic-lifter/2-10.jpg") },
           { id: 2, path: require("../assets/images/product/magnetic-lifter/3-11.jpg") },
           { id: 3, path: require("../assets/images/product/magnetic-lifter/4-7.jpg") },
-          { id: 4, path: require("../assets/images/product/magnetic-lifter/7-6.jpg") }
+          { id: 4, path: require("../assets/images/product/magnetic-lifter/7-6.jpg") },
+          { id: 5, path: require("../assets/images/product/magnetic-lifter/key2-9.jpg") },
+          { id: 6, path: require("../assets/images/product/magnetic-lifter/m.jpg") }
         ],
         videos: [
 
@@ -612,7 +683,10 @@ const GetProductData = (name) => {
           { id: 12, path: require("../assets/images/product/mobile-lifters/key8-2.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/watch?v=177t5fnVEEc" },
+          { id: 2, uri: "https://www.youtube.com/watch?v=CBaGcb-1D1A" },
+          { id: 3, uri: "https://www.youtube.com/watch?v=x--FPIz6fE4" },
+          { id: 4, uri: "https://www.youtube.com/watch?v=r-dMHajkvg4" }
         ]
       };
 
@@ -627,7 +701,10 @@ const GetProductData = (name) => {
           { id: 6, path: require("../assets/images/product/nitrogen-generators/key2-1.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -647,7 +724,10 @@ const GetProductData = (name) => {
           { id: 11, path: require("../assets/images/product/oil-aspirators/universal-oil-58.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -664,7 +744,10 @@ const GetProductData = (name) => {
           { id: 8, path: require("../assets/images/product/oxygen-generators/key2.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -685,7 +768,10 @@ const GetProductData = (name) => {
           { id: 12, path: require("../assets/images/product/pallet-changer/key9-13.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/D6Mrypaib4Y" },
+          { id: 2, uri: "https://www.youtube.com/embed/pk5aaG17LcE" },
+          { id: 3, uri: "https://www.youtube.com/embed/u8z4CLHsIjo" },
+          { id: 4, uri: "https://www.youtube.com/embed/ao69b__gLrE" }
         ]
       };
 
@@ -710,7 +796,11 @@ const GetProductData = (name) => {
           { id: 16, path: require("../assets/images/product/pallet-exchanger-and-dispensers/key9-6.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/xSB9a0EhI1A" },
+          { id: 2, uri: "https://www.youtube.com/embed/s4WoQ4yQWh8" },
+          { id: 3, uri: "https://www.youtube.com/embed/e1-ic61iiEw" },
+          { id: 4, uri: "https://www.youtube.com/embed/4BXRuBI6l6I" },
+          { id: 5, uri: "https://www.youtube.com/embed/baxHNrHLwGk" }
         ]
       };
 
@@ -731,7 +821,10 @@ const GetProductData = (name) => {
           { id: 12, path: require("../assets/images/product/pallet-inverter/key9-15.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/D6Mrypaib4Y" },
+          { id: 2, uri: "https://www.youtube.com/embed/pk5aaG17LcE" },
+          { id: 3, uri: "https://www.youtube.com/embed/u8z4CLHsIjo" },
+          { id: 4, uri: "https://www.youtube.com/embed/ao69b__gLrE" }
         ]
       };
 
@@ -750,7 +843,11 @@ const GetProductData = (name) => {
           { id: 10, path: require("../assets/images/product/pile-turner/key6-11.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/watch?v=lR2vXd5-SLI" },
+          { id: 2, uri: "https://www.youtube.com/watch?v=lR2vXd5-SLI" },
+          { id: 3, uri: "https://www.youtube.com/watch?v=0j_dEH9Vp_o" },
+          { id: 4, uri: "https://www.youtube.com/watch?v=3OzOpqYOxIQ" },
+          { id: 5, uri: "https://www.youtube.com/watch?v=HwCYD5vJMXY" }
         ]
       };
 
@@ -770,7 +867,10 @@ const GetProductData = (name) => {
           { id: 11, path: require("../assets/images/product/pipe-vacuum-lifters/9.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/kMG2lIdKOoE" },
+          { id: 2, uri: "https://www.youtube.com/embed/3gNEoFJxIZA" },
+          { id: 3, uri: "https://www.youtube.com/embed/TyzIeP94Fbc" },
+          { id: 4, uri: "https://www.youtube.com/embed/4peJY0GajmI" }
         ]
       };
 
@@ -790,7 +890,10 @@ const GetProductData = (name) => {
           { id: 11, path: require("../assets/images/product/pressure-cleaning/key3-21.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -816,7 +919,10 @@ const GetProductData = (name) => {
           { id: 17, path: require("../assets/images/product/rotating-arm-wrapping/key9-20.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -840,7 +946,10 @@ const GetProductData = (name) => {
           { id: 15, path: require("../assets/images/product/rotating-table-wrapping/key9-19.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -867,7 +976,10 @@ const GetProductData = (name) => {
           { id: 18, path: require("../assets/images/product/safety-barriers/key9-21.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -892,7 +1004,10 @@ const GetProductData = (name) => {
           { id: 16, path: require("../assets/images/product/safety-lighting/key4-1.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -918,7 +1033,10 @@ const GetProductData = (name) => {
           { id: 17, path: require("../assets/images/product/scissor-lifters/key7.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/HvlPhxjNsqs" },
+          { id: 2, uri: "https://www.youtube.com/embed/mrF-zVwv35Y" },
+          { id: 3, uri: "https://www.youtube.com/embed/OxVAqxXkhX4" },
+          { id: 4, uri: "https://www.youtube.com/embed/V_uNwoHpZKU" }
         ]
       };
 
@@ -934,7 +1052,10 @@ const GetProductData = (name) => {
           { id: 7, path: require("../assets/images/product/sheet-metal-vacuum-lifters/Sheet-metal7.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 2, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" },
+          { id: 3, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 4, uri: "https://www.youtube.com/embed/9XrJzUoebus" }
         ]
       };
 
@@ -955,7 +1076,10 @@ const GetProductData = (name) => {
           { id: 12, path: require("../assets/images/product/shrink-wrap/SHRINKFAST-998-HEAT-GUN-2.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -979,7 +1103,10 @@ const GetProductData = (name) => {
           { id: 15, path: require("../assets/images/product/solar-panel-cleaning/key9-7.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -989,10 +1116,17 @@ const GetProductData = (name) => {
           { id: 1, path: require("../assets/images/product/spider-lifters/1.png") },
           { id: 2, path: require("../assets/images/product/spider-lifters/2.png") },
           { id: 3, path: require("../assets/images/product/spider-lifters/3.png") },
-          { id: 4, path: require("../assets/images/product/spider-lifters/4.png") }
+          { id: 4, path: require("../assets/images/product/spider-lifters/4.png") },
+          { id: 5, path: require("../assets/images/product/spider-lifters/key.jpg") },
+          { id: 6, path: require("../assets/images/product/spider-lifters/key2-16.jpg") },
+          { id: 7, path: require("../assets/images/product/spider-lifters/key3-15.jpg") },
+          { id: 8, path: require("../assets/images/product/spider-lifters/key4-6.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/qq-bpoRUYQE" },
+          { id: 2, uri: "https://www.youtube.com/embed/3N7kUakoOSA" },
+          { id: 3, uri: "https://www.youtube.com/embed/K0b9fWJxFHc" },
+          { id: 4, uri: "https://www.youtube.com/embed/kHT8_JC5jeo" }
         ]
       };
 
@@ -1018,7 +1152,10 @@ const GetProductData = (name) => {
           { id: 17, path: require("../assets/images/product/steam-cleaning/key9-12.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -1039,7 +1176,10 @@ const GetProductData = (name) => {
           { id: 12, path: require("../assets/images/product/stone-vacuum-lifters/Stonevacuum.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9lcbzs3c8ZM" },
+          { id: 2, uri: "https://www.youtube.com/embed/BjcjqRV2VdE" },
+          { id: 3, uri: "https://www.youtube.com/embed/Dm-0IO9JxXM" },
+          { id: 4, uri: "https://www.youtube.com/embed/T_sftBtImvo" }
         ]
       };
 
@@ -1056,7 +1196,10 @@ const GetProductData = (name) => {
           { id: 8, path: require("../assets/images/product/strapping-machine/8.png") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -1080,7 +1223,10 @@ const GetProductData = (name) => {
           { id: 15, path: require("../assets/images/product/sweeping-machine/key7-1.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -1102,7 +1248,7 @@ const GetProductData = (name) => {
           { id: 13, path: require("../assets/images/product/tool-balancer/9.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/HPBCyIjJqhA" }
         ]
       };
 
@@ -1129,7 +1275,10 @@ const GetProductData = (name) => {
           { id: 18, path: require("../assets/images/product/turbine-roof-ventilators/key9-8.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -1142,7 +1291,10 @@ const GetProductData = (name) => {
           { id: 4, path: require("../assets/images/product/vacuum-lifters-for-special-use/SPECIAL4.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/Gl4jK-vssbQ" },
+          { id: 2, uri: "https://www.youtube.com/embed/vIHgVnvzlns" },
+          { id: 3, uri: "https://www.youtube.com/embed/Dm-0IO9JxXM" },
+          { id: 4, uri: "https://www.youtube.com/embed/BlE7KYfwLbI" }
         ]
       };
 
@@ -1160,7 +1312,8 @@ const GetProductData = (name) => {
           { id: 9, path: require("../assets/images/product/vacuum-tube-lifters/9.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/0nTIuN2BopU" },
+          { id: 2, uri: "https://www.youtube.com/embed/UkPdZ8ZGSAs" }
         ]
       };
 
@@ -1177,7 +1330,40 @@ const GetProductData = (name) => {
           { id: 8, path: require("../assets/images/product/vehicle-aerial-platforms/8.png") }
         ],
         videos: [
+          { id: 1, uri: "https://www.youtube.com/embed/O9OCodcnOxU" },
+          { id: 2, uri: "https://www.youtube.com/embed/SRXiZTfOS2s" },
+          { id: 3, uri: "https://www.youtube.com/embed/yYRCOKw_PNU" },
+          { id: 4, uri: "https://www.youtube.com/embed/m-dIPC6LiZ8" },
+          { id: 5, uri: "https://www.youtube.com/embed/Gz9B_Lvwgwk" }
+        ]
+      };
 
+    case "visual-management-tools":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/visual-management-tools/1-20.jpg") },
+          { id: 2, path: require("../assets/images/product/visual-management-tools/10-5.jpg") },
+          { id: 3, path: require("../assets/images/product/visual-management-tools/2-19.jpg") },
+          { id: 4, path: require("../assets/images/product/visual-management-tools/3-20.jpg") },
+          { id: 5, path: require("../assets/images/product/visual-management-tools/4-16.jpg") },
+          { id: 6, path: require("../assets/images/product/visual-management-tools/5-16.jpg") },
+          { id: 7, path: require("../assets/images/product/visual-management-tools/6-10.jpg") },
+          { id: 8, path: require("../assets/images/product/visual-management-tools/7-12.jpg") },
+          { id: 9, path: require("../assets/images/product/visual-management-tools/8-8.jpg") },
+          { id: 10, path: require("../assets/images/product/visual-management-tools/9-4.jpg") },
+          { id: 11, path: require("../assets/images/product/visual-management-tools/key1-21.jpg") },
+          { id: 12, path: require("../assets/images/product/visual-management-tools/key2-20.jpg") },
+          { id: 13, path: require("../assets/images/product/visual-management-tools/key3-19.jpg") },
+          { id: 14, path: require("../assets/images/product/visual-management-tools/key4-8.jpg") },
+          { id: 15, path: require("../assets/images/product/visual-management-tools/key5-3.jpg") },
+          { id: 16, path: require("../assets/images/product/visual-management-tools/key6-3.jpg") },
+          { id: 17, path: require("../assets/images/product/visual-management-tools/key7-3.jpg") }
+        ],
+        videos: [
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 
@@ -1195,7 +1381,10 @@ const GetProductData = (name) => {
           { id: 9, path: require("../assets/images/product/wrapping-robots/key5-30.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/9XrJzUoebus" },
+          { id: 2, uri: "https://www.youtube.com/embed/fWRfIyQywbo" },
+          { id: 3, uri: "https://www.youtube.com/embed/7eSW_sBQid0" },
+          { id: 4, uri: "https://www.youtube.com/embed/bvbGNG1K7jI" }
         ]
       };
 

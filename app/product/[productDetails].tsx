@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import {
   Dimensions,
   FlatList,
@@ -25,24 +25,6 @@ interface VideoData {
 const ProductDetails: React.FC = () => {
   const { productDetails } = useLocalSearchParams<{ productDetails: string }>();
   const productData = GetProductData(productDetails);
-  const videoData: VideoData[] = [
-    {
-      id: 1,
-      uri: "https://www.youtube.com/embed/0mdAV0fk1r8?si=1--oU4nH5ioJUo_1",
-    },
-    {
-      id: 2,
-      uri: "https://youtu.be/kN3vhw0Hvc8?si=2DryDdeGMqIklrLv",
-    },
-    {
-      id: 3,
-      uri: "https://www.youtube.com/embed/0mdAV0fk1r8?si=1--oU4nH5ioJUo_1",
-    },
-    {
-      id: 4,
-      uri: "https://www.youtube.com/embed/0mdAV0fk1r8?si=1--oU4nH5ioJUo_1",
-    },
-  ];
   const numColumns = 3;
   const itemWidth = Dimensions.get("window").width / numColumns - 40;
 
