@@ -4,37 +4,28 @@ import ProductCard from "@/src/components/productCard";
 import { useLocalSearchParams, useRouter } from "expo-router";
 import { getProductInCategory } from "../../src/utils";
 
-const CategoryPage = () => {
-  const { categoryName } = useLocalSearchParams();
-  const categoryDetails = getProductInCategory(categoryName);
+const SubCategoryPage = () => {
+  const { subCategoryName, categoryName } = useLocalSearchParams();
+  const categoryDetails = getProductInCategory(categoryName)?.products.find(
+    (product) => product.name === subCategoryName
+  );
   const router = useRouter();
-
   return (
     <ScrollView style={styles.container}>
       <View style={styles.title}>
-        <Text style={styles.titleText}>{categoryName}</Text>
+        <Text style={styles.titleText}>{subCategoryName}</Text>
       </View>
       <View style={styles.cardContainer}>
-        {categoryDetails?.products?.map((product, index) => (
+        {categoryDetails?.subCategories?.map((sub, index) => (
           <ProductCard
             key={index}
-            title={product.name}
-            onPress={() => {
-              if (product?.subCategories?.length > 0) {
-                router.push({
-                  pathname: `/subCategory/[subCategoryName]`,
-                  params: {
-                    subCategoryName: product.name,
-                    categoryName: categoryName,
-                  },
-                });
-              } else {
-                router.push({
-                  pathname: `/product/[productDetails]`,
-                  params: { productDetails: product.name },
-                });
-              }
-            }}
+            title={sub.name}
+            onPress={() =>
+              router.push({
+                pathname: `/product/[productDetails]`,
+                params: { productDetails: sub.name },
+              })
+            }
           />
         ))}
       </View>
@@ -42,7 +33,7 @@ const CategoryPage = () => {
   );
 };
 
-export default CategoryPage;
+export default SubCategoryPage;
 
 const styles = StyleSheet.create({
   container: {

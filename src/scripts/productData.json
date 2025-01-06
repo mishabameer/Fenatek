@@ -174,39 +174,39 @@
         ],
         "videos": []
     },
-    "cladding-vacuum-lifters": {
+    "cladding-panel-lifters": {
         "images": [
             {
                 "id": 1,
-                "path": "../assets/images/product/cladding-vacuum-lifters/1.jpg"
+                "path": "../assets/images/product/cladding-panel-lifters/1.jpg"
             },
             {
                 "id": 2,
-                "path": "../assets/images/product/cladding-vacuum-lifters/2.jpg"
+                "path": "../assets/images/product/cladding-panel-lifters/2.jpg"
             },
             {
                 "id": 3,
-                "path": "../assets/images/product/cladding-vacuum-lifters/3.jpg"
+                "path": "../assets/images/product/cladding-panel-lifters/3.jpg"
             },
             {
                 "id": 4,
-                "path": "../assets/images/product/cladding-vacuum-lifters/4.jpg"
+                "path": "../assets/images/product/cladding-panel-lifters/4.jpg"
             },
             {
                 "id": 5,
-                "path": "../assets/images/product/cladding-vacuum-lifters/5.jpg"
+                "path": "../assets/images/product/cladding-panel-lifters/5.jpg"
             },
             {
                 "id": 6,
-                "path": "../assets/images/product/cladding-vacuum-lifters/6.jpg"
+                "path": "../assets/images/product/cladding-panel-lifters/6.jpg"
             },
             {
                 "id": 7,
-                "path": "../assets/images/product/cladding-vacuum-lifters/7.jpg"
+                "path": "../assets/images/product/cladding-panel-lifters/7.jpg"
             },
             {
                 "id": 8,
-                "path": "../assets/images/product/cladding-vacuum-lifters/8.jpg"
+                "path": "../assets/images/product/cladding-panel-lifters/8.jpg"
             }
         ],
         "videos": []
@@ -301,75 +301,75 @@
         ],
         "videos": []
     },
-    "drum-handling": {
+    "drum-handling-solutions": {
         "images": [
             {
                 "id": 1,
-                "path": "../assets/images/product/drum-handling/1.webp"
+                "path": "../assets/images/product/drum-handling-solutions/1.webp"
             },
             {
                 "id": 2,
-                "path": "../assets/images/product/drum-handling/14_lg.webp"
+                "path": "../assets/images/product/drum-handling-solutions/14_lg.webp"
             },
             {
                 "id": 3,
-                "path": "../assets/images/product/drum-handling/160_lg.webp"
+                "path": "../assets/images/product/drum-handling-solutions/160_lg.webp"
             },
             {
                 "id": 4,
-                "path": "../assets/images/product/drum-handling/195a-1-115_lg.webp"
+                "path": "../assets/images/product/drum-handling-solutions/195a-1-115_lg.webp"
             },
             {
                 "id": 5,
-                "path": "../assets/images/product/drum-handling/24_lg.webp"
+                "path": "../assets/images/product/drum-handling-solutions/24_lg.webp"
             },
             {
                 "id": 6,
-                "path": "../assets/images/product/drum-handling/285a-bp_lg.webp"
+                "path": "../assets/images/product/drum-handling-solutions/285a-bp_lg.webp"
             },
             {
                 "id": 7,
-                "path": "../assets/images/product/drum-handling/305-video_lg.webp"
+                "path": "../assets/images/product/drum-handling-solutions/305-video_lg.webp"
             },
             {
                 "id": 8,
-                "path": "../assets/images/product/drum-handling/309-3_lg.webp"
+                "path": "../assets/images/product/drum-handling-solutions/309-3_lg.webp"
             },
             {
                 "id": 9,
-                "path": "../assets/images/product/drum-handling/400s-xr-115_lg02.png"
+                "path": "../assets/images/product/drum-handling-solutions/400s-xr-115_lg02.png"
             },
             {
                 "id": 10,
-                "path": "../assets/images/product/drum-handling/456-3_lg.webp"
+                "path": "../assets/images/product/drum-handling-solutions/456-3_lg.webp"
             },
             {
                 "id": 11,
-                "path": "../assets/images/product/drum-handling/46_lg.webp"
+                "path": "../assets/images/product/drum-handling-solutions/46_lg.webp"
             },
             {
                 "id": 12,
-                "path": "../assets/images/product/drum-handling/510-115_lg03.webp"
+                "path": "../assets/images/product/drum-handling-solutions/510-115_lg03.webp"
             },
             {
                 "id": 13,
-                "path": "../assets/images/product/drum-handling/620-115_lg.webp"
+                "path": "../assets/images/product/drum-handling-solutions/620-115_lg.webp"
             },
             {
                 "id": 14,
-                "path": "../assets/images/product/drum-handling/825h-n-125_lg02.webp"
+                "path": "../assets/images/product/drum-handling-solutions/825h-n-125_lg02.webp"
             },
             {
                 "id": 15,
-                "path": "../assets/images/product/drum-handling/82a-gt-125_lg.webp"
+                "path": "../assets/images/product/drum-handling-solutions/82a-gt-125_lg.webp"
             },
             {
                 "id": 16,
-                "path": "../assets/images/product/drum-handling/82am_lg.webp"
+                "path": "../assets/images/product/drum-handling-solutions/82am_lg.webp"
             },
             {
                 "id": 17,
-                "path": "../assets/images/product/drum-handling/83_lg.webp"
+                "path": "../assets/images/product/drum-handling-solutions/83_lg.webp"
             }
         ],
         "videos": []

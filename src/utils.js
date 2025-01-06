@@ -8,10 +8,10 @@ export const getProductInCategory = (catName) => {
           {
             id: 101,
             name: "Vacuum Lifting",
-            subcategories: [
+            subCategories: [
               { id: 1011, name: "Glass vacuum Lifters" },
               { id: 1012, name: "Sheet metal Vacuum Lifters" },
-              { id: 1013, name: "Sandwich / Cladding panel lifters" },
+              { id: 1013, name: "Cladding panel lifters" },
               { id: 1014, name: "Stone vacuum lifters" },
               { id: 1015, name: "Vacuum lifters for special use" },
             ],
