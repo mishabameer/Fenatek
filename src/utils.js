@@ -24,11 +24,42 @@ export const getProductInCategory = (catName) => {
           { id: 107, name: "Crane System" },
           { id: 108, name: "Gantry Cranes" },
           { id: 109, name: "Magnetic Lifter" },
-          { id: 110, name: "Tugs" },
-          { id: 112, name: "Warehousing Solutions" },
-          { id: 113, name: "Lifters" },
+          {
+            id: 110,
+            name: "Tugs",
+            subCategories: [
+              { id: 1101, name: "Electric Tugs" },
+              { id: 1102, name: "Aircraft Tugs" },
+            ],
+          },
+          {
+            id: 112,
+            name: "Warehousing Solutions",
+            subCategories: [
+              { id: 1121, name: "Lean System" },
+              { id: 1122, name: "Automated Vertical Storage" },
+            ],
+          },
+          {
+            id: 113,
+            name: "Lifters",
+            subCategories: [
+              { id: 1131, name: "Scissor Lifters" },
+              { id: 1132, name: "Mobile Lifters" },
+              { id: 1132, name: "Heavy Roll Handling Equipment" },
+            ],
+          },
           { id: 114, name: "Drum Handling Solutions" },
-          { id: 115, name: "Pallet Handling" },
+          {
+            id: 115,
+            name: "Pallet Handling",
+            subCategories: [
+              { id: 1151, name: "Pallet Inverter" },
+              { id: 1152, name: "Pallet Changer" },
+              { id: 1153, name: "Pile Turner" },
+              { id: 1154, name: "Pallet Exchanger and Dispensers" },
+            ],
+          },
           { id: 116, name: "Conveyor System" },
         ],
       };

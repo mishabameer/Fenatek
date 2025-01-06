@@ -68,55 +68,55 @@
         ],
         "videos": []
     },
-    "automated-vertical-storage-system": {
+    "automated-vertical-storage": {
         "images": [
             {
                 "id": 1,
-                "path": "../assets/images/product/automated-vertical-storage-system/1-2.png"
+                "path": "../assets/images/product/automated-vertical-storage/1-2.png"
             },
             {
                 "id": 2,
-                "path": "../assets/images/product/automated-vertical-storage-system/1Normal.png"
+                "path": "../assets/images/product/automated-vertical-storage/1Normal.png"
             },
             {
                 "id": 3,
-                "path": "../assets/images/product/automated-vertical-storage-system/2-1.png"
+                "path": "../assets/images/product/automated-vertical-storage/2-1.png"
             },
             {
                 "id": 4,
-                "path": "../assets/images/product/automated-vertical-storage-system/2-2.png"
+                "path": "../assets/images/product/automated-vertical-storage/2-2.png"
             },
             {
                 "id": 5,
-                "path": "../assets/images/product/automated-vertical-storage-system/3-1.png"
+                "path": "../assets/images/product/automated-vertical-storage/3-1.png"
             },
             {
                 "id": 6,
-                "path": "../assets/images/product/automated-vertical-storage-system/3-2.png"
+                "path": "../assets/images/product/automated-vertical-storage/3-2.png"
             },
             {
                 "id": 7,
-                "path": "../assets/images/product/automated-vertical-storage-system/4-3.png"
+                "path": "../assets/images/product/automated-vertical-storage/4-3.png"
             },
             {
                 "id": 8,
-                "path": "../assets/images/product/automated-vertical-storage-system/6-1.png"
+                "path": "../assets/images/product/automated-vertical-storage/6-1.png"
             },
             {
                 "id": 9,
-                "path": "../assets/images/product/automated-vertical-storage-system/key1-2.png"
+                "path": "../assets/images/product/automated-vertical-storage/key1-2.png"
             },
             {
                 "id": 10,
-                "path": "../assets/images/product/automated-vertical-storage-system/key2-2.png"
+                "path": "../assets/images/product/automated-vertical-storage/key2-2.png"
             },
             {
                 "id": 11,
-                "path": "../assets/images/product/automated-vertical-storage-system/key3-2.png"
+                "path": "../assets/images/product/automated-vertical-storage/key3-2.png"
             },
             {
                 "id": 12,
-                "path": "../assets/images/product/automated-vertical-storage-system/key5-2.png"
+                "path": "../assets/images/product/automated-vertical-storage/key5-2.png"
             }
         ],
         "videos": []
@@ -1790,124 +1790,124 @@
         ],
         "videos": []
     },
-    "pallet-exchanger-dispensers": {
+    "pallet-exchanger-and-dispensers": {
         "images": [
             {
                 "id": 1,
-                "path": "../assets/images/product/pallet-exchanger-dispensers/1-22.jpg"
+                "path": "../assets/images/product/pallet-exchanger-and-dispensers/1-22.jpg"
             },
             {
                 "id": 2,
-                "path": "../assets/images/product/pallet-exchanger-dispensers/1-23.jpg"
+                "path": "../assets/images/product/pallet-exchanger-and-dispensers/1-23.jpg"
             },
             {
                 "id": 3,
-                "path": "../assets/images/product/pallet-exchanger-dispensers/2-22.jpg"
+                "path": "../assets/images/product/pallet-exchanger-and-dispensers/2-22.jpg"
             },
             {
                 "id": 4,
-                "path": "../assets/images/product/pallet-exchanger-dispensers/2-23.jpg"
+                "path": "../assets/images/product/pallet-exchanger-and-dispensers/2-23.jpg"
             },
             {
                 "id": 5,
-                "path": "../assets/images/product/pallet-exchanger-dispensers/3-22.jpg"
+                "path": "../assets/images/product/pallet-exchanger-and-dispensers/3-22.jpg"
             },
             {
                 "id": 6,
-                "path": "../assets/images/product/pallet-exchanger-dispensers/3-23.jpg"
+                "path": "../assets/images/product/pallet-exchanger-and-dispensers/3-23.jpg"
             },
             {
                 "id": 7,
-                "path": "../assets/images/product/pallet-exchanger-dispensers/key1-25.jpg"
+                "path": "../assets/images/product/pallet-exchanger-and-dispensers/key1-25.jpg"
             },
             {
                 "id": 8,
-                "path": "../assets/images/product/pallet-exchanger-dispensers/key10-5.jpg"
+                "path": "../assets/images/product/pallet-exchanger-and-dispensers/key10-5.jpg"
             },
             {
                 "id": 9,
-                "path": "../assets/images/product/pallet-exchanger-dispensers/key2-21.jpg"
+                "path": "../assets/images/product/pallet-exchanger-and-dispensers/key2-21.jpg"
             },
             {
                 "id": 10,
-                "path": "../assets/images/product/pallet-exchanger-dispensers/key3-19.jpg"
+                "path": "../assets/images/product/pallet-exchanger-and-dispensers/key3-19.jpg"
             },
             {
                 "id": 11,
-                "path": "../assets/images/product/pallet-exchanger-dispensers/key4-16.jpg"
+                "path": "../assets/images/product/pallet-exchanger-and-dispensers/key4-16.jpg"
             },
             {
                 "id": 12,
-                "path": "../assets/images/product/pallet-exchanger-dispensers/key5-13.jpg"
+                "path": "../assets/images/product/pallet-exchanger-and-dispensers/key5-13.jpg"
             },
             {
                 "id": 13,
-                "path": "../assets/images/product/pallet-exchanger-dispensers/key6-12.jpg"
+                "path": "../assets/images/product/pallet-exchanger-and-dispensers/key6-12.jpg"
             },
             {
                 "id": 14,
-                "path": "../assets/images/product/pallet-exchanger-dispensers/key7-8.jpg"
+                "path": "../assets/images/product/pallet-exchanger-and-dispensers/key7-8.jpg"
             },
             {
                 "id": 15,
-                "path": "../assets/images/product/pallet-exchanger-dispensers/key8-6.jpg"
+                "path": "../assets/images/product/pallet-exchanger-and-dispensers/key8-6.jpg"
             },
             {
                 "id": 16,
-                "path": "../assets/images/product/pallet-exchanger-dispensers/key9-6.jpg"
+                "path": "../assets/images/product/pallet-exchanger-and-dispensers/key9-6.jpg"
             }
         ],
         "videos": []
     },
-    "pallet-inverter-changer": {
+    "pallet-inverter": {
         "images": [
             {
                 "id": 1,
-                "path": "../assets/images/product/pallet-inverter-changer/2-19.jpg"
+                "path": "../assets/images/product/pallet-inverter/2-19.jpg"
             },
             {
                 "id": 2,
-                "path": "../assets/images/product/pallet-inverter-changer/3-19.jpg"
+                "path": "../assets/images/product/pallet-inverter/3-19.jpg"
             },
             {
                 "id": 3,
-                "path": "../assets/images/product/pallet-inverter-changer/4-15.jpg"
+                "path": "../assets/images/product/pallet-inverter/4-15.jpg"
             },
             {
                 "id": 4,
-                "path": "../assets/images/product/pallet-inverter-changer/key1-38.jpg"
+                "path": "../assets/images/product/pallet-inverter/key1-38.jpg"
             },
             {
                 "id": 5,
-                "path": "../assets/images/product/pallet-inverter-changer/key2-34.jpg"
+                "path": "../assets/images/product/pallet-inverter/key2-34.jpg"
             },
             {
                 "id": 6,
-                "path": "../assets/images/product/pallet-inverter-changer/key3-32.jpg"
+                "path": "../assets/images/product/pallet-inverter/key3-32.jpg"
             },
             {
                 "id": 7,
-                "path": "../assets/images/product/pallet-inverter-changer/key4-27.jpg"
+                "path": "../assets/images/product/pallet-inverter/key4-27.jpg"
             },
             {
                 "id": 8,
-                "path": "../assets/images/product/pallet-inverter-changer/key5-24.jpg"
+                "path": "../assets/images/product/pallet-inverter/key5-24.jpg"
             },
             {
                 "id": 9,
-                "path": "../assets/images/product/pallet-inverter-changer/key6-23.jpg"
+                "path": "../assets/images/product/pallet-inverter/key6-23.jpg"
             },
             {
                 "id": 10,
-                "path": "../assets/images/product/pallet-inverter-changer/key7-18.jpg"
+                "path": "../assets/images/product/pallet-inverter/key7-18.jpg"
             },
             {
                 "id": 11,
-                "path": "../assets/images/product/pallet-inverter-changer/key8-15.jpg"
+                "path": "../assets/images/product/pallet-inverter/key8-15.jpg"
             },
             {
                 "id": 12,
-                "path": "../assets/images/product/pallet-inverter-changer/key9-15.jpg"
+                "path": "../assets/images/product/pallet-inverter/key9-15.jpg"
             }
         ],
         "videos": []
