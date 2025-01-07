@@ -299,6 +299,308 @@
             }
         ]
     },
+    "clamps-and-pliers": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/clamps-and-pliers/1-6.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/clamps-and-pliers/10.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/clamps-and-pliers/11.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/clamps-and-pliers/13.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/clamps-and-pliers/14.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/clamps-and-pliers/15.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/clamps-and-pliers/3-6.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/clamps-and-pliers/4-5.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/clamps-and-pliers/5-3.jpg"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/clamps-and-pliers/6-3.jpg"
+            },
+            {
+                "id": 11,
+                "path": "../assets/images/product/clamps-and-pliers/7-1.jpg"
+            },
+            {
+                "id": 12,
+                "path": "../assets/images/product/clamps-and-pliers/9.jpg"
+            },
+            {
+                "id": 13,
+                "path": "../assets/images/product/clamps-and-pliers/key1-11.jpg"
+            },
+            {
+                "id": 14,
+                "path": "../assets/images/product/clamps-and-pliers/key2-7.jpg"
+            },
+            {
+                "id": 15,
+                "path": "../assets/images/product/clamps-and-pliers/key3-5.jpg"
+            },
+            {
+                "id": 16,
+                "path": "../assets/images/product/clamps-and-pliers/key4-3.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
+            }
+        ]
+    },
+    "cnc-laser-cutting-machine": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/cnc-laser-cutting-machine/1-44.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/cnc-laser-cutting-machine/2-43.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/cnc-laser-cutting-machine/3-42.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
+            }
+        ]
+    },
+    "cnc-plasma-gas-cutting-machine": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/1-47.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/1-48.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/1-49.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/1-50.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/10-7.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/11-4.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/12-4.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/13-3.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/14-3.jpg"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/15-3.jpg"
+            },
+            {
+                "id": 11,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/16-2.jpg"
+            },
+            {
+                "id": 12,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/17-1.jpg"
+            },
+            {
+                "id": 13,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/18.jpg"
+            },
+            {
+                "id": 14,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/19.jpg"
+            },
+            {
+                "id": 15,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/2-46.jpg"
+            },
+            {
+                "id": 16,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/2-47.jpg"
+            },
+            {
+                "id": 17,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/2-48.jpg"
+            },
+            {
+                "id": 18,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/2-49.jpg"
+            },
+            {
+                "id": 19,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/20.jpg"
+            },
+            {
+                "id": 20,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/3-45.jpg"
+            },
+            {
+                "id": 21,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/3-46.jpg"
+            },
+            {
+                "id": 22,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/3-47.jpg"
+            },
+            {
+                "id": 23,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/3-48.jpg"
+            },
+            {
+                "id": 24,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/4-34.jpg"
+            },
+            {
+                "id": 25,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/4-35.jpg"
+            },
+            {
+                "id": 26,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/4-36.jpg"
+            },
+            {
+                "id": 27,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/5-24.jpg"
+            },
+            {
+                "id": 28,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/5-25.jpg"
+            },
+            {
+                "id": 29,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/5-26.jpg"
+            },
+            {
+                "id": 30,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/5-27.jpg"
+            },
+            {
+                "id": 31,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/6-16.jpg"
+            },
+            {
+                "id": 32,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/7-9.jpg"
+            },
+            {
+                "id": 33,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/8-8.jpg"
+            },
+            {
+                "id": 34,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/9-5.jpg"
+            },
+            {
+                "id": 35,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/key1-51.jpg"
+            },
+            {
+                "id": 36,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/key2-46.jpg"
+            },
+            {
+                "id": 37,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/key3-42.jpg"
+            },
+            {
+                "id": 38,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/key4-37.jpg"
+            },
+            {
+                "id": 39,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/key5-33.jpg"
+            },
+            {
+                "id": 40,
+                "path": "../assets/images/product/cnc-plasma-gas-cutting-machine/key6-31.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
+            }
+        ]
+    },
     "conveyor-system": {
         "images": [
             {
@@ -416,6 +718,84 @@
             {
                 "id": 3,
                 "uri": "https://fenatek.com/wp-content/uploads/2024/10/IMG_6704.mp4"
+            }
+        ]
+    },
+    "cutting-and-machining-tools": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/cutting-and-machining-tools/1-27.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/cutting-and-machining-tools/10-4.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/cutting-and-machining-tools/12-2.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/cutting-and-machining-tools/2-27.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/cutting-and-machining-tools/3-26.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/cutting-and-machining-tools/5-13.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/cutting-and-machining-tools/8-4.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/cutting-and-machining-tools/9-4.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/cutting-and-machining-tools/key1-29.jpg"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/cutting-and-machining-tools/key2-25.jpg"
+            },
+            {
+                "id": 11,
+                "path": "../assets/images/product/cutting-and-machining-tools/key3-23.jpg"
+            },
+            {
+                "id": 12,
+                "path": "../assets/images/product/cutting-and-machining-tools/key4-19.jpg"
+            },
+            {
+                "id": 13,
+                "path": "../assets/images/product/cutting-and-machining-tools/key5-16.jpg"
+            },
+            {
+                "id": 14,
+                "path": "../assets/images/product/cutting-and-machining-tools/key6-15.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
             }
         ]
     },
@@ -689,19 +1069,19 @@
         "videos": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "uri": "https://www.youtube.com/embed/s5mR1RJ_BRY"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "uri": "https://www.youtube.com/embed/Dd5uX7fuRjc"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
+                "uri": "https://www.youtube.com/embed/bxsrD2H-oOY"
             },
             {
                 "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "uri": "https://www.youtube.com/embed/z2t9IsWPH7Y"
             }
         ]
     },
@@ -795,19 +1175,93 @@
         "videos": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "uri": "https://www.youtube.com/embed/32hClgdtUtE"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "uri": "https://www.youtube.com/embed/6t_XIU0emgc"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
+                "uri": "https://www.youtube.com/embed/ShneRdNe1N0"
             },
             {
                 "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "uri": "https://www.youtube.com/embed/gEF93xKsRaU"
+            },
+            {
+                "id": 5,
+                "uri": "https://www.youtube.com/embed/WImtOoJx3YM"
+            }
+        ]
+    },
+    "electric-tapping-machine": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/electric-tapping-machine/1-45.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/electric-tapping-machine/1-46.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/electric-tapping-machine/2-44.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/electric-tapping-machine/2-45.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/electric-tapping-machine/3-43.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/electric-tapping-machine/3-44.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/electric-tapping-machine/4-32.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/electric-tapping-machine/4-33.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/electric-tapping-machine/5-23.jpg"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/electric-tapping-machine/6-15.jpg"
+            },
+            {
+                "id": 11,
+                "path": "../assets/images/product/electric-tapping-machine/7-8.jpg"
+            },
+            {
+                "id": 12,
+                "path": "../assets/images/product/electric-tapping-machine/8-7.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
             }
         ]
     },
@@ -910,6 +1364,52 @@
             {
                 "id": 5,
                 "uri": "https://www.youtube.com/embed/7T-wgsdXQB0"
+            }
+        ]
+    },
+    "fastener-insertion-machine": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/fastener-insertion-machine/1-14.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/fastener-insertion-machine/2-13.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/fastener-insertion-machine/3-14.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/fastener-insertion-machine/4-10.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/fastener-insertion-machine/key1-12.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/fastener-insertion-machine/key2-12.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
             }
         ]
     },
@@ -1157,19 +1657,15 @@
         "videos": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "uri": "https://www.youtube.com/watch?v=mmMb9tdiAno"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "uri": "https://www.youtube.com/watch?v=9q9AqqrGUK0"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
-            },
-            {
-                "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "uri": "https://www.youtube.com/watch?v=k64EAlwXmHU"
             }
         ]
     },
@@ -1325,19 +1821,19 @@
         "videos": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "uri": "https://www.youtube.com/embed/wwy36F9d-Xs"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "uri": "https://www.youtube.com/embed/JLrCjloi9tY"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
+                "uri": "https://www.youtube.com/embed/N3JNCbfOdzU"
             },
             {
                 "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "uri": "https://www.youtube.com/embed/7ANFUAMuAn4"
             }
         ]
     },
@@ -1412,24 +1908,7 @@
                 "path": "../assets/images/product/industrial-filtration/key4-23.jpg"
             }
         ],
-        "videos": [
-            {
-                "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
-            },
-            {
-                "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
-            },
-            {
-                "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
-            },
-            {
-                "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
-            }
-        ]
+        "videos": []
     },
     "industrial-flooring-solutions": {
         "images": [
@@ -1549,19 +2028,19 @@
         "videos": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "uri": "https://www.youtube.com/embed/ymgV5wCuxZU"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "uri": "https://www.youtube.com/embed/rr00f59xfgs"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
+                "uri": "https://www.youtube.com/embed/c-cUGXVBRs8"
             },
             {
                 "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "uri": "https://www.youtube.com/embed/9ffplC0qG7Q"
             }
         ]
     },
@@ -1787,22 +2266,229 @@
                 "path": "../assets/images/product/industrial-springs/key4.webp"
             }
         ],
-        "videos": [
+        "videos": []
+    },
+    "laser-cleaning-machine": {
+        "images": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "path": "../assets/images/product/laser-cleaning-machine/1-10.jpg"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "path": "../assets/images/product/laser-cleaning-machine/2-9.jpg"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
+                "path": "../assets/images/product/laser-cleaning-machine/3-9.jpg"
             },
             {
                 "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "path": "../assets/images/product/laser-cleaning-machine/4-6.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/laser-cleaning-machine/5-8.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/laser-cleaning-machine/7-5.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/laser-cleaning-machine/key1-8.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/laser-cleaning-machine/key2-8.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/laser-cleaning-machine/key3-8.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
+            }
+        ]
+    },
+    "laser-cutting-machine": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/laser-cutting-machine/1-12.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/laser-cutting-machine/2-11.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/laser-cutting-machine/3-12.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/laser-cutting-machine/4-8.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/laser-cutting-machine/5-10.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/laser-cutting-machine/6-4.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/laser-cutting-machine/key1-10.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/laser-cutting-machine/key2-10.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/laser-cutting-machine/key3-9.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
+            }
+        ]
+    },
+    "laser-marking": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/laser-marking/1-16.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/laser-marking/2-15.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/laser-marking/3-16.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/laser-marking/4-12.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/laser-marking/5-13.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
+            }
+        ]
+    },
+    "laser-welding-machines": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/laser-welding-machines/1-17.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/laser-welding-machines/2-16.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/laser-welding-machines/3-17.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/laser-welding-machines/4-13.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/laser-welding-machines/5-14.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/laser-welding-machines/6-7.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/laser-welding-machines/7-9.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/laser-welding-machines/key1-14.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/laser-welding-machines/key2-14.jpg"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/laser-welding-machines/key3-12.jpg"
+            },
+            {
+                "id": 11,
+                "path": "../assets/images/product/laser-welding-machines/key4-4.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
             }
         ]
     },
@@ -1999,6 +2685,120 @@
         ],
         "videos": []
     },
+    "magnets-for-positioning-and-holding": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/1-43.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/2-41.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/2-42.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/3-41.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/4-31.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/5-21.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/6-14.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/7-7.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/8-6.jpg"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/key1-50.jpg"
+            },
+            {
+                "id": 11,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/key10-14.jpg"
+            },
+            {
+                "id": 12,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/key11-8.jpg"
+            },
+            {
+                "id": 13,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/key12-7.jpg"
+            },
+            {
+                "id": 14,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/key13-7.jpg"
+            },
+            {
+                "id": 15,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/key14-4.jpg"
+            },
+            {
+                "id": 16,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/key15-3.jpg"
+            },
+            {
+                "id": 17,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/key3-41.jpg"
+            },
+            {
+                "id": 18,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/key4-36.jpg"
+            },
+            {
+                "id": 19,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/key5-32.jpg"
+            },
+            {
+                "id": 20,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/key6-30.jpg"
+            },
+            {
+                "id": 21,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/key7-25.jpg"
+            },
+            {
+                "id": 22,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/key8-22.jpg"
+            },
+            {
+                "id": 23,
+                "path": "../assets/images/product/magnets-for-positioning-and-holding/key9-22.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
+            }
+        ]
+    },
     "mobile-lifters": {
         "images": [
             {
@@ -2069,6 +2869,94 @@
             }
         ]
     },
+    "mobile-working-stations": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/mobile-working-stations/1-5.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/mobile-working-stations/2-4.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/mobile-working-stations/3-4.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/mobile-working-stations/key1-15.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/mobile-working-stations/key2-4.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/mobile-working-stations/key3-13.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/mobile-working-stations/key3-4.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": "https://www.youtube.com/embed/EikRMWT2kyI"
+            },
+            {
+                "id": 2,
+                "uri": "https://www.youtube.com/embed/heHFOQPY-0w"
+            },
+            {
+                "id": 3,
+                "uri": "https://www.youtube.com/embed/guaYbfTvUr4"
+            },
+            {
+                "id": 4,
+                "uri": "https://www.youtube.com/embed/FtWOQ3Jdpsk"
+            }
+        ]
+    },
+    "multitapper-machine": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/multitapper-machine/1-37.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/multitapper-machine/key1-35.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/multitapper-machine/key2-31.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/multitapper-machine/key3-29.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
+            }
+        ]
+    },
     "nitrogen-generators": {
         "images": [
             {
@@ -2096,24 +2984,7 @@
                 "path": "../assets/images/product/nitrogen-generators/key2-1.jpg"
             }
         ],
-        "videos": [
-            {
-                "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
-            },
-            {
-                "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
-            },
-            {
-                "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
-            },
-            {
-                "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
-            }
-        ]
+        "videos": []
     },
     "oil-aspirators": {
         "images": [
@@ -2165,19 +3036,19 @@
         "videos": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "uri": "https://www.youtube.com/embed/s5mR1RJ_BRY"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "uri": "https://www.youtube.com/embed/Dd5uX7fuRjc"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
+                "uri": "https://www.youtube.com/embed/z2t9IsWPH7Y"
             },
             {
                 "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "uri": "https://www.youtube.com/embed/bxsrD2H-oOY"
             }
         ]
     },
@@ -2219,19 +3090,19 @@
         "videos": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "uri": "https://www.youtube.com/embed/FiPQXCgDY-k"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "uri": "https://www.youtube.com/embed/f04uLhqIqkk"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
+                "uri": "https://www.youtube.com/embed/A3pEu7CAXT8"
             },
             {
                 "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "uri": "https://www.youtube.com/embed/E61hXl-5D88"
             }
         ]
     },
@@ -2531,6 +3402,230 @@
             }
         ]
     },
+    "pipe-bending-machines": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/pipe-bending-machines/1-8.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/pipe-bending-machines/2-7.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/pipe-bending-machines/3-8.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/pipe-bending-machines/key1-13.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/pipe-bending-machines/key2-9.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/pipe-bending-machines/key3-7.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/pipe-bending-machines/key4-5.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/pipe-bending-machines/key5-4.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/pipe-bending-machines/key6-3.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
+            }
+        ]
+    },
+    "pipe-beveling-machine": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/pipe-beveling-machine/1-51.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/pipe-beveling-machine/2-50.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/pipe-beveling-machine/3-49.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/pipe-beveling-machine/4-37.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/pipe-beveling-machine/5-28.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/pipe-beveling-machine/key1-52.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/pipe-beveling-machine/key2-47.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/pipe-beveling-machine/key3-43.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/pipe-beveling-machine/key4-38.jpg"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/pipe-beveling-machine/key5-34.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
+            }
+        ]
+    },
+    "pipe-grinding-machine": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/pipe-grinding-machine/1-5.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/pipe-grinding-machine/2-5.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/pipe-grinding-machine/3-5.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/pipe-grinding-machine/4-4.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/pipe-grinding-machine/5-2.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/pipe-grinding-machine/6-2.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/pipe-grinding-machine/key1-10.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/pipe-grinding-machine/key2-6.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/pipe-grinding-machine/key3-4.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
+            }
+        ]
+    },
+    "pipe-polishing": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/pipe-polishing/1-18.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/pipe-polishing/2-17.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/pipe-polishing/3-18.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/pipe-polishing/key1-21.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/pipe-polishing/key2-17.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/pipe-polishing/key3-15.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
+            }
+        ]
+    },
     "pipe-vacuum-lifters": {
         "images": [
             {
@@ -2597,6 +3692,106 @@
             }
         ]
     },
+    "pipe-welding-automation": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/pipe-welding-automation/1-1.png"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/pipe-welding-automation/2-1.png"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/pipe-welding-automation/3-1.png"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/pipe-welding-automation/4-1.png"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/pipe-welding-automation/key1-49.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/pipe-welding-automation/key2-45.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/pipe-welding-automation/key3-40.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/pipe-welding-automation/key4-35.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": "https://www.youtube.com/embed/jjqBQWewo5M"
+            },
+            {
+                "id": 2,
+                "uri": "https://www.youtube.com/embed/61cPJkgFjmI"
+            },
+            {
+                "id": 3,
+                "uri": "https://www.youtube.com/embed/_l3obUmKpz0"
+            },
+            {
+                "id": 4,
+                "uri": "https://www.youtube.com/embed/EVBWJz8RBmQ"
+            }
+        ]
+    },
+    "press-brakes": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/press-brakes/1-6.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/press-brakes/2-5.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/press-brakes/3-5.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/press-brakes/C9HS-D2-1.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/press-brakes/C9HS-D4.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/press-brakes/G20X_3.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
+            }
+        ]
+    },
     "pressure-cleaning": {
         "images": [
             {
@@ -2647,19 +3842,93 @@
         "videos": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "uri": "https://www.youtube.com/embed/yjZCduTf1Ig"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "uri": "https://www.youtube.com/embed/nQqriDYGShM"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
+                "uri": "https://www.youtube.com/embed/cp_JpWYWSxE"
             },
             {
                 "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "uri": "https://www.youtube.com/embed/WSdoJae6N8g"
+            }
+        ]
+    },
+    "profile-bending-machines": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/profile-bending-machines/1-7.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/profile-bending-machines/2-6.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/profile-bending-machines/3-7.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/profile-bending-machines/4-6.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/profile-bending-machines/key1-12.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/profile-bending-machines/key2-8.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/profile-bending-machines/key3-6.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/profile-bending-machines/key4-4.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/profile-bending-machines/key5-3.jpg"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/profile-bending-machines/key6-2.jpg"
+            },
+            {
+                "id": 11,
+                "path": "../assets/images/product/profile-bending-machines/key7-2.jpg"
+            },
+            {
+                "id": 12,
+                "path": "../assets/images/product/profile-bending-machines/key8.jpg"
+            },
+            {
+                "id": 13,
+                "path": "../assets/images/product/profile-bending-machines/key9.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
             }
         ]
     },
@@ -2737,19 +4006,15 @@
         "videos": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "uri": "https://www.youtube.com/watch?v=ibqPg7B86cQ"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "uri": "https://www.youtube.com/watch?v=nGocMh8Xy2M"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
-            },
-            {
-                "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "uri": "https://www.youtube.com/watch?v=7DxLZwDCVX8"
             }
         ]
     },
@@ -2819,19 +4084,23 @@
         "videos": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "uri": "https://www.youtube.com/embed/Y7fTXid3Zkg"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "uri": "https://www.youtube.com/embed/AlpbdPcYitg"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
+                "uri": "https://www.youtube.com/embed/mVSUWnauqZY"
             },
             {
                 "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "uri": "https://www.youtube.com/embed/kEP6Z0jAkm0"
+            },
+            {
+                "id": 5,
+                "uri": "https://www.youtube.com/embed/8i2juo_UC3M"
             }
         ]
     },
@@ -2913,19 +4182,19 @@
         "videos": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "uri": "https://www.youtube.com/embed/WxDMRudyv2s"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "uri": "https://www.youtube.com/embed/TiYYAt6WCt4"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
+                "uri": "https://www.youtube.com/embed/-K4K_rGCAtk"
             },
             {
                 "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "uri": "https://www.youtube.com/embed/paNieLEMI1k"
             }
         ]
     },
@@ -2999,19 +4268,19 @@
         "videos": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "uri": "https://www.youtube.com/embed/zA-jgvLZkh0"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "uri": "https://www.youtube.com/embed/tV-lARrrpkE"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
+                "uri": "https://www.youtube.com/embed/2cu1npqK_mc"
             },
             {
                 "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "uri": "https://www.youtube.com/embed/geOfE3j4iG8"
             }
         ]
     },
@@ -3102,6 +4371,106 @@
             {
                 "id": 4,
                 "uri": "https://www.youtube.com/embed/V_uNwoHpZKU"
+            }
+        ]
+    },
+    "sheet-metal-and-bar-stock-storage": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/sheet-metal-and-bar-stock-storage/key1-19.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/sheet-metal-and-bar-stock-storage/key2-18.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/sheet-metal-and-bar-stock-storage/key3-17.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
+            }
+        ]
+    },
+    "sheet-metal-processing-lines": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/sheet-metal-processing-lines/1-13.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/sheet-metal-processing-lines/2-12.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/sheet-metal-processing-lines/3-13.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/sheet-metal-processing-lines/4-9.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/sheet-metal-processing-lines/5-11.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/sheet-metal-processing-lines/6-5.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/sheet-metal-processing-lines/7-7.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/sheet-metal-processing-lines/8-4.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/sheet-metal-processing-lines/key1-11.jpg"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/sheet-metal-processing-lines/key2-11.jpg"
+            },
+            {
+                "id": 11,
+                "path": "../assets/images/product/sheet-metal-processing-lines/key3-10.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
             }
         ]
     },
@@ -3209,19 +4578,19 @@
         "videos": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "uri": "https://www.youtube.com/embed/VoWnQ00nAiQ"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "uri": "https://www.youtube.com/embed/6fyCsW5f1Zg"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
+                "uri": "https://www.youtube.com/embed/HuaPNx2YyhE"
             },
             {
                 "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "uri": "https://www.youtube.com/embed/Gaf28GEf45s"
             }
         ]
     },
@@ -3291,19 +4660,19 @@
         "videos": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "uri": "https://www.youtube.com/embed/orDwrTTn9L8"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "uri": "https://www.youtube.com/embed/9CNa8oa7feU"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
+                "uri": "https://www.youtube.com/embed/FkPNSWpK8dg"
             },
             {
                 "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "uri": "https://www.youtube.com/embed/t2xgnyYJjSE"
             }
         ]
     },
@@ -3435,19 +4804,19 @@
         "videos": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "uri": "https://www.youtube.com/embed/UTIIT1d2IPc"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "uri": "https://www.youtube.com/embed/NsXvDCc0Pf4"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
+                "uri": "https://www.youtube.com/embed/kIpXZm6Spgk"
             },
             {
                 "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "uri": "https://www.youtube.com/embed/GfeayCkV-Xk"
             }
         ]
     },
@@ -3559,19 +4928,97 @@
         "videos": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "uri": "https://www.youtube.com/embed/DAutQlrW2T0"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "uri": "https://www.youtube.com/embed/ZSuWwQHVPxQ"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
+                "uri": "https://www.youtube.com/embed/k6fD9Tqq8zY"
             },
             {
                 "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "uri": "https://www.youtube.com/embed/W6oZr-sHNKU"
+            }
+        ]
+    },
+    "surface-protection": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/surface-protection/1-2.webp"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/surface-protection/10.webp"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/surface-protection/2-2.webp"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/surface-protection/3-2.webp"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/surface-protection/4-2.webp"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/surface-protection/5-1.webp"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/surface-protection/6-2.webp"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/surface-protection/7-2.webp"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/surface-protection/8-2.webp"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/surface-protection/9.webp"
+            },
+            {
+                "id": 11,
+                "path": "../assets/images/product/surface-protection/key1-3.webp"
+            },
+            {
+                "id": 12,
+                "path": "../assets/images/product/surface-protection/key2-3.webp"
+            },
+            {
+                "id": 13,
+                "path": "../assets/images/product/surface-protection/key3-3.webp"
+            },
+            {
+                "id": 14,
+                "path": "../assets/images/product/surface-protection/key4-3.webp"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
             }
         ]
     },
@@ -3641,19 +5088,19 @@
         "videos": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "uri": "https://www.youtube.com/embed/vDn6EPfjn4U"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "uri": "https://www.youtube.com/embed/K7U7mOcrgO4"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
+                "uri": "https://www.youtube.com/embed/zzkPuyeFpFo"
             },
             {
                 "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "uri": "https://www.youtube.com/embed/NwU6tb1zvsg"
             }
         ]
     },
@@ -3716,6 +5163,174 @@
             {
                 "id": 1,
                 "uri": "https://www.youtube.com/embed/HPBCyIjJqhA"
+            }
+        ]
+    },
+    "tool-cabinets-and-road-boxes": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/tool-cabinets-and-road-boxes/1-14.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/tool-cabinets-and-road-boxes/1-15.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/tool-cabinets-and-road-boxes/1-16.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/tool-cabinets-and-road-boxes/2-13.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/tool-cabinets-and-road-boxes/2-14.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/tool-cabinets-and-road-boxes/2-15.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/tool-cabinets-and-road-boxes/3-13.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/tool-cabinets-and-road-boxes/3-14.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/tool-cabinets-and-road-boxes/3-16.jpg"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/tool-cabinets-and-road-boxes/4-11.jpg"
+            },
+            {
+                "id": 11,
+                "path": "../assets/images/product/tool-cabinets-and-road-boxes/4-12.jpg"
+            },
+            {
+                "id": 12,
+                "path": "../assets/images/product/tool-cabinets-and-road-boxes/4-13.jpg"
+            },
+            {
+                "id": 13,
+                "path": "../assets/images/product/tool-cabinets-and-road-boxes/key1-18.jpg"
+            },
+            {
+                "id": 14,
+                "path": "../assets/images/product/tool-cabinets-and-road-boxes/key2-14.jpg"
+            },
+            {
+                "id": 15,
+                "path": "../assets/images/product/tool-cabinets-and-road-boxes/key3-12.jpg"
+            },
+            {
+                "id": 16,
+                "path": "../assets/images/product/tool-cabinets-and-road-boxes/key4-10.jpg"
+            },
+            {
+                "id": 17,
+                "path": "../assets/images/product/tool-cabinets-and-road-boxes/key5-8.jpg"
+            },
+            {
+                "id": 18,
+                "path": "../assets/images/product/tool-cabinets-and-road-boxes/key6-7.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
+            }
+        ]
+    },
+    "tube-bending-machine": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/tube-bending-machine/1-52.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/tube-bending-machine/2-51.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/tube-bending-machine/2-52.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/tube-bending-machine/3-50.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/tube-bending-machine/3-51.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/tube-bending-machine/4-38.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/tube-bending-machine/4-39.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/tube-bending-machine/5-29.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/tube-bending-machine/6-17.jpg"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/tube-bending-machine/7-10.jpg"
+            },
+            {
+                "id": 11,
+                "path": "../assets/images/product/tube-bending-machine/8-9.jpg"
+            },
+            {
+                "id": 12,
+                "path": "../assets/images/product/tube-bending-machine/9-6.jpg"
+            },
+            {
+                "id": 13,
+                "path": "../assets/images/product/tube-bending-machine/key1-54.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
             }
         ]
     },
@@ -3794,24 +5409,7 @@
                 "path": "../assets/images/product/turbine-roof-ventilators/key9-8.jpg"
             }
         ],
-        "videos": [
-            {
-                "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
-            },
-            {
-                "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
-            },
-            {
-                "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
-            },
-            {
-                "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
-            }
-        ]
+        "videos": []
     },
     "vacuum-lifters-for-special-use": {
         "images": [
@@ -4030,22 +5628,449 @@
                 "path": "../assets/images/product/visual-management-tools/key7-3.jpg"
             }
         ],
-        "videos": [
+        "videos": []
+    },
+    "weld-cleaning-machine": {
+        "images": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "path": "../assets/images/product/weld-cleaning-machine/1-4.jpg"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "path": "../assets/images/product/weld-cleaning-machine/2-3.jpg"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
+                "path": "../assets/images/product/weld-cleaning-machine/3-3.jpg"
             },
             {
                 "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "path": "../assets/images/product/weld-cleaning-machine/4-4.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/weld-cleaning-machine/5-4.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/weld-cleaning-machine/6-1.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/weld-cleaning-machine/7-2.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/weld-cleaning-machine/8-1.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/weld-cleaning-machine/Key1-3.jpg"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/weld-cleaning-machine/key2-3.jpg"
+            },
+            {
+                "id": 11,
+                "path": "../assets/images/product/weld-cleaning-machine/key3-3.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
+            }
+        ]
+    },
+    "welding-curtains": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/welding-curtains/1-31.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/welding-curtains/1-35.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/welding-curtains/2-31.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/welding-curtains/3-31.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/welding-curtains/4-22.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/welding-curtains/5-15.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/welding-curtains/key1-32.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/welding-curtains/key10-9.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/welding-curtains/key2-28.jpg"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/welding-curtains/key3-26.jpg"
+            },
+            {
+                "id": 11,
+                "path": "../assets/images/product/welding-curtains/key4-22.jpg"
+            },
+            {
+                "id": 12,
+                "path": "../assets/images/product/welding-curtains/key5-19.jpg"
+            },
+            {
+                "id": 13,
+                "path": "../assets/images/product/welding-curtains/key6-18.jpg"
+            },
+            {
+                "id": 14,
+                "path": "../assets/images/product/welding-curtains/key7-13.jpg"
+            },
+            {
+                "id": 15,
+                "path": "../assets/images/product/welding-curtains/key8-10.jpg"
+            },
+            {
+                "id": 16,
+                "path": "../assets/images/product/welding-curtains/key9-10.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
+            }
+        ]
+    },
+    "welding-fume-extractors": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/welding-fume-extractors/ecosmoke-5-86.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/welding-fume-extractors/impianti-centralizzati-56.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/welding-fume-extractors/key1-3.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/welding-fume-extractors/key2-2.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/welding-fume-extractors/key3-1.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/welding-fume-extractors/key4.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/welding-fume-extractors/safeweld-82.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/welding-fume-extractors/unicube-22.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/welding-fume-extractors/unismoke-48-1.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
+            }
+        ]
+    },
+    "welding-helmets": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/welding-helmets/10-1.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/welding-helmets/11-1.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/welding-helmets/13.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/welding-helmets/2-8.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/welding-helmets/3-8.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/welding-helmets/5-7.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/welding-helmets/6-3.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/welding-helmets/7-4.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/welding-helmets/8-3.jpg"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/welding-helmets/9-1.jpg"
+            },
+            {
+                "id": 11,
+                "path": "../assets/images/product/welding-helmets/key1-6.jpg"
+            },
+            {
+                "id": 12,
+                "path": "../assets/images/product/welding-helmets/key2-6.jpg"
+            },
+            {
+                "id": 13,
+                "path": "../assets/images/product/welding-helmets/key3-6.jpg"
+            },
+            {
+                "id": 14,
+                "path": "../assets/images/product/welding-helmets/key4-2.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
+            }
+        ]
+    },
+    "welding-tables": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/welding-tables/1-1.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/welding-tables/1-2.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/welding-tables/1.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/welding-tables/2-1.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/welding-tables/2-2.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/welding-tables/2.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/welding-tables/3-1.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/welding-tables/3-2.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/welding-tables/3.jpg"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/welding-tables/4-1.jpg"
+            },
+            {
+                "id": 11,
+                "path": "../assets/images/product/welding-tables/4-2.jpg"
+            },
+            {
+                "id": 12,
+                "path": "../assets/images/product/welding-tables/4.jpg"
+            },
+            {
+                "id": 13,
+                "path": "../assets/images/product/welding-tables/5-1.jpg"
+            },
+            {
+                "id": 14,
+                "path": "../assets/images/product/welding-tables/5-2.jpg"
+            },
+            {
+                "id": 15,
+                "path": "../assets/images/product/welding-tables/5.jpg"
+            },
+            {
+                "id": 16,
+                "path": "../assets/images/product/welding-tables/key1-1.jpg"
+            },
+            {
+                "id": 17,
+                "path": "../assets/images/product/welding-tables/key2-1.jpg"
+            },
+            {
+                "id": 18,
+                "path": "../assets/images/product/welding-tables/key3-1.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": "https://fenatek.astra.qa/wp-content/uploads/2024/11/BP-Tables_4-Updated-1.mov"
+            },
+            {
+                "id": 2,
+                "uri": "https://fenatek.astra.qa/wp-content/uploads/2024/11/BuildPro-Table-Beyond-Welding.mov"
+            },
+            {
+                "id": 3,
+                "uri": "https://fenatek.astra.qa/wp-content/uploads/2024/11/BuildPro-Application-Video-03.mp4"
+            },
+            {
+                "id": 4,
+                "uri": "https://fenatek.astra.qa/wp-content/uploads/2024/11/BuildPro%E2%84%A2-Modular-Welding-Table-Overview.mov"
+            }
+        ]
+    },
+    "work-benches-with-storage": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/work-benches-with-storage/1-29.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/work-benches-with-storage/2-29.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/work-benches-with-storage/3-29.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/work-benches-with-storage/key1-30.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/work-benches-with-storage/key2-26.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/work-benches-with-storage/key3-24.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/work-benches-with-storage/key4-20.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/work-benches-with-storage/key5-17.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/work-benches-with-storage/key6-16.jpg"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/work-benches-with-storage/key7-11.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "id": 1,
+                "uri": ""
+            },
+            {
+                "id": 2,
+                "uri": ""
+            },
+            {
+                "id": 3,
+                "uri": ""
+            },
+            {
+                "id": 4,
+                "uri": ""
             }
         ]
     },
@@ -4091,19 +6116,19 @@
         "videos": [
             {
                 "id": 1,
-                "uri": "https://www.youtube.com/embed/9XrJzUoebus"
+                "uri": "https://www.youtube.com/embed/1Ab2GhxENB0"
             },
             {
                 "id": 2,
-                "uri": "https://www.youtube.com/embed/fWRfIyQywbo"
+                "uri": "https://www.youtube.com/embed/MqSxVLwr3_I"
             },
             {
                 "id": 3,
-                "uri": "https://www.youtube.com/embed/7eSW_sBQid0"
+                "uri": "https://www.youtube.com/embed/uqeSVvqMMgM"
             },
             {
                 "id": 4,
-                "uri": "https://www.youtube.com/embed/bvbGNG1K7jI"
+                "uri": "https://www.youtube.com/embed/DQD2USDMK2E"
             }
         ]
     }

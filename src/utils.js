@@ -69,16 +69,107 @@ export const getProductInCategory = (catName) => {
         id: 2,
         name: "Steel Machineries",
         products: [
-          { id: 201, name: "Forming Technology" },
-          { id: 202, name: "Cutting Technology" },
-          { id: 203, name: "CNC Machines" },
-          { id: 204, name: "Tooling Solutions" },
-          { id: 205, name: "Surface & Edge Finishing Technology" },
-          { id: 206, name: "Welding Technology" },
-          { id: 207, name: "Assembly Solutions" },
-          { id: 208, name: "Sheet Metal Lifting Machine" },
-          { id: 209, name: "Storage Solutions" },
-          { id: 210, name: "Marking Solutions" },
+          {
+            id: 201,
+            name: "Welding Technology",
+            // // image: "assets/images/welding-technology.jpg",
+            subCategories: [
+              { id: 2011, name: "Pipe Welding Automation" },
+              { id: 2012, name: "Welding Tables" },
+              { id: 2013, name: "Mobile Working Stations" },
+              { id: 2014, name: "Welding Curtains" },
+              { id: 2015, name: "Weld Cleaning Machine" },
+              { id: 2016, name: "Magnets for Positioning and Holding" },
+              { id: 2017, name: "Welding Fume Extractors" },
+              { id: 2018, name: "Welding Helmets" },
+            ],
+          },
+          {
+            id: 202,
+            name: "Laser Technology",
+            // // image: "assets/images/lifting-machine.jpg",
+            subCategories: [
+              { id: 2021, name: "Laser Cutting Machine" },
+              { id: 2022, name: "Laser Welding Machines" },
+              { id: 2023, name: "Laser Cleaning Machine" },
+            ],
+          },
+          {
+            id: 203,
+            name: "Piping Solutions",
+            // // image: "assets/images/lifting-machine.jpg",
+            subCategories: [
+              { id: 2031, name: "Pipe Grinding Machine" },
+              { id: 2032, name: "Pipe Beveling Machine" },
+              { id: 2033, name: "Pipe Bending Machines" },
+              { id: 2034, name: "Pipe Polishing" },
+            ],
+          },
+          {
+            id: 204,
+            name: "Forming Technology",
+            // image: "assets/images/forming-technology.jpg",
+            subCategories: [
+              { id: 2041, name: "Sheet Metal Processing Lines" },
+              { id: 2042, name: "Press Brakes" },
+              { id: 2043, name: "Profile Bending Machines" },
+            ],
+          },
+          {
+            id: 205,
+            name: "Cutting Technology",
+            // // image: "assets/images/cutting-technology.jpg",
+            subCategories: [
+              { id: 2051, name: "Cutting and Machining Tools" },
+              { id: 2052, name: "MultiTapper Machine" },
+              { id: 2053, name: "Electric Tapping Machine" },
+            ],
+          },
+          {
+            id: 206,
+            name: "CNC Machines",
+            // // image: "assets/images/cnc-machines.jpg",
+            subCategories: [
+              { id: 2061, name: "CNC Laser Cutting Machine" },
+              { id: 2062, name: "CNC Plasma Gas Cutting Machine" },
+            ],
+          },
+          {
+            id: 207,
+            name: "Surface & Edge Finishing Technology",
+            // // image: "assets/images/finishing-technology.jpg",
+            subCategories: [
+              { id: 2071, name: "Tube Bending Machine" },
+              { id: 2072, name: "Surface Protection" },
+            ],
+          },
+
+          {
+            id: 208,
+            name: "Assembly Solutions",
+            // // image: "assets/images/assembly-solutions.jpg",
+            subCategories: [
+              { id: 2081, name: "Clamps and Pliers" },
+              { id: 2082, name: "Fastener Insertion Machine" },
+            ],
+          },
+
+          {
+            id: 209,
+            name: "Storage Solutions",
+            // // image: "assets/images/storage-solutions.jpg",
+            subCategories: [
+              { id: 2091, name: "Sheet Metal and Bar Stock Storage" },
+              { id: 2092, name: "Tool Cabinets and Road Boxes" },
+              { id: 2093, name: "Work Benches with Storage" },
+            ],
+          },
+          {
+            id: 210,
+            name: "Marking Solutions",
+            // // image: "assets/images/marking-solutions.jpg",
+            subCategories: [{ id: 2101, name: "Laser Marking" }],
+          },
         ],
       };
 
