@@ -471,16 +471,6 @@ const GetProductData = (name) => {
         ]
       };
 
-    case "gantry-cranes":
-      return {
-        images: [
-
-        ],
-        videos: [
-          { id: 1, uri: "https://www.youtube.com/embed/B_xAb-GejWc" }
-        ]
-      };
-
     case "glass-vacuum-lifters":
       return {
         images: [

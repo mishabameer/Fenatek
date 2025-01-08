@@ -11,7 +11,7 @@ interface CardProps {
 const Cards: React.FC<CardProps> = ({ option, onPress }) => {
   return (
     <TouchableOpacity key={option.id} style={styles.card} onPress={onPress}>
-      <Text style={styles.cardText}>{option.name}</Text>
+      <Text style={styles.cardText}>{option.name.toUpperCase()}</Text>
     </TouchableOpacity>
   );
 };
@@ -32,9 +32,9 @@ const styles = StyleSheet.create({
     shadowRadius: 5,
   },
   cardText: {
-    color: "#fff",
-    fontSize: 24,
-    fontWeight: "bold",
+    color: "#ffffff",
+    fontSize: 28,
+    fontWeight: "900",
   },
 });
 export default Cards;

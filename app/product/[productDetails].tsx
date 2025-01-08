@@ -16,6 +16,7 @@ import GetProductData from "../../src/GetProductData";
 import CustomHeader from "@/src/components/customHeader";
 import { ImageSourcePropType } from "react-native";
 import { Modal } from "react-native";
+import ImageViewer from "react-native-image-zoom-viewer";
 
 interface ImageData {
   id: number;
@@ -34,11 +35,10 @@ const ProductDetails: React.FC = () => {
   const handleImagePress = (index: number) => {
     setSelectedIndex(index);
     setIsPreviewVisible(true);
-    StatusBar.setTranslucent(true);
+    StatusBar.setBarStyle("dark-content");
   };
   const handleModalClose = () => {
     setIsPreviewVisible(false);
-    StatusBar.setTranslucent(false); // Show status bar when modal is closed
   };
   const renderItem = ({ item, index }: { item: ImageData; index: number }) => (
     <TouchableOpacity onPress={() => handleImagePress(index)}>
@@ -82,7 +82,7 @@ const ProductDetails: React.FC = () => {
         transparent={true}
         onRequestClose={handleModalClose}
       >
-        <FlatList
+        {/* <FlatList
           data={productData?.images}
           renderItem={renderPreviewItem}
           keyExtractor={(item) => item.id.toString()}
@@ -100,6 +100,15 @@ const ProductDetails: React.FC = () => {
             );
             setSelectedIndex(index);
           }}
+        /> */}
+        <ImageViewer
+          imageUrls={productData?.images.map((item) => ({
+            url: "",
+            props: { source: item.path },
+          }))}
+          index={selectedIndex}
+          onSwipeDown={handleModalClose}
+          enableSwipeDown={true}
         />
       </Modal>
     </ScrollView>

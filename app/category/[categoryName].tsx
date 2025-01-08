@@ -17,7 +17,7 @@ const CategoryPage = () => {
         {categoryDetails?.products?.map((product, index) => (
           <ProductCard
             key={index}
-            title={product.name.toUpperCase()}
+            title={product.name}
             onPress={() => {
               if (product?.subCategories?.length > 0) {
                 router.push({
