@@ -3,22 +3,21 @@ import React from "react";
 import ProductCard from "@/src/components/productCard";
 import { useLocalSearchParams, useRouter } from "expo-router";
 import { getProductInCategory } from "../../src/utils";
+import CustomHeader from "@/src/components/customHeader";
 
 const CategoryPage = () => {
-  const { categoryName } = useLocalSearchParams();
+  const { categoryName } = useLocalSearchParams<{ categoryName: string }>();
   const categoryDetails = getProductInCategory(categoryName);
   const router = useRouter();
 
   return (
     <ScrollView style={styles.container}>
-      <View style={styles.title}>
-        <Text style={styles.titleText}>{categoryName}</Text>
-      </View>
+      <CustomHeader title={categoryName} />
       <View style={styles.cardContainer}>
         {categoryDetails?.products?.map((product, index) => (
           <ProductCard
             key={index}
-            title={product.name}
+            title={product.name.toUpperCase()}
             onPress={() => {
               if (product?.subCategories?.length > 0) {
                 router.push({
@@ -57,19 +56,5 @@ const styles = StyleSheet.create({
     gap: 20,
     padding: 20,
     alignContent: "center",
-  },
-  title: {
-    width: "100%",
-    backgroundColor: "#000",
-    height: 100,
-    color: "#FFF",
-    justifyContent: "center",
-    alignItems: "center",
-    padding: 20,
-  },
-  titleText: {
-    color: "#FFF",
-    fontWeight: 600,
-    fontSize: 32,
   },
 });

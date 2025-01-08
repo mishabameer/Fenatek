@@ -12,14 +12,11 @@ import { useLocalSearchParams } from "expo-router";
 import VideoSection from "../../src/components/videoSection";
 import { PRIMARY_THEME } from "../../src/constants";
 import GetProductData from "../../src/GetProductData";
+import CustomHeader from "@/src/components/customHeader";
 
 interface ImageData {
   id: number;
   path: string;
-}
-interface VideoData {
-  id: number;
-  uri: string;
 }
 
 const ProductDetails: React.FC = () => {
@@ -41,9 +38,7 @@ const ProductDetails: React.FC = () => {
 
   return (
     <ScrollView style={styles.container}>
-      <View style={styles.title}>
-        <Text style={styles.titleText}>{productDetails}</Text>
-      </View>
+      <CustomHeader title={productDetails} />
       <View style={styles.body}>
         <FlatList
           data={productData?.images}
@@ -73,15 +68,6 @@ const styles = StyleSheet.create({
     padding: 20,
     alignItems: "center",
   },
-  title: {
-    width: "100%",
-    backgroundColor: "#000",
-    height: 100,
-    color: "#FFF",
-    justifyContent: "center",
-    alignItems: "center",
-    padding: 20,
-  },
   image: {
     borderRadius: 10,
   },
@@ -89,13 +75,8 @@ const styles = StyleSheet.create({
     margin: 10,
     alignItems: "center",
   },
-  titleText: {
-    color: "#FFF",
-    fontWeight: 600,
-    fontSize: 32,
-  },
   video: {
     width: "100%",
-    height: 300, // Adjust height based on requirements
+    height: 300,
   },
 });

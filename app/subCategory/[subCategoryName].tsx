@@ -1,20 +1,22 @@
-import { ScrollView, StyleSheet, Text, View } from "react-native";
+import { ScrollView, StyleSheet, View } from "react-native";
 import React from "react";
 import ProductCard from "@/src/components/productCard";
 import { useLocalSearchParams, useRouter } from "expo-router";
 import { getProductInCategory } from "../../src/utils";
+import CustomHeader from "@/src/components/customHeader";
 
 const SubCategoryPage = () => {
-  const { subCategoryName, categoryName } = useLocalSearchParams();
+  const { subCategoryName, categoryName } = useLocalSearchParams<{
+    subCategoryName: string;
+    categoryName: string;
+  }>();
   const categoryDetails = getProductInCategory(categoryName)?.products.find(
     (product) => product.name === subCategoryName
   );
   const router = useRouter();
   return (
     <ScrollView style={styles.container}>
-      <View style={styles.title}>
-        <Text style={styles.titleText}>{subCategoryName}</Text>
-      </View>
+      <CustomHeader title={subCategoryName} />
       <View style={styles.cardContainer}>
         {categoryDetails?.subCategories?.map((sub, index) => (
           <ProductCard
@@ -48,19 +50,5 @@ const styles = StyleSheet.create({
     gap: 20,
     padding: 20,
     alignContent: "center",
-  },
-  title: {
-    width: "100%",
-    backgroundColor: "#000",
-    height: 100,
-    color: "#FFF",
-    justifyContent: "center",
-    alignItems: "center",
-    padding: 20,
-  },
-  titleText: {
-    color: "#FFF",
-    fontWeight: 600,
-    fontSize: 32,
   },
 });
