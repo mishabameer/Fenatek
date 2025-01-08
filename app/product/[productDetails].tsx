@@ -4,8 +4,8 @@ import {
   FlatList,
   Image,
   ScrollView,
+  StatusBar,
   StyleSheet,
-  Text,
   TouchableOpacity,
   View,
 } from "react-native";
@@ -34,8 +34,12 @@ const ProductDetails: React.FC = () => {
   const handleImagePress = (index: number) => {
     setSelectedIndex(index);
     setIsPreviewVisible(true);
+    StatusBar.setTranslucent(true);
   };
-
+  const handleModalClose = () => {
+    setIsPreviewVisible(false);
+    StatusBar.setTranslucent(false); // Show status bar when modal is closed
+  };
   const renderItem = ({ item, index }: { item: ImageData; index: number }) => (
     <TouchableOpacity onPress={() => handleImagePress(index)}>
       <View style={styles.card}>
@@ -76,7 +80,7 @@ const ProductDetails: React.FC = () => {
       <Modal
         visible={isPreviewVisible}
         transparent={true}
-        onRequestClose={() => setIsPreviewVisible(false)}
+        onRequestClose={handleModalClose}
       >
         <FlatList
           data={productData?.images}
@@ -128,10 +132,10 @@ const styles = StyleSheet.create({
   },
   fullscreenImageContainer: {
     width: screenWidth,
-    height: "90%",
+    height: "100%",
     justifyContent: "center",
     alignItems: "center",
-    backgroundColor: "black",
+    backgroundColor: "#000",
   },
   fullscreenImage: {
     width: "100%",

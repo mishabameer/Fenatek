@@ -225,19 +225,28 @@ const GetProductData = (name) => {
         images: [
           { id: 1, path: require("../assets/images/product/crane-system/1.jpg") },
           { id: 2, path: require("../assets/images/product/crane-system/10.jpg") },
-          { id: 3, path: require("../assets/images/product/crane-system/2.jpg") },
-          { id: 4, path: require("../assets/images/product/crane-system/3.jpg") },
-          { id: 5, path: require("../assets/images/product/crane-system/4.jpg") },
-          { id: 6, path: require("../assets/images/product/crane-system/5.jpg") },
-          { id: 7, path: require("../assets/images/product/crane-system/6.jpg") },
-          { id: 8, path: require("../assets/images/product/crane-system/7.jpg") },
-          { id: 9, path: require("../assets/images/product/crane-system/8.jpg") },
-          { id: 10, path: require("../assets/images/product/crane-system/9.jpg") }
+          { id: 3, path: require("../assets/images/product/crane-system/11.jpg") },
+          { id: 4, path: require("../assets/images/product/crane-system/12.jpg") },
+          { id: 5, path: require("../assets/images/product/crane-system/13.jpg") },
+          { id: 6, path: require("../assets/images/product/crane-system/2.jpg") },
+          { id: 7, path: require("../assets/images/product/crane-system/3-2.jpg") },
+          { id: 8, path: require("../assets/images/product/crane-system/3.jpg") },
+          { id: 9, path: require("../assets/images/product/crane-system/4.jpg") },
+          { id: 10, path: require("../assets/images/product/crane-system/5.jpg") },
+          { id: 11, path: require("../assets/images/product/crane-system/6.jpg") },
+          { id: 12, path: require("../assets/images/product/crane-system/7.jpg") },
+          { id: 13, path: require("../assets/images/product/crane-system/8.jpg") },
+          { id: 14, path: require("../assets/images/product/crane-system/9.jpg") },
+          { id: 15, path: require("../assets/images/product/crane-system/key2-3.jpg") },
+          { id: 16, path: require("../assets/images/product/crane-system/key3-1.jpg") },
+          { id: 17, path: require("../assets/images/product/crane-system/key4.jpg") },
+          { id: 18, path: require("../assets/images/product/crane-system/key5.jpg") }
         ],
         videos: [
           { id: 1, uri: "https://www.youtube.com/embed/VMq4zFCIIVo" },
-          { id: 2, uri: "https://fenatek.com/wp-content/uploads/2024/10/IMG_2407.mp4" },
-          { id: 3, uri: "https://fenatek.com/wp-content/uploads/2024/10/IMG_6704.mp4" }
+          { id: 2, uri: "https://www.youtube.com/embed/B_xAb-GejWc" },
+          { id: 3, uri: "https://fenatek.com/wp-content/uploads/2024/10/IMG_2407.mp4" },
+          { id: 4, uri: "https://fenatek.com/wp-content/uploads/2024/10/IMG_6704.mp4" }
         ]
       };
 
@@ -465,14 +474,7 @@ const GetProductData = (name) => {
     case "gantry-cranes":
       return {
         images: [
-          { id: 1, path: require("../assets/images/product/gantry-cranes/1.jpg") },
-          { id: 2, path: require("../assets/images/product/gantry-cranes/2.jpg") },
-          { id: 3, path: require("../assets/images/product/gantry-cranes/3-2.jpg") },
-          { id: 4, path: require("../assets/images/product/gantry-cranes/4.jpg") },
-          { id: 5, path: require("../assets/images/product/gantry-cranes/key2-3.jpg") },
-          { id: 6, path: require("../assets/images/product/gantry-cranes/key3-1.jpg") },
-          { id: 7, path: require("../assets/images/product/gantry-cranes/key4.jpg") },
-          { id: 8, path: require("../assets/images/product/gantry-cranes/key5.jpg") }
+
         ],
         videos: [
           { id: 1, uri: "https://www.youtube.com/embed/B_xAb-GejWc" }
@@ -1245,9 +1247,10 @@ const GetProductData = (name) => {
         ],
         videos: [
           { id: 1, uri: "https://www.youtube.com/embed/kMG2lIdKOoE" },
-          { id: 2, uri: "https://www.youtube.com/embed/3gNEoFJxIZA" },
-          { id: 3, uri: "https://www.youtube.com/embed/TyzIeP94Fbc" },
-          { id: 4, uri: "https://www.youtube.com/embed/4peJY0GajmI" }
+          { id: 2, uri: "https://fenatek.com/wp-content/uploads/2025/01/WhatsApp-Video-2025-01-08-at-15.00.52.mp4" },
+          { id: 3, uri: "https://www.youtube.com/embed/3gNEoFJxIZA" },
+          { id: 4, uri: "https://www.youtube.com/embed/TyzIeP94Fbc" },
+          { id: 5, uri: "https://www.youtube.com/embed/4peJY0GajmI" }
         ]
       };
 
