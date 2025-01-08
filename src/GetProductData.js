@@ -276,23 +276,23 @@ const GetProductData = (name) => {
     case "drum-handling-solutions":
       return {
         images: [
-          { id: 1, path: require("../assets/images/product/drum-handling-solutions/1.webp") },
-          { id: 2, path: require("../assets/images/product/drum-handling-solutions/14_lg.webp") },
-          { id: 3, path: require("../assets/images/product/drum-handling-solutions/160_lg.webp") },
-          { id: 4, path: require("../assets/images/product/drum-handling-solutions/195a-1-115_lg.webp") },
-          { id: 5, path: require("../assets/images/product/drum-handling-solutions/24_lg.webp") },
-          { id: 6, path: require("../assets/images/product/drum-handling-solutions/285a-bp_lg.webp") },
-          { id: 7, path: require("../assets/images/product/drum-handling-solutions/305-video_lg.webp") },
-          { id: 8, path: require("../assets/images/product/drum-handling-solutions/309-3_lg.webp") },
+          { id: 1, path: require("../assets/images/product/drum-handling-solutions/1.png") },
+          { id: 2, path: require("../assets/images/product/drum-handling-solutions/14_lg.png") },
+          { id: 3, path: require("../assets/images/product/drum-handling-solutions/160_lg.png") },
+          { id: 4, path: require("../assets/images/product/drum-handling-solutions/195a-1-115_lg.png") },
+          { id: 5, path: require("../assets/images/product/drum-handling-solutions/24_lg.png") },
+          { id: 6, path: require("../assets/images/product/drum-handling-solutions/285a-bp_lg.png") },
+          { id: 7, path: require("../assets/images/product/drum-handling-solutions/305-video_lg.png") },
+          { id: 8, path: require("../assets/images/product/drum-handling-solutions/309-3_lg.png") },
           { id: 9, path: require("../assets/images/product/drum-handling-solutions/400s-xr-115_lg02.png") },
-          { id: 10, path: require("../assets/images/product/drum-handling-solutions/456-3_lg.webp") },
-          { id: 11, path: require("../assets/images/product/drum-handling-solutions/46_lg.webp") },
-          { id: 12, path: require("../assets/images/product/drum-handling-solutions/510-115_lg03.webp") },
-          { id: 13, path: require("../assets/images/product/drum-handling-solutions/620-115_lg.webp") },
-          { id: 14, path: require("../assets/images/product/drum-handling-solutions/825h-n-125_lg02.webp") },
-          { id: 15, path: require("../assets/images/product/drum-handling-solutions/82a-gt-125_lg.webp") },
-          { id: 16, path: require("../assets/images/product/drum-handling-solutions/82am_lg.webp") },
-          { id: 17, path: require("../assets/images/product/drum-handling-solutions/83_lg.webp") }
+          { id: 10, path: require("../assets/images/product/drum-handling-solutions/456-3_lg.png") },
+          { id: 11, path: require("../assets/images/product/drum-handling-solutions/46_lg.png") },
+          { id: 12, path: require("../assets/images/product/drum-handling-solutions/510-115_lg03.png") },
+          { id: 13, path: require("../assets/images/product/drum-handling-solutions/620-115_lg.png") },
+          { id: 14, path: require("../assets/images/product/drum-handling-solutions/825h-n-125_lg02.png") },
+          { id: 15, path: require("../assets/images/product/drum-handling-solutions/82a-gt-125_lg.png") },
+          { id: 16, path: require("../assets/images/product/drum-handling-solutions/82am_lg.png") },
+          { id: 17, path: require("../assets/images/product/drum-handling-solutions/83_lg.png") }
         ],
         videos: [
           { id: 1, uri: "https://www.youtube.com/embed/X6jiBMhkc34" },
@@ -668,27 +668,27 @@ const GetProductData = (name) => {
     case "industrial-hoses":
       return {
         images: [
-          { id: 1, path: require("../assets/images/product/industrial-hoses/1.webp") },
-          { id: 2, path: require("../assets/images/product/industrial-hoses/2.webp") },
-          { id: 3, path: require("../assets/images/product/industrial-hoses/3.webp") },
-          { id: 4, path: require("../assets/images/product/industrial-hoses/4.webp") },
-          { id: 5, path: require("../assets/images/product/industrial-hoses/5.webp") },
-          { id: 6, path: require("../assets/images/product/industrial-hoses/6.webp") },
-          { id: 7, path: require("../assets/images/product/industrial-hoses/7.webp") },
-          { id: 8, path: require("../assets/images/product/industrial-hoses/8.webp") },
-          { id: 9, path: require("../assets/images/product/industrial-hoses/key1-1.webp") },
-          { id: 10, path: require("../assets/images/product/industrial-hoses/key10.webp") },
-          { id: 11, path: require("../assets/images/product/industrial-hoses/key11.webp") },
-          { id: 12, path: require("../assets/images/product/industrial-hoses/key12-1.webp") },
-          { id: 13, path: require("../assets/images/product/industrial-hoses/key13.webp") },
-          { id: 14, path: require("../assets/images/product/industrial-hoses/key2-1.webp") },
-          { id: 15, path: require("../assets/images/product/industrial-hoses/key3-1.webp") },
-          { id: 16, path: require("../assets/images/product/industrial-hoses/key4-1.webp") },
-          { id: 17, path: require("../assets/images/product/industrial-hoses/key5.webp") },
-          { id: 18, path: require("../assets/images/product/industrial-hoses/key6.webp") },
-          { id: 19, path: require("../assets/images/product/industrial-hoses/key7.webp") },
-          { id: 20, path: require("../assets/images/product/industrial-hoses/key8.webp") },
-          { id: 21, path: require("../assets/images/product/industrial-hoses/key9.webp") }
+          { id: 1, path: require("../assets/images/product/industrial-hoses/1.png") },
+          { id: 2, path: require("../assets/images/product/industrial-hoses/2.png") },
+          { id: 3, path: require("../assets/images/product/industrial-hoses/3.png") },
+          { id: 4, path: require("../assets/images/product/industrial-hoses/4.png") },
+          { id: 5, path: require("../assets/images/product/industrial-hoses/5.png") },
+          { id: 6, path: require("../assets/images/product/industrial-hoses/6.png") },
+          { id: 7, path: require("../assets/images/product/industrial-hoses/7.png") },
+          { id: 8, path: require("../assets/images/product/industrial-hoses/8.png") },
+          { id: 9, path: require("../assets/images/product/industrial-hoses/key1-1.png") },
+          { id: 10, path: require("../assets/images/product/industrial-hoses/key10.png") },
+          { id: 11, path: require("../assets/images/product/industrial-hoses/key11.png") },
+          { id: 12, path: require("../assets/images/product/industrial-hoses/key12-1.png") },
+          { id: 13, path: require("../assets/images/product/industrial-hoses/key13.png") },
+          { id: 14, path: require("../assets/images/product/industrial-hoses/key2-1.png") },
+          { id: 15, path: require("../assets/images/product/industrial-hoses/key3-1.png") },
+          { id: 16, path: require("../assets/images/product/industrial-hoses/key4-1.png") },
+          { id: 17, path: require("../assets/images/product/industrial-hoses/key5.png") },
+          { id: 18, path: require("../assets/images/product/industrial-hoses/key6.png") },
+          { id: 19, path: require("../assets/images/product/industrial-hoses/key7.png") },
+          { id: 20, path: require("../assets/images/product/industrial-hoses/key8.png") },
+          { id: 21, path: require("../assets/images/product/industrial-hoses/key9.png") }
         ],
         videos: [
 
@@ -727,16 +727,16 @@ const GetProductData = (name) => {
     case "industrial-springs":
       return {
         images: [
-          { id: 1, path: require("../assets/images/product/industrial-springs/1.webp") },
-          { id: 2, path: require("../assets/images/product/industrial-springs/2.webp") },
-          { id: 3, path: require("../assets/images/product/industrial-springs/4.webp") },
-          { id: 4, path: require("../assets/images/product/industrial-springs/6.webp") },
-          { id: 5, path: require("../assets/images/product/industrial-springs/7.webp") },
-          { id: 6, path: require("../assets/images/product/industrial-springs/8.webp") },
-          { id: 7, path: require("../assets/images/product/industrial-springs/key1.webp") },
-          { id: 8, path: require("../assets/images/product/industrial-springs/key2.webp") },
-          { id: 9, path: require("../assets/images/product/industrial-springs/key3.webp") },
-          { id: 10, path: require("../assets/images/product/industrial-springs/key4.webp") }
+          { id: 1, path: require("../assets/images/product/industrial-springs/1.png") },
+          { id: 2, path: require("../assets/images/product/industrial-springs/2.png") },
+          { id: 3, path: require("../assets/images/product/industrial-springs/4.png") },
+          { id: 4, path: require("../assets/images/product/industrial-springs/6.png") },
+          { id: 5, path: require("../assets/images/product/industrial-springs/7.png") },
+          { id: 6, path: require("../assets/images/product/industrial-springs/8.png") },
+          { id: 7, path: require("../assets/images/product/industrial-springs/key1.png") },
+          { id: 8, path: require("../assets/images/product/industrial-springs/key2.png") },
+          { id: 9, path: require("../assets/images/product/industrial-springs/key3.png") },
+          { id: 10, path: require("../assets/images/product/industrial-springs/key4.png") }
         ],
         videos: [
 
@@ -1673,20 +1673,20 @@ const GetProductData = (name) => {
     case "surface-protection":
       return {
         images: [
-          { id: 1, path: require("../assets/images/product/surface-protection/1-2.webp") },
-          { id: 2, path: require("../assets/images/product/surface-protection/10.webp") },
-          { id: 3, path: require("../assets/images/product/surface-protection/2-2.webp") },
-          { id: 4, path: require("../assets/images/product/surface-protection/3-2.webp") },
-          { id: 5, path: require("../assets/images/product/surface-protection/4-2.webp") },
-          { id: 6, path: require("../assets/images/product/surface-protection/5-1.webp") },
-          { id: 7, path: require("../assets/images/product/surface-protection/6-2.webp") },
-          { id: 8, path: require("../assets/images/product/surface-protection/7-2.webp") },
-          { id: 9, path: require("../assets/images/product/surface-protection/8-2.webp") },
-          { id: 10, path: require("../assets/images/product/surface-protection/9.webp") },
-          { id: 11, path: require("../assets/images/product/surface-protection/key1-3.webp") },
-          { id: 12, path: require("../assets/images/product/surface-protection/key2-3.webp") },
-          { id: 13, path: require("../assets/images/product/surface-protection/key3-3.webp") },
-          { id: 14, path: require("../assets/images/product/surface-protection/key4-3.webp") }
+          { id: 1, path: require("../assets/images/product/surface-protection/1-2.png") },
+          { id: 2, path: require("../assets/images/product/surface-protection/10.png") },
+          { id: 3, path: require("../assets/images/product/surface-protection/2-2.png") },
+          { id: 4, path: require("../assets/images/product/surface-protection/3-2.png") },
+          { id: 5, path: require("../assets/images/product/surface-protection/4-2.png") },
+          { id: 6, path: require("../assets/images/product/surface-protection/5-1.png") },
+          { id: 7, path: require("../assets/images/product/surface-protection/6-2.png") },
+          { id: 8, path: require("../assets/images/product/surface-protection/7-2.png") },
+          { id: 9, path: require("../assets/images/product/surface-protection/8-2.png") },
+          { id: 10, path: require("../assets/images/product/surface-protection/9.png") },
+          { id: 11, path: require("../assets/images/product/surface-protection/key1-3.png") },
+          { id: 12, path: require("../assets/images/product/surface-protection/key2-3.png") },
+          { id: 13, path: require("../assets/images/product/surface-protection/key3-3.png") },
+          { id: 14, path: require("../assets/images/product/surface-protection/key4-3.png") }
         ],
         videos: [
 
