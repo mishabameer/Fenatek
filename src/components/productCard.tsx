@@ -1,12 +1,20 @@
-import { Image, StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import React from "react";
+import { Image, StyleSheet, Text, TouchableOpacity, View } from "react-native";
+import { productThumbnails } from "../scripts/productThumbnails";
 
 const ProductCard = ({ title = "Product Card", onPress = () => {} }) => {
+  const normalizedName = title.toLowerCase().replace(/\s+/g, "-");
+  const imageSource = productThumbnails[normalizedName] || null;
+
   return (
     <TouchableOpacity style={styles.card} onPress={onPress}>
       <Image
-        source={require("../../assets/images/product/aircraft-tugs/1-9.jpg")}
-        resizeMode="cover"
+        source={
+          imageSource
+            ? imageSource
+            : require("../../assets/images/logo/fena-logo.png")
+        }
+        resizeMode={imageSource ? "cover" : "contain"}
         style={styles.cardImage}
       />
       <View style={styles.titleContainer}>
@@ -36,18 +44,19 @@ const styles = StyleSheet.create({
   },
   cardImage: {
     width: "100%",
-    height: "70%",
+    height: "75%",
     overflow: "hidden",
+    backgroundColor: "#000000",
   },
   titleContainer: {
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
-    padding: 10,
+    padding: 5,
   },
   title: {
     fontSize: 28,
-    fontWeight: "600",
+    fontWeight: "700",
     textAlign: "center",
     color: "#fff",
   },
