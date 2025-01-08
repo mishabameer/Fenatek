@@ -1,3 +1,9 @@
+export const Category = [
+  { id: 1, name: "Material Handling" },
+  { id: 3, name: "Construction" },
+  { id: 2, name: "Steel Machineries" },
+  { id: 4, name: "Industrial Technologies" },
+];
 export const getProductInCategory = (catName) => {
   switch (catName) {
     case "Material Handling":

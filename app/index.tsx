@@ -2,16 +2,10 @@ import React from "react";
 import { View, StyleSheet, Image, ScrollView } from "react-native";
 import { useRouter } from "expo-router";
 import Cards from "@/src/components/cards";
+import { Category } from "@/src/utils";
 
 export default function MainScreen() {
   const router = useRouter();
-
-  const category = [
-    { id: 1, name: "Material Handling" },
-    { id: 3, name: "Construction" },
-    { id: 2, name: "Steel Machineries" },
-    { id: 4, name: "Industrial Technologies" },
-  ];
 
   return (
     <ScrollView style={styles.container}>
@@ -23,7 +17,7 @@ export default function MainScreen() {
         />
       </View>
       <View style={styles.cardContainer}>
-        {category.map((item, index) => (
+        {Category.map((item, index) => (
           <Cards
             key={index}
             option={item}
@@ -54,6 +48,7 @@ const styles = StyleSheet.create({
     justifyContent: "space-evenly",
     alignContent: "center",
     gap: 20,
+    marginTop: 30,
   },
   titleLogo: { width: 200, height: 100, marginLeft: 20 },
 });
