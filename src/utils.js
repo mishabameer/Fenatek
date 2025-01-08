@@ -78,7 +78,6 @@ export const getProductInCategory = (catName) => {
           {
             id: 201,
             name: "Welding Technology",
-            // // image: "assets/images/welding-technology.jpg",
             subCategories: [
               { id: 2011, name: "Pipe Welding Automation" },
               { id: 2012, name: "Welding Tables" },
@@ -93,7 +92,6 @@ export const getProductInCategory = (catName) => {
           {
             id: 202,
             name: "Laser Technology",
-            // // image: "assets/images/lifting-machine.jpg",
             subCategories: [
               { id: 2021, name: "Laser Cutting Machine" },
               { id: 2022, name: "Laser Welding Machines" },
@@ -103,7 +101,6 @@ export const getProductInCategory = (catName) => {
           {
             id: 203,
             name: "Piping Solutions",
-            // // image: "assets/images/lifting-machine.jpg",
             subCategories: [
               { id: 2031, name: "Pipe Grinding Machine" },
               { id: 2032, name: "Pipe Beveling Machine" },
@@ -114,7 +111,6 @@ export const getProductInCategory = (catName) => {
           {
             id: 204,
             name: "Forming Technology",
-            // image: "assets/images/forming-technology.jpg",
             subCategories: [
               { id: 2041, name: "Sheet Metal Processing Lines" },
               { id: 2042, name: "Press Brakes" },
@@ -124,7 +120,6 @@ export const getProductInCategory = (catName) => {
           {
             id: 205,
             name: "Cutting Technology",
-            // // image: "assets/images/cutting-technology.jpg",
             subCategories: [
               { id: 2051, name: "Cutting and Machining Tools" },
               { id: 2052, name: "MultiTapper Machine" },
@@ -134,7 +129,6 @@ export const getProductInCategory = (catName) => {
           {
             id: 206,
             name: "CNC Machines",
-            // // image: "assets/images/cnc-machines.jpg",
             subCategories: [
               { id: 2061, name: "CNC Laser Cutting Machine" },
               { id: 2062, name: "CNC Plasma Gas Cutting Machine" },
@@ -143,7 +137,6 @@ export const getProductInCategory = (catName) => {
           {
             id: 207,
             name: "Surface & Edge Finishing Technology",
-            // // image: "assets/images/finishing-technology.jpg",
             subCategories: [
               { id: 2071, name: "Tube Bending Machine" },
               { id: 2072, name: "Surface Protection" },
@@ -153,7 +146,6 @@ export const getProductInCategory = (catName) => {
           {
             id: 208,
             name: "Assembly Solutions",
-            // // image: "assets/images/assembly-solutions.jpg",
             subCategories: [
               { id: 2081, name: "Clamps and Pliers" },
               { id: 2082, name: "Fastener Insertion Machine" },
@@ -163,7 +155,6 @@ export const getProductInCategory = (catName) => {
           {
             id: 209,
             name: "Storage Solutions",
-            // // image: "assets/images/storage-solutions.jpg",
             subCategories: [
               { id: 2091, name: "Sheet Metal and Bar Stock Storage" },
               { id: 2092, name: "Tool Cabinets and Road Boxes" },
@@ -173,7 +164,6 @@ export const getProductInCategory = (catName) => {
           {
             id: 210,
             name: "Marking Solutions",
-            // // image: "assets/images/marking-solutions.jpg",
             subCategories: [{ id: 2101, name: "Laser Marking" }],
           },
         ],
@@ -184,7 +174,7 @@ export const getProductInCategory = (catName) => {
         id: 3,
         name: "Construction",
         products: [
-          { id: 301, name: "Lifting & Handling Robots" },
+          { id: 301, name: "Lifting and Handling Robots" },
           { id: 302, name: "Industrial Hoses" },
           { id: 303, name: "Dumpers and Carriers" },
           { id: 304, name: "Spider Lifters" },

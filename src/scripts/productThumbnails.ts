@@ -35,7 +35,7 @@ export const productThumbnails: ProductThumbnails = {
   "laser-marking": require("../../assets/images/productThumbnails/laser-marking.jpg"),
   "laser-welding-machines": require("../../assets/images/productThumbnails/laser-welding-machines.jpg"),
   "lean-system": require("../../assets/images/productThumbnails/lean-system.jpg"),
-  "lifting-&-handling-robots": require("../../assets/images/productThumbnails/lifting-&-handling-robots.jpg"),
+  "lifting-and-handling-robots": require("../../assets/images/productThumbnails/lifting-and-handling-robots.jpg"),
   "magnetic-lifter": require("../../assets/images/productThumbnails/magnetic-lifter.jpg"),
   "magnets-for-positioning-and-holding": require("../../assets/images/productThumbnails/magnets-for-positioning-and-holding.jpg"),
   "mobile-lifters": require("../../assets/images/productThumbnails/mobile-lifters.jpg"),

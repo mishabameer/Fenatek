@@ -853,23 +853,23 @@ const GetProductData = (name) => {
         ]
       };
 
-    case "lifting-&-handling-robots":
+    case "lifting-and-handling-robots":
       return {
         images: [
-          { id: 1, path: require("../assets/images/product/lifting-&-handling-robots/1.jpg") },
-          { id: 2, path: require("../assets/images/product/lifting-&-handling-robots/10.jpg") },
-          { id: 3, path: require("../assets/images/product/lifting-&-handling-robots/11.jpg") },
-          { id: 4, path: require("../assets/images/product/lifting-&-handling-robots/12.jpg") },
-          { id: 5, path: require("../assets/images/product/lifting-&-handling-robots/13.jpg") },
-          { id: 6, path: require("../assets/images/product/lifting-&-handling-robots/14.jpg") },
-          { id: 7, path: require("../assets/images/product/lifting-&-handling-robots/2.jpg") },
-          { id: 8, path: require("../assets/images/product/lifting-&-handling-robots/3.jpg") },
-          { id: 9, path: require("../assets/images/product/lifting-&-handling-robots/4.jpg") },
-          { id: 10, path: require("../assets/images/product/lifting-&-handling-robots/5.jpg") },
-          { id: 11, path: require("../assets/images/product/lifting-&-handling-robots/6.jpg") },
-          { id: 12, path: require("../assets/images/product/lifting-&-handling-robots/7.jpg") },
-          { id: 13, path: require("../assets/images/product/lifting-&-handling-robots/8.jpg") },
-          { id: 14, path: require("../assets/images/product/lifting-&-handling-robots/9.jpg") }
+          { id: 1, path: require("../assets/images/product/lifting-and-handling-robots/1.jpg") },
+          { id: 2, path: require("../assets/images/product/lifting-and-handling-robots/10.jpg") },
+          { id: 3, path: require("../assets/images/product/lifting-and-handling-robots/11.jpg") },
+          { id: 4, path: require("../assets/images/product/lifting-and-handling-robots/12.jpg") },
+          { id: 5, path: require("../assets/images/product/lifting-and-handling-robots/13.jpg") },
+          { id: 6, path: require("../assets/images/product/lifting-and-handling-robots/14.jpg") },
+          { id: 7, path: require("../assets/images/product/lifting-and-handling-robots/2.jpg") },
+          { id: 8, path: require("../assets/images/product/lifting-and-handling-robots/3.jpg") },
+          { id: 9, path: require("../assets/images/product/lifting-and-handling-robots/4.jpg") },
+          { id: 10, path: require("../assets/images/product/lifting-and-handling-robots/5.jpg") },
+          { id: 11, path: require("../assets/images/product/lifting-and-handling-robots/6.jpg") },
+          { id: 12, path: require("../assets/images/product/lifting-and-handling-robots/7.jpg") },
+          { id: 13, path: require("../assets/images/product/lifting-and-handling-robots/8.jpg") },
+          { id: 14, path: require("../assets/images/product/lifting-and-handling-robots/9.jpg") }
         ],
         videos: [
           { id: 1, uri: "https://www.youtube.com/embed/eUEw_akYEBU" },
