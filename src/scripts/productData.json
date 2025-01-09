@@ -1464,27 +1464,27 @@
             },
             {
                 "id": 8,
-                "path": "../assets/images/product/glass-vacuum-lifters/vacuum2.jpg"
-            },
-            {
-                "id": 9,
                 "path": "../assets/images/product/glass-vacuum-lifters/Vacuum3-1.jpg"
             },
             {
-                "id": 10,
-                "path": "../assets/images/product/glass-vacuum-lifters/vacuum3.jpg"
-            },
-            {
-                "id": 11,
+                "id": 9,
                 "path": "../assets/images/product/glass-vacuum-lifters/Vacuum4-1.jpg"
             },
             {
-                "id": 12,
+                "id": 10,
                 "path": "../assets/images/product/glass-vacuum-lifters/Vacuum5-1.jpg"
             },
             {
-                "id": 13,
+                "id": 11,
                 "path": "../assets/images/product/glass-vacuum-lifters/Vacuum5.jpg"
+            },
+            {
+                "id": 12,
+                "path": "../assets/images/product/glass-vacuum-lifters/vacuum2.jpg"
+            },
+            {
+                "id": 13,
+                "path": "../assets/images/product/glass-vacuum-lifters/vacuum3.jpg"
             }
         ],
         "videos": [
@@ -4477,35 +4477,35 @@
             },
             {
                 "id": 5,
-                "path": "../assets/images/product/shrink-wrap/key1-5.jpg"
-            },
-            {
-                "id": 6,
-                "path": "../assets/images/product/shrink-wrap/key2-4.jpg"
-            },
-            {
-                "id": 7,
-                "path": "../assets/images/product/shrink-wrap/key3-3.jpg"
-            },
-            {
-                "id": 8,
-                "path": "../assets/images/product/shrink-wrap/key4-1.jpg"
-            },
-            {
-                "id": 9,
                 "path": "../assets/images/product/shrink-wrap/PACKAGE-2-WHITE.jpg"
             },
             {
-                "id": 10,
+                "id": 6,
                 "path": "../assets/images/product/shrink-wrap/RIPACK-2200-HEAT-GUN.jpg"
             },
             {
-                "id": 11,
+                "id": 7,
                 "path": "../assets/images/product/shrink-wrap/SHRINKFAST-998-30A-COMBUSTOR-INCLUDES-30322883.jpg"
             },
             {
-                "id": 12,
+                "id": 8,
                 "path": "../assets/images/product/shrink-wrap/SHRINKFAST-998-HEAT-GUN-2.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/shrink-wrap/key1-5.jpg"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/shrink-wrap/key2-4.jpg"
+            },
+            {
+                "id": 11,
+                "path": "../assets/images/product/shrink-wrap/key3-3.jpg"
+            },
+            {
+                "id": 12,
+                "path": "../assets/images/product/shrink-wrap/key4-1.jpg"
             }
         ],
         "videos": [
@@ -4757,51 +4757,51 @@
         "images": [
             {
                 "id": 1,
-                "path": "../assets/images/product/stone-vacuum-lifters/st.jpg"
+                "path": "../assets/images/product/stone-vacuum-lifters/Stonevacuum.jpg"
             },
             {
                 "id": 2,
-                "path": "../assets/images/product/stone-vacuum-lifters/st1.jpg"
+                "path": "../assets/images/product/stone-vacuum-lifters/st.jpg"
             },
             {
                 "id": 3,
-                "path": "../assets/images/product/stone-vacuum-lifters/st2.jpg"
+                "path": "../assets/images/product/stone-vacuum-lifters/st1.jpg"
             },
             {
                 "id": 4,
-                "path": "../assets/images/product/stone-vacuum-lifters/st3.jpg"
+                "path": "../assets/images/product/stone-vacuum-lifters/st2.jpg"
             },
             {
                 "id": 5,
-                "path": "../assets/images/product/stone-vacuum-lifters/st4.jpg"
+                "path": "../assets/images/product/stone-vacuum-lifters/st3.jpg"
             },
             {
                 "id": 6,
-                "path": "../assets/images/product/stone-vacuum-lifters/stone1.jpg"
+                "path": "../assets/images/product/stone-vacuum-lifters/st4.jpg"
             },
             {
                 "id": 7,
-                "path": "../assets/images/product/stone-vacuum-lifters/stone2.jpg"
+                "path": "../assets/images/product/stone-vacuum-lifters/stone1.jpg"
             },
             {
                 "id": 8,
-                "path": "../assets/images/product/stone-vacuum-lifters/stone3.jpg"
+                "path": "../assets/images/product/stone-vacuum-lifters/stone2.jpg"
             },
             {
                 "id": 9,
-                "path": "../assets/images/product/stone-vacuum-lifters/stone4.jpg"
+                "path": "../assets/images/product/stone-vacuum-lifters/stone3.jpg"
             },
             {
                 "id": 10,
-                "path": "../assets/images/product/stone-vacuum-lifters/stone5.jpg"
+                "path": "../assets/images/product/stone-vacuum-lifters/stone4.jpg"
             },
             {
                 "id": 11,
-                "path": "../assets/images/product/stone-vacuum-lifters/stone6.jpg"
+                "path": "../assets/images/product/stone-vacuum-lifters/stone5.jpg"
             },
             {
                 "id": 12,
-                "path": "../assets/images/product/stone-vacuum-lifters/Stonevacuum.jpg"
+                "path": "../assets/images/product/stone-vacuum-lifters/stone6.jpg"
             }
         ],
         "videos": [

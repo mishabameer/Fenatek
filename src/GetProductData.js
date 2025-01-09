@@ -481,12 +481,12 @@ const GetProductData = (name) => {
           { id: 5, path: require("../assets/images/product/glass-vacuum-lifters/Electric-Vacuum.jpg") },
           { id: 6, path: require("../assets/images/product/glass-vacuum-lifters/Pneumatic-Glass.jpg") },
           { id: 7, path: require("../assets/images/product/glass-vacuum-lifters/Vacuum2-1.jpg") },
-          { id: 8, path: require("../assets/images/product/glass-vacuum-lifters/vacuum2.jpg") },
-          { id: 9, path: require("../assets/images/product/glass-vacuum-lifters/Vacuum3-1.jpg") },
-          { id: 10, path: require("../assets/images/product/glass-vacuum-lifters/vacuum3.jpg") },
-          { id: 11, path: require("../assets/images/product/glass-vacuum-lifters/Vacuum4-1.jpg") },
-          { id: 12, path: require("../assets/images/product/glass-vacuum-lifters/Vacuum5-1.jpg") },
-          { id: 13, path: require("../assets/images/product/glass-vacuum-lifters/Vacuum5.jpg") }
+          { id: 8, path: require("../assets/images/product/glass-vacuum-lifters/Vacuum3-1.jpg") },
+          { id: 9, path: require("../assets/images/product/glass-vacuum-lifters/Vacuum4-1.jpg") },
+          { id: 10, path: require("../assets/images/product/glass-vacuum-lifters/Vacuum5-1.jpg") },
+          { id: 11, path: require("../assets/images/product/glass-vacuum-lifters/Vacuum5.jpg") },
+          { id: 12, path: require("../assets/images/product/glass-vacuum-lifters/vacuum2.jpg") },
+          { id: 13, path: require("../assets/images/product/glass-vacuum-lifters/vacuum3.jpg") }
         ],
         videos: [
           { id: 1, uri: "https://www.youtube.com/embed/F_NEUOm7-p8" },
@@ -1533,14 +1533,14 @@ const GetProductData = (name) => {
           { id: 2, path: require("../assets/images/product/shrink-wrap/4-4.jpg") },
           { id: 3, path: require("../assets/images/product/shrink-wrap/61u-5b8VuHL._AC_SL1020_.jpg") },
           { id: 4, path: require("../assets/images/product/shrink-wrap/BLUE-SHRINK-WRAP-ROLLS.jpg") },
-          { id: 5, path: require("../assets/images/product/shrink-wrap/key1-5.jpg") },
-          { id: 6, path: require("../assets/images/product/shrink-wrap/key2-4.jpg") },
-          { id: 7, path: require("../assets/images/product/shrink-wrap/key3-3.jpg") },
-          { id: 8, path: require("../assets/images/product/shrink-wrap/key4-1.jpg") },
-          { id: 9, path: require("../assets/images/product/shrink-wrap/PACKAGE-2-WHITE.jpg") },
-          { id: 10, path: require("../assets/images/product/shrink-wrap/RIPACK-2200-HEAT-GUN.jpg") },
-          { id: 11, path: require("../assets/images/product/shrink-wrap/SHRINKFAST-998-30A-COMBUSTOR-INCLUDES-30322883.jpg") },
-          { id: 12, path: require("../assets/images/product/shrink-wrap/SHRINKFAST-998-HEAT-GUN-2.jpg") }
+          { id: 5, path: require("../assets/images/product/shrink-wrap/PACKAGE-2-WHITE.jpg") },
+          { id: 6, path: require("../assets/images/product/shrink-wrap/RIPACK-2200-HEAT-GUN.jpg") },
+          { id: 7, path: require("../assets/images/product/shrink-wrap/SHRINKFAST-998-30A-COMBUSTOR-INCLUDES-30322883.jpg") },
+          { id: 8, path: require("../assets/images/product/shrink-wrap/SHRINKFAST-998-HEAT-GUN-2.jpg") },
+          { id: 9, path: require("../assets/images/product/shrink-wrap/key1-5.jpg") },
+          { id: 10, path: require("../assets/images/product/shrink-wrap/key2-4.jpg") },
+          { id: 11, path: require("../assets/images/product/shrink-wrap/key3-3.jpg") },
+          { id: 12, path: require("../assets/images/product/shrink-wrap/key4-1.jpg") }
         ],
         videos: [
           { id: 1, uri: "https://www.youtube.com/embed/VoWnQ00nAiQ" },
@@ -1629,18 +1629,18 @@ const GetProductData = (name) => {
     case "stone-vacuum-lifters":
       return {
         images: [
-          { id: 1, path: require("../assets/images/product/stone-vacuum-lifters/st.jpg") },
-          { id: 2, path: require("../assets/images/product/stone-vacuum-lifters/st1.jpg") },
-          { id: 3, path: require("../assets/images/product/stone-vacuum-lifters/st2.jpg") },
-          { id: 4, path: require("../assets/images/product/stone-vacuum-lifters/st3.jpg") },
-          { id: 5, path: require("../assets/images/product/stone-vacuum-lifters/st4.jpg") },
-          { id: 6, path: require("../assets/images/product/stone-vacuum-lifters/stone1.jpg") },
-          { id: 7, path: require("../assets/images/product/stone-vacuum-lifters/stone2.jpg") },
-          { id: 8, path: require("../assets/images/product/stone-vacuum-lifters/stone3.jpg") },
-          { id: 9, path: require("../assets/images/product/stone-vacuum-lifters/stone4.jpg") },
-          { id: 10, path: require("../assets/images/product/stone-vacuum-lifters/stone5.jpg") },
-          { id: 11, path: require("../assets/images/product/stone-vacuum-lifters/stone6.jpg") },
-          { id: 12, path: require("../assets/images/product/stone-vacuum-lifters/Stonevacuum.jpg") }
+          { id: 1, path: require("../assets/images/product/stone-vacuum-lifters/Stonevacuum.jpg") },
+          { id: 2, path: require("../assets/images/product/stone-vacuum-lifters/st.jpg") },
+          { id: 3, path: require("../assets/images/product/stone-vacuum-lifters/st1.jpg") },
+          { id: 4, path: require("../assets/images/product/stone-vacuum-lifters/st2.jpg") },
+          { id: 5, path: require("../assets/images/product/stone-vacuum-lifters/st3.jpg") },
+          { id: 6, path: require("../assets/images/product/stone-vacuum-lifters/st4.jpg") },
+          { id: 7, path: require("../assets/images/product/stone-vacuum-lifters/stone1.jpg") },
+          { id: 8, path: require("../assets/images/product/stone-vacuum-lifters/stone2.jpg") },
+          { id: 9, path: require("../assets/images/product/stone-vacuum-lifters/stone3.jpg") },
+          { id: 10, path: require("../assets/images/product/stone-vacuum-lifters/stone4.jpg") },
+          { id: 11, path: require("../assets/images/product/stone-vacuum-lifters/stone5.jpg") },
+          { id: 12, path: require("../assets/images/product/stone-vacuum-lifters/stone6.jpg") }
         ],
         videos: [
           { id: 1, uri: "https://www.youtube.com/embed/9lcbzs3c8ZM" },
