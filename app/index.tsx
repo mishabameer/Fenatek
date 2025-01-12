@@ -13,7 +13,7 @@ export default function MainScreen() {
         <Image
           source={require("../assets/images/logo/fena-logo.png")}
           style={styles.titleLogo}
-          resizeMode="contain"
+          resizeMode="cover"
         />
       </View>
       <View style={styles.cardContainer}>
@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: "#ff910068",
   },
-  title: { width: "100%", backgroundColor: "#000", height: 100 },
+  title: { width: "100%", backgroundColor: "#000", height: 80 },
   cardContainer: {
     padding: 20,
     flex: 1,
@@ -50,5 +50,5 @@ const styles = StyleSheet.create({
     gap: 20,
     marginTop: 30,
   },
-  titleLogo: { width: 200, height: 100, marginLeft: 20 },
+  titleLogo: { width: 200, height: 80, marginLeft: 20 },
 });
