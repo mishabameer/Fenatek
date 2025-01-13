@@ -1,6 +1,19 @@
 const GetProductData = (name) => {
   const normalizedName = name.toLowerCase().replace(/\s+/g, "-");
   switch (normalizedName) {
+    case "ai-based-robotic-welding-systems":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/ai-based-robotic-welding-systems/1.png") },
+          { id: 2, path: require("../assets/images/product/ai-based-robotic-welding-systems/2.jpg") },
+          { id: 3, path: require("../assets/images/product/ai-based-robotic-welding-systems/3.png") },
+          { id: 4, path: require("../assets/images/product/ai-based-robotic-welding-systems/4.png") }
+        ],
+        videos: [
+
+        ]
+      };
+
     case "aircraft-tugs":
       return {
         images: [
@@ -55,6 +68,25 @@ const GetProductData = (name) => {
           { id: 6, uri: "https://www.youtube.com/embed/_kBbDDdOkXk" },
           { id: 7, uri: "https://www.youtube.com/embed/h3CbXKmWYiw" },
           { id: 8, uri: "https://www.youtube.com/embed/RDlJGDtJGPw" }
+        ]
+      };
+
+    case "bandsaw-cutting":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/bandsaw-cutting/1.png") },
+          { id: 2, path: require("../assets/images/product/bandsaw-cutting/10.png") },
+          { id: 3, path: require("../assets/images/product/bandsaw-cutting/2.png") },
+          { id: 4, path: require("../assets/images/product/bandsaw-cutting/3.png") },
+          { id: 5, path: require("../assets/images/product/bandsaw-cutting/4.png") },
+          { id: 6, path: require("../assets/images/product/bandsaw-cutting/5.png") },
+          { id: 7, path: require("../assets/images/product/bandsaw-cutting/6.png") },
+          { id: 8, path: require("../assets/images/product/bandsaw-cutting/7.png") },
+          { id: 9, path: require("../assets/images/product/bandsaw-cutting/8.png") },
+          { id: 10, path: require("../assets/images/product/bandsaw-cutting/9.png") }
+        ],
+        videos: [
+
         ]
       };
 
@@ -306,18 +338,19 @@ const GetProductData = (name) => {
         images: [
           { id: 1, path: require("../assets/images/product/dumpers-and-carriers/1.jpg") },
           { id: 2, path: require("../assets/images/product/dumpers-and-carriers/10.jpg") },
-          { id: 3, path: require("../assets/images/product/dumpers-and-carriers/2.jpg") },
-          { id: 4, path: require("../assets/images/product/dumpers-and-carriers/3.jpg") },
-          { id: 5, path: require("../assets/images/product/dumpers-and-carriers/4.jpg") },
-          { id: 6, path: require("../assets/images/product/dumpers-and-carriers/5.jpg") },
-          { id: 7, path: require("../assets/images/product/dumpers-and-carriers/6.jpg") },
-          { id: 8, path: require("../assets/images/product/dumpers-and-carriers/7.jpg") },
-          { id: 9, path: require("../assets/images/product/dumpers-and-carriers/8.jpg") },
-          { id: 10, path: require("../assets/images/product/dumpers-and-carriers/9.jpg") },
-          { id: 11, path: require("../assets/images/product/dumpers-and-carriers/d.jpg") },
-          { id: 12, path: require("../assets/images/product/dumpers-and-carriers/key2-13.jpg") },
-          { id: 13, path: require("../assets/images/product/dumpers-and-carriers/key3-11.jpg") },
-          { id: 14, path: require("../assets/images/product/dumpers-and-carriers/key4-9.jpg") }
+          { id: 3, path: require("../assets/images/product/dumpers-and-carriers/11.jpg") },
+          { id: 4, path: require("../assets/images/product/dumpers-and-carriers/2.jpg") },
+          { id: 5, path: require("../assets/images/product/dumpers-and-carriers/3.jpg") },
+          { id: 6, path: require("../assets/images/product/dumpers-and-carriers/4.jpg") },
+          { id: 7, path: require("../assets/images/product/dumpers-and-carriers/5.jpg") },
+          { id: 8, path: require("../assets/images/product/dumpers-and-carriers/6.jpg") },
+          { id: 9, path: require("../assets/images/product/dumpers-and-carriers/7.jpg") },
+          { id: 10, path: require("../assets/images/product/dumpers-and-carriers/8.png") },
+          { id: 11, path: require("../assets/images/product/dumpers-and-carriers/9.jpg") },
+          { id: 12, path: require("../assets/images/product/dumpers-and-carriers/d.jpg") },
+          { id: 13, path: require("../assets/images/product/dumpers-and-carriers/key2-13.jpg") },
+          { id: 14, path: require("../assets/images/product/dumpers-and-carriers/key3-11.jpg") },
+          { id: 15, path: require("../assets/images/product/dumpers-and-carriers/key4-9.jpg") }
         ],
         videos: [
           { id: 1, uri: "https://www.youtube.com/embed/QfgpjnYJmWI" },
@@ -629,33 +662,39 @@ const GetProductData = (name) => {
       return {
         images: [
           { id: 1, path: require("../assets/images/product/industrial-flooring-solutions/1-11.jpg") },
-          { id: 2, path: require("../assets/images/product/industrial-flooring-solutions/11-1.jpg") },
-          { id: 3, path: require("../assets/images/product/industrial-flooring-solutions/12.jpg") },
-          { id: 4, path: require("../assets/images/product/industrial-flooring-solutions/13-1.jpg") },
-          { id: 5, path: require("../assets/images/product/industrial-flooring-solutions/14-1.jpg") },
-          { id: 6, path: require("../assets/images/product/industrial-flooring-solutions/15-1.jpg") },
-          { id: 7, path: require("../assets/images/product/industrial-flooring-solutions/16.jpg") },
-          { id: 8, path: require("../assets/images/product/industrial-flooring-solutions/2-10.jpg") },
-          { id: 9, path: require("../assets/images/product/industrial-flooring-solutions/3-11.jpg") },
-          { id: 10, path: require("../assets/images/product/industrial-flooring-solutions/4-9.jpg") },
-          { id: 11, path: require("../assets/images/product/industrial-flooring-solutions/5-7.jpg") },
-          { id: 12, path: require("../assets/images/product/industrial-flooring-solutions/8-1.jpg") },
-          { id: 13, path: require("../assets/images/product/industrial-flooring-solutions/key1-16.jpg") },
-          { id: 14, path: require("../assets/images/product/industrial-flooring-solutions/key10-2.jpg") },
-          { id: 15, path: require("../assets/images/product/industrial-flooring-solutions/key11-1.jpg") },
-          { id: 16, path: require("../assets/images/product/industrial-flooring-solutions/key12-1.jpg") },
-          { id: 17, path: require("../assets/images/product/industrial-flooring-solutions/key13-1.jpg") },
-          { id: 18, path: require("../assets/images/product/industrial-flooring-solutions/key14.jpg") },
-          { id: 19, path: require("../assets/images/product/industrial-flooring-solutions/key15.jpg") },
-          { id: 20, path: require("../assets/images/product/industrial-flooring-solutions/key16.jpg") },
-          { id: 21, path: require("../assets/images/product/industrial-flooring-solutions/key2-12.jpg") },
-          { id: 22, path: require("../assets/images/product/industrial-flooring-solutions/key3-10.jpg") },
-          { id: 23, path: require("../assets/images/product/industrial-flooring-solutions/key4-8.jpg") },
-          { id: 24, path: require("../assets/images/product/industrial-flooring-solutions/key5-7.jpg") },
-          { id: 25, path: require("../assets/images/product/industrial-flooring-solutions/key6-6.jpg") },
-          { id: 26, path: require("../assets/images/product/industrial-flooring-solutions/key7-5.jpg") },
-          { id: 27, path: require("../assets/images/product/industrial-flooring-solutions/key8-3.jpg") },
-          { id: 28, path: require("../assets/images/product/industrial-flooring-solutions/key9-3.jpg") }
+          { id: 2, path: require("../assets/images/product/industrial-flooring-solutions/1.jpg") },
+          { id: 3, path: require("../assets/images/product/industrial-flooring-solutions/11-1.jpg") },
+          { id: 4, path: require("../assets/images/product/industrial-flooring-solutions/12.jpg") },
+          { id: 5, path: require("../assets/images/product/industrial-flooring-solutions/13-1.jpg") },
+          { id: 6, path: require("../assets/images/product/industrial-flooring-solutions/14-1.jpg") },
+          { id: 7, path: require("../assets/images/product/industrial-flooring-solutions/15-1.jpg") },
+          { id: 8, path: require("../assets/images/product/industrial-flooring-solutions/16.jpg") },
+          { id: 9, path: require("../assets/images/product/industrial-flooring-solutions/2-10.jpg") },
+          { id: 10, path: require("../assets/images/product/industrial-flooring-solutions/2.jpg") },
+          { id: 11, path: require("../assets/images/product/industrial-flooring-solutions/3-11.jpg") },
+          { id: 12, path: require("../assets/images/product/industrial-flooring-solutions/3.jpg") },
+          { id: 13, path: require("../assets/images/product/industrial-flooring-solutions/4-9.jpg") },
+          { id: 14, path: require("../assets/images/product/industrial-flooring-solutions/4.jpg") },
+          { id: 15, path: require("../assets/images/product/industrial-flooring-solutions/5-7.jpg") },
+          { id: 16, path: require("../assets/images/product/industrial-flooring-solutions/5.jpg") },
+          { id: 17, path: require("../assets/images/product/industrial-flooring-solutions/7.png") },
+          { id: 18, path: require("../assets/images/product/industrial-flooring-solutions/8-1.jpg") },
+          { id: 19, path: require("../assets/images/product/industrial-flooring-solutions/key1-16.jpg") },
+          { id: 20, path: require("../assets/images/product/industrial-flooring-solutions/key10-2.jpg") },
+          { id: 21, path: require("../assets/images/product/industrial-flooring-solutions/key11-1.jpg") },
+          { id: 22, path: require("../assets/images/product/industrial-flooring-solutions/key12-1.jpg") },
+          { id: 23, path: require("../assets/images/product/industrial-flooring-solutions/key13-1.jpg") },
+          { id: 24, path: require("../assets/images/product/industrial-flooring-solutions/key14.jpg") },
+          { id: 25, path: require("../assets/images/product/industrial-flooring-solutions/key15.jpg") },
+          { id: 26, path: require("../assets/images/product/industrial-flooring-solutions/key16.jpg") },
+          { id: 27, path: require("../assets/images/product/industrial-flooring-solutions/key2-12.jpg") },
+          { id: 28, path: require("../assets/images/product/industrial-flooring-solutions/key3-10.jpg") },
+          { id: 29, path: require("../assets/images/product/industrial-flooring-solutions/key4-8.jpg") },
+          { id: 30, path: require("../assets/images/product/industrial-flooring-solutions/key5-7.jpg") },
+          { id: 31, path: require("../assets/images/product/industrial-flooring-solutions/key6-6.jpg") },
+          { id: 32, path: require("../assets/images/product/industrial-flooring-solutions/key7-5.jpg") },
+          { id: 33, path: require("../assets/images/product/industrial-flooring-solutions/key8-3.jpg") },
+          { id: 34, path: require("../assets/images/product/industrial-flooring-solutions/key9-3.jpg") }
         ],
         videos: [
           { id: 1, uri: "https://www.youtube.com/embed/ymgV5wCuxZU" },
@@ -728,15 +767,37 @@ const GetProductData = (name) => {
       return {
         images: [
           { id: 1, path: require("../assets/images/product/industrial-springs/1.png") },
-          { id: 2, path: require("../assets/images/product/industrial-springs/2.png") },
-          { id: 3, path: require("../assets/images/product/industrial-springs/4.png") },
-          { id: 4, path: require("../assets/images/product/industrial-springs/6.png") },
-          { id: 5, path: require("../assets/images/product/industrial-springs/7.png") },
-          { id: 6, path: require("../assets/images/product/industrial-springs/8.png") },
-          { id: 7, path: require("../assets/images/product/industrial-springs/key1.png") },
-          { id: 8, path: require("../assets/images/product/industrial-springs/key2.png") },
-          { id: 9, path: require("../assets/images/product/industrial-springs/key3.png") },
-          { id: 10, path: require("../assets/images/product/industrial-springs/key4.png") }
+          { id: 2, path: require("../assets/images/product/industrial-springs/10.png") },
+          { id: 3, path: require("../assets/images/product/industrial-springs/11.png") },
+          { id: 4, path: require("../assets/images/product/industrial-springs/12.png") },
+          { id: 5, path: require("../assets/images/product/industrial-springs/13.png") },
+          { id: 6, path: require("../assets/images/product/industrial-springs/14.png") },
+          { id: 7, path: require("../assets/images/product/industrial-springs/2.png") },
+          { id: 8, path: require("../assets/images/product/industrial-springs/4.png") },
+          { id: 9, path: require("../assets/images/product/industrial-springs/6.png") },
+          { id: 10, path: require("../assets/images/product/industrial-springs/7.png") },
+          { id: 11, path: require("../assets/images/product/industrial-springs/8.png") },
+          { id: 12, path: require("../assets/images/product/industrial-springs/9.png") },
+          { id: 13, path: require("../assets/images/product/industrial-springs/key1.png") },
+          { id: 14, path: require("../assets/images/product/industrial-springs/key2.png") },
+          { id: 15, path: require("../assets/images/product/industrial-springs/key3.png") },
+          { id: 16, path: require("../assets/images/product/industrial-springs/key4.png") }
+        ],
+        videos: [
+
+        ]
+      };
+
+    case "inkjet-printing":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/inkjet-printing/1.png") },
+          { id: 2, path: require("../assets/images/product/inkjet-printing/2.png") },
+          { id: 3, path: require("../assets/images/product/inkjet-printing/3.jpg") },
+          { id: 4, path: require("../assets/images/product/inkjet-printing/4.png") },
+          { id: 5, path: require("../assets/images/product/inkjet-printing/5.png") },
+          { id: 6, path: require("../assets/images/product/inkjet-printing/6.png") },
+          { id: 7, path: require("../assets/images/product/inkjet-printing/7.png") }
         ],
         videos: [
 
@@ -1226,14 +1287,15 @@ const GetProductData = (name) => {
           { id: 1, path: require("../assets/images/product/pipe-vacuum-lifters/1.jpg") },
           { id: 2, path: require("../assets/images/product/pipe-vacuum-lifters/10.jpg") },
           { id: 3, path: require("../assets/images/product/pipe-vacuum-lifters/11.jpg") },
-          { id: 4, path: require("../assets/images/product/pipe-vacuum-lifters/2.jpg") },
-          { id: 5, path: require("../assets/images/product/pipe-vacuum-lifters/3.jpg") },
-          { id: 6, path: require("../assets/images/product/pipe-vacuum-lifters/4.jpg") },
-          { id: 7, path: require("../assets/images/product/pipe-vacuum-lifters/5.jpg") },
-          { id: 8, path: require("../assets/images/product/pipe-vacuum-lifters/6.jpg") },
-          { id: 9, path: require("../assets/images/product/pipe-vacuum-lifters/7.jpg") },
-          { id: 10, path: require("../assets/images/product/pipe-vacuum-lifters/8.jpg") },
-          { id: 11, path: require("../assets/images/product/pipe-vacuum-lifters/9.jpg") }
+          { id: 4, path: require("../assets/images/product/pipe-vacuum-lifters/12.jpg") },
+          { id: 5, path: require("../assets/images/product/pipe-vacuum-lifters/2.jpg") },
+          { id: 6, path: require("../assets/images/product/pipe-vacuum-lifters/3.jpg") },
+          { id: 7, path: require("../assets/images/product/pipe-vacuum-lifters/4.jpg") },
+          { id: 8, path: require("../assets/images/product/pipe-vacuum-lifters/5.jpg") },
+          { id: 9, path: require("../assets/images/product/pipe-vacuum-lifters/6.jpg") },
+          { id: 10, path: require("../assets/images/product/pipe-vacuum-lifters/7.jpg") },
+          { id: 11, path: require("../assets/images/product/pipe-vacuum-lifters/8.jpg") },
+          { id: 12, path: require("../assets/images/product/pipe-vacuum-lifters/9.jpg") }
         ],
         videos: [
           { id: 1, uri: "https://www.youtube.com/embed/kMG2lIdKOoE" },
@@ -1389,22 +1451,28 @@ const GetProductData = (name) => {
         images: [
           { id: 1, path: require("../assets/images/product/safety-barriers/12-2.jpg") },
           { id: 2, path: require("../assets/images/product/safety-barriers/13-2.jpg") },
-          { id: 3, path: require("../assets/images/product/safety-barriers/19-1.jpg") },
-          { id: 4, path: require("../assets/images/product/safety-barriers/3-4.jpg") },
-          { id: 5, path: require("../assets/images/product/safety-barriers/4-3.jpg") },
-          { id: 6, path: require("../assets/images/product/safety-barriers/key1-48.jpg") },
-          { id: 7, path: require("../assets/images/product/safety-barriers/key1-7.jpg") },
-          { id: 8, path: require("../assets/images/product/safety-barriers/key10-13.jpg") },
-          { id: 9, path: require("../assets/images/product/safety-barriers/key2-44.jpg") },
-          { id: 10, path: require("../assets/images/product/safety-barriers/key2-6.jpg") },
-          { id: 11, path: require("../assets/images/product/safety-barriers/key3-39.jpg") },
-          { id: 12, path: require("../assets/images/product/safety-barriers/key3-5.jpg") },
-          { id: 13, path: require("../assets/images/product/safety-barriers/key4-34.jpg") },
-          { id: 14, path: require("../assets/images/product/safety-barriers/key5-31.jpg") },
-          { id: 15, path: require("../assets/images/product/safety-barriers/key6-29.jpg") },
-          { id: 16, path: require("../assets/images/product/safety-barriers/key7-24.jpg") },
-          { id: 17, path: require("../assets/images/product/safety-barriers/key8-21.jpg") },
-          { id: 18, path: require("../assets/images/product/safety-barriers/key9-21.jpg") }
+          { id: 3, path: require("../assets/images/product/safety-barriers/13.jpg") },
+          { id: 4, path: require("../assets/images/product/safety-barriers/19-1.jpg") },
+          { id: 5, path: require("../assets/images/product/safety-barriers/21.jpg") },
+          { id: 6, path: require("../assets/images/product/safety-barriers/3-4.jpg") },
+          { id: 7, path: require("../assets/images/product/safety-barriers/321.jpg") },
+          { id: 8, path: require("../assets/images/product/safety-barriers/3211.jpg") },
+          { id: 9, path: require("../assets/images/product/safety-barriers/4-3.jpg") },
+          { id: 10, path: require("../assets/images/product/safety-barriers/41.jpg") },
+          { id: 11, path: require("../assets/images/product/safety-barriers/54.jpg") },
+          { id: 12, path: require("../assets/images/product/safety-barriers/key1-48.jpg") },
+          { id: 13, path: require("../assets/images/product/safety-barriers/key1-7.jpg") },
+          { id: 14, path: require("../assets/images/product/safety-barriers/key10-13.jpg") },
+          { id: 15, path: require("../assets/images/product/safety-barriers/key2-44.jpg") },
+          { id: 16, path: require("../assets/images/product/safety-barriers/key2-6.jpg") },
+          { id: 17, path: require("../assets/images/product/safety-barriers/key3-39.jpg") },
+          { id: 18, path: require("../assets/images/product/safety-barriers/key3-5.jpg") },
+          { id: 19, path: require("../assets/images/product/safety-barriers/key4-34.jpg") },
+          { id: 20, path: require("../assets/images/product/safety-barriers/key5-31.jpg") },
+          { id: 21, path: require("../assets/images/product/safety-barriers/key6-29.jpg") },
+          { id: 22, path: require("../assets/images/product/safety-barriers/key7-24.jpg") },
+          { id: 23, path: require("../assets/images/product/safety-barriers/key8-21.jpg") },
+          { id: 24, path: require("../assets/images/product/safety-barriers/key9-21.jpg") }
         ],
         videos: [
           { id: 1, uri: "https://www.youtube.com/embed/WxDMRudyv2s" },
@@ -1439,6 +1507,26 @@ const GetProductData = (name) => {
           { id: 2, uri: "https://www.youtube.com/embed/tV-lARrrpkE" },
           { id: 3, uri: "https://www.youtube.com/embed/2cu1npqK_mc" },
           { id: 4, uri: "https://www.youtube.com/embed/geOfE3j4iG8" }
+        ]
+      };
+
+    case "sandwich-panel-lifter":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/sandwich-panel-lifter/1.jpg") },
+          { id: 2, path: require("../assets/images/product/sandwich-panel-lifter/2.jpg") },
+          { id: 3, path: require("../assets/images/product/sandwich-panel-lifter/3.jpg") },
+          { id: 4, path: require("../assets/images/product/sandwich-panel-lifter/4.jpg") },
+          { id: 5, path: require("../assets/images/product/sandwich-panel-lifter/5.jpg") },
+          { id: 6, path: require("../assets/images/product/sandwich-panel-lifter/6.jpg") },
+          { id: 7, path: require("../assets/images/product/sandwich-panel-lifter/7.jpg") },
+          { id: 8, path: require("../assets/images/product/sandwich-panel-lifter/8.jpg") }
+        ],
+        videos: [
+          { id: 1, uri: "https://www.youtube.com/embed/PiOSwfEUazY" },
+          { id: 2, uri: "https://www.youtube.com/embed/BlE7KYfwLbI" },
+          { id: 3, uri: "https://www.youtube.com/embed/xqrkATyp2oA" },
+          { id: 4, uri: "https://www.youtube.com/embed/laOqkCQCPRg" }
         ]
       };
 
@@ -1550,6 +1638,28 @@ const GetProductData = (name) => {
         ]
       };
 
+    case "signalling-and-alarm-solutions":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/signalling-and-alarm-solutions/1.jpg") },
+          { id: 2, path: require("../assets/images/product/signalling-and-alarm-solutions/2.jpg") },
+          { id: 3, path: require("../assets/images/product/signalling-and-alarm-solutions/21.jpg") },
+          { id: 4, path: require("../assets/images/product/signalling-and-alarm-solutions/2431.png") },
+          { id: 5, path: require("../assets/images/product/signalling-and-alarm-solutions/3.jpg") },
+          { id: 6, path: require("../assets/images/product/signalling-and-alarm-solutions/31.png") },
+          { id: 7, path: require("../assets/images/product/signalling-and-alarm-solutions/312.png") },
+          { id: 8, path: require("../assets/images/product/signalling-and-alarm-solutions/4.jpg") },
+          { id: 9, path: require("../assets/images/product/signalling-and-alarm-solutions/423.png") },
+          { id: 10, path: require("../assets/images/product/signalling-and-alarm-solutions/4231.png") },
+          { id: 11, path: require("../assets/images/product/signalling-and-alarm-solutions/5.jpg") },
+          { id: 12, path: require("../assets/images/product/signalling-and-alarm-solutions/53.png") },
+          { id: 13, path: require("../assets/images/product/signalling-and-alarm-solutions/unnamed.png") }
+        ],
+        videos: [
+
+        ]
+      };
+
     case "solar-panel-cleaning":
       return {
         images: [
@@ -1654,13 +1764,16 @@ const GetProductData = (name) => {
       return {
         images: [
           { id: 1, path: require("../assets/images/product/strapping-machine/1.png") },
-          { id: 2, path: require("../assets/images/product/strapping-machine/2.png") },
-          { id: 3, path: require("../assets/images/product/strapping-machine/3.png") },
-          { id: 4, path: require("../assets/images/product/strapping-machine/4.png") },
-          { id: 5, path: require("../assets/images/product/strapping-machine/5.png") },
-          { id: 6, path: require("../assets/images/product/strapping-machine/6.png") },
-          { id: 7, path: require("../assets/images/product/strapping-machine/7.png") },
-          { id: 8, path: require("../assets/images/product/strapping-machine/8.png") }
+          { id: 2, path: require("../assets/images/product/strapping-machine/10.png") },
+          { id: 3, path: require("../assets/images/product/strapping-machine/11.png") },
+          { id: 4, path: require("../assets/images/product/strapping-machine/2.png") },
+          { id: 5, path: require("../assets/images/product/strapping-machine/3.png") },
+          { id: 6, path: require("../assets/images/product/strapping-machine/4.png") },
+          { id: 7, path: require("../assets/images/product/strapping-machine/5.png") },
+          { id: 8, path: require("../assets/images/product/strapping-machine/6.png") },
+          { id: 9, path: require("../assets/images/product/strapping-machine/7.png") },
+          { id: 10, path: require("../assets/images/product/strapping-machine/8.png") },
+          { id: 11, path: require("../assets/images/product/strapping-machine/9.png") }
         ],
         videos: [
           { id: 1, uri: "https://www.youtube.com/embed/DAutQlrW2T0" },
@@ -1670,23 +1783,40 @@ const GetProductData = (name) => {
         ]
       };
 
-    case "surface-protection":
+    case "strapping-tools":
       return {
         images: [
-          { id: 1, path: require("../assets/images/product/surface-protection/1-2.png") },
-          { id: 2, path: require("../assets/images/product/surface-protection/10.png") },
-          { id: 3, path: require("../assets/images/product/surface-protection/2-2.png") },
-          { id: 4, path: require("../assets/images/product/surface-protection/3-2.png") },
-          { id: 5, path: require("../assets/images/product/surface-protection/4-2.png") },
-          { id: 6, path: require("../assets/images/product/surface-protection/5-1.png") },
-          { id: 7, path: require("../assets/images/product/surface-protection/6-2.png") },
-          { id: 8, path: require("../assets/images/product/surface-protection/7-2.png") },
-          { id: 9, path: require("../assets/images/product/surface-protection/8-2.png") },
-          { id: 10, path: require("../assets/images/product/surface-protection/9.png") },
-          { id: 11, path: require("../assets/images/product/surface-protection/key1-3.png") },
-          { id: 12, path: require("../assets/images/product/surface-protection/key2-3.png") },
-          { id: 13, path: require("../assets/images/product/surface-protection/key3-3.png") },
-          { id: 14, path: require("../assets/images/product/surface-protection/key4-3.png") }
+          { id: 1, path: require("../assets/images/product/strapping-tools/1.jpg") },
+          { id: 2, path: require("../assets/images/product/strapping-tools/2.jpg") },
+          { id: 3, path: require("../assets/images/product/strapping-tools/3.jpg") },
+          { id: 4, path: require("../assets/images/product/strapping-tools/4.jpg") },
+          { id: 5, path: require("../assets/images/product/strapping-tools/5.jpg") },
+          { id: 6, path: require("../assets/images/product/strapping-tools/6.jpg") },
+          { id: 7, path: require("../assets/images/product/strapping-tools/7.jpg") },
+          { id: 8, path: require("../assets/images/product/strapping-tools/8.jpg") }
+        ],
+        videos: [
+
+        ]
+      };
+
+    case "surface-protection-and-industrial-coating":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/surface-protection-and-industrial-coating/1-2.png") },
+          { id: 2, path: require("../assets/images/product/surface-protection-and-industrial-coating/10.png") },
+          { id: 3, path: require("../assets/images/product/surface-protection-and-industrial-coating/2-2.png") },
+          { id: 4, path: require("../assets/images/product/surface-protection-and-industrial-coating/3-2.png") },
+          { id: 5, path: require("../assets/images/product/surface-protection-and-industrial-coating/4-2.png") },
+          { id: 6, path: require("../assets/images/product/surface-protection-and-industrial-coating/5-1.png") },
+          { id: 7, path: require("../assets/images/product/surface-protection-and-industrial-coating/6-2.png") },
+          { id: 8, path: require("../assets/images/product/surface-protection-and-industrial-coating/7-2.png") },
+          { id: 9, path: require("../assets/images/product/surface-protection-and-industrial-coating/8-2.png") },
+          { id: 10, path: require("../assets/images/product/surface-protection-and-industrial-coating/9.png") },
+          { id: 11, path: require("../assets/images/product/surface-protection-and-industrial-coating/key1-3.png") },
+          { id: 12, path: require("../assets/images/product/surface-protection-and-industrial-coating/key2-3.png") },
+          { id: 13, path: require("../assets/images/product/surface-protection-and-industrial-coating/key3-3.png") },
+          { id: 14, path: require("../assets/images/product/surface-protection-and-industrial-coating/key4-3.png") }
         ],
         videos: [
 
@@ -1841,14 +1971,15 @@ const GetProductData = (name) => {
       return {
         images: [
           { id: 1, path: require("../assets/images/product/vacuum-tube-lifters/1.jpg") },
-          { id: 2, path: require("../assets/images/product/vacuum-tube-lifters/2.jpg") },
-          { id: 3, path: require("../assets/images/product/vacuum-tube-lifters/3.jpg") },
-          { id: 4, path: require("../assets/images/product/vacuum-tube-lifters/4.jpg") },
-          { id: 5, path: require("../assets/images/product/vacuum-tube-lifters/5.jpg") },
-          { id: 6, path: require("../assets/images/product/vacuum-tube-lifters/6.jpg") },
-          { id: 7, path: require("../assets/images/product/vacuum-tube-lifters/7.jpg") },
-          { id: 8, path: require("../assets/images/product/vacuum-tube-lifters/8.jpg") },
-          { id: 9, path: require("../assets/images/product/vacuum-tube-lifters/9.jpg") }
+          { id: 2, path: require("../assets/images/product/vacuum-tube-lifters/10.jpg") },
+          { id: 3, path: require("../assets/images/product/vacuum-tube-lifters/2.jpg") },
+          { id: 4, path: require("../assets/images/product/vacuum-tube-lifters/3.jpg") },
+          { id: 5, path: require("../assets/images/product/vacuum-tube-lifters/4.jpg") },
+          { id: 6, path: require("../assets/images/product/vacuum-tube-lifters/5.jpg") },
+          { id: 7, path: require("../assets/images/product/vacuum-tube-lifters/6.jpg") },
+          { id: 8, path: require("../assets/images/product/vacuum-tube-lifters/7.jpg") },
+          { id: 9, path: require("../assets/images/product/vacuum-tube-lifters/8.jpg") },
+          { id: 10, path: require("../assets/images/product/vacuum-tube-lifters/9.jpg") }
         ],
         videos: [
           { id: 1, uri: "https://www.youtube.com/embed/0nTIuN2BopU" },

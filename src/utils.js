@@ -28,18 +28,17 @@ export const getProductInCategory = (catName) => {
           { id: 105, name: "Vacuum Tube lifters" },
           { id: 106, name: "Pipe Vacuum Lifters" },
           { id: 107, name: "Crane System" },
-          { id: 108, name: "Gantry Cranes" },
-          { id: 109, name: "Magnetic Lifter" },
+          { id: 108, name: "Magnetic Lifter" },
           {
-            id: 110,
+            id: 109,
             name: "Tugs",
             subCategories: [
-              { id: 1101, name: "Electric Tugs" },
-              { id: 1102, name: "Aircraft Tugs" },
+              { id: 1091, name: "Electric Tugs" },
+              { id: 1092, name: "Aircraft Tugs" },
             ],
           },
           {
-            id: 112,
+            id: 110,
             name: "Warehousing Solutions",
             subCategories: [
               { id: 1121, name: "Lean System" },
@@ -47,26 +46,26 @@ export const getProductInCategory = (catName) => {
             ],
           },
           {
-            id: 113,
-            name: "Lifters",
+            id: 111,
+            name: "Special Lifters",
             subCategories: [
-              { id: 1131, name: "Scissor Lifters" },
-              { id: 1132, name: "Mobile Lifters" },
-              { id: 1132, name: "Heavy Roll Handling Equipment" },
+              { id: 1111, name: "Scissor Lifters" },
+              { id: 1112, name: "Mobile Lifters" },
+              { id: 1112, name: "Heavy Roll Handling Equipment" },
             ],
           },
-          { id: 114, name: "Drum Handling Solutions" },
+          { id: 112, name: "Drum Handling Solutions" },
           {
-            id: 115,
+            id: 113,
             name: "Pallet Handling",
             subCategories: [
-              { id: 1151, name: "Pallet Inverter" },
-              { id: 1152, name: "Pallet Changer" },
-              { id: 1153, name: "Pile Turner" },
-              { id: 1154, name: "Pallet Exchanger and Dispensers" },
+              { id: 1131, name: "Pallet Inverter" },
+              { id: 1132, name: "Pallet Changer" },
+              { id: 1133, name: "Pile Turner" },
+              { id: 1134, name: "Pallet Exchanger and Dispensers" },
             ],
           },
-          { id: 116, name: "Conveyor System" },
+          { id: 114, name: "Conveyor System" },
         ],
       };
 
@@ -87,6 +86,7 @@ export const getProductInCategory = (catName) => {
               { id: 2016, name: "Magnets for Positioning and Holding" },
               { id: 2017, name: "Welding Fume Extractors" },
               { id: 2018, name: "Welding Helmets" },
+              { id: 2019, name: "AI Based Robotic Welding Systems" },
             ],
           },
           {
@@ -124,6 +124,7 @@ export const getProductInCategory = (catName) => {
               { id: 2051, name: "Cutting and Machining Tools" },
               { id: 2052, name: "MultiTapper Machine" },
               { id: 2053, name: "Electric Tapping Machine" },
+              { id: 2054, name: "Bandsaw Cutting" },
             ],
           },
           {
@@ -136,35 +137,34 @@ export const getProductInCategory = (catName) => {
           },
           {
             id: 207,
-            name: "Surface & Edge Finishing Technology",
-            subCategories: [
-              { id: 2071, name: "Tube Bending Machine" },
-              { id: 2072, name: "Surface Protection" },
-            ],
+            name: "Surface Protection and Industrial Coating",
           },
-
           {
             id: 208,
+            name: "Tube Bending Machine",
+          },
+          {
+            id: 209,
             name: "Assembly Solutions",
             subCategories: [
-              { id: 2081, name: "Clamps and Pliers" },
-              { id: 2082, name: "Fastener Insertion Machine" },
+              { id: 2091, name: "Clamps and Pliers" },
+              { id: 2092, name: "Fastener Insertion Machine" },
             ],
           },
 
           {
-            id: 209,
+            id: 210,
             name: "Storage Solutions",
             subCategories: [
-              { id: 2091, name: "Sheet Metal and Bar Stock Storage" },
-              { id: 2092, name: "Tool Cabinets and Road Boxes" },
-              { id: 2093, name: "Work Benches with Storage" },
+              { id: 2101, name: "Sheet Metal and Bar Stock Storage" },
+              { id: 2102, name: "Tool Cabinets and Road Boxes" },
+              { id: 2103, name: "Work Benches with Storage" },
             ],
           },
           {
-            id: 210,
+            id: 211,
             name: "Marking Solutions",
-            subCategories: [{ id: 2101, name: "Laser Marking" }],
+            subCategories: [{ id: 2111, name: "Laser Marking" }],
           },
         ],
       };
@@ -179,6 +179,7 @@ export const getProductInCategory = (catName) => {
           { id: 303, name: "Dumpers and Carriers" },
           { id: 304, name: "Spider Lifters" },
           { id: 305, name: "Vehicle Aerial Platforms" },
+          { id: 306, name: "Sandwich Panel Lifter" },
           { id: 307, name: "Cable Pulling System" },
         ],
       };
@@ -194,6 +195,7 @@ export const getProductInCategory = (catName) => {
             subCategories: [
               { id: 4011, name: "Shrink Wrap" },
               { id: 4012, name: "Strapping Machine" },
+              { id: 4013, name: "Strapping Tools" },
             ],
           },
           {
@@ -231,8 +233,10 @@ export const getProductInCategory = (catName) => {
               { id: 4061, name: "Safety Barriers" },
               { id: 4062, name: "Visual Management Tools" },
               { id: 4063, name: "Safety Lighting" },
+              { id: 4064, name: "Signalling and Alarm Solutions" },
             ],
           },
+          { id: 407, name: "Inkjet Printing" },
           { id: 407, name: "Electric Cutters" },
           { id: 408, name: "Industrial Doors" },
           { id: 409, name: "Industrial Flooring Solutions" },
@@ -241,7 +245,7 @@ export const getProductInCategory = (catName) => {
           { id: 412, name: "Industrial Filtration" },
           {
             id: 413,
-            name: "Nitrogen & Oxygen Generators",
+            name: "Nitrogen and Oxygen Generators",
             subCategories: [
               { id: 4131, name: "Oxygen Generators" },
               { id: 4132, name: "Nitrogen Generators" },

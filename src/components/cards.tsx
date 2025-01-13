@@ -19,7 +19,7 @@ const Cards: React.FC<CardProps> = ({ option, onPress }) => {
 const styles = StyleSheet.create({
   card: {
     width: "40%",
-    height: 150,
+    height: 200,
     backgroundColor: "#DA6727",
     justifyContent: "center",
     alignItems: "center",
