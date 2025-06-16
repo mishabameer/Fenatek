@@ -12,7 +12,7 @@ import {
 import { useLocalSearchParams } from "expo-router";
 import VideoSection from "../../src/components/videoSection";
 import { PRIMARY_THEME } from "../../src/constants";
-import GetProductData from "../../src/GetProductData";
+import ProductData from "../../src/ProductData";
 import CustomHeader from "@/src/components/customHeader";
 import { ImageSourcePropType } from "react-native";
 import { Modal } from "react-native";
@@ -26,7 +26,7 @@ const { width: screenWidth } = Dimensions.get("window");
 
 const ProductDetails: React.FC = () => {
   const { productDetails } = useLocalSearchParams<{ productDetails: string }>();
-  const productData = GetProductData(productDetails);
+  const productData = ProductData(productDetails);
   const numColumns = 3;
   const itemWidth = Dimensions.get("window").width / numColumns - 40;
   const [isPreviewVisible, setIsPreviewVisible] = useState(false);

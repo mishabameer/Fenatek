@@ -2,8 +2,8 @@ const fs = require("fs");
 
 const productData = require("./productData.json");
 
-function generateGetProductData(data) {
-  let functionBody = `const GetProductData = (name) => {\n  const normalizedName = name.toLowerCase().replace(/\\s+/g, "-");\n  switch (normalizedName) {\n`;
+function generateProductData(data) {
+  let functionBody = `const ProductData = (name) => {\n  const normalizedName = name.toLowerCase().replace(/\\s+/g, "-");\n  switch (normalizedName) {\n`;
 
   for (const product in data) {
     const images = data[product].images.map(
@@ -20,14 +20,14 @@ function generateGetProductData(data) {
     )}\n        ]\n      };\n\n`;
   }
 
-  functionBody += `    default:\n      return { images: [], videos: [] };\n  }\n};\n\nexport default GetProductData;`;
+  functionBody += `    default:\n      return { images: [], videos: [] };\n  }\n};\n\nexport default ProductData;`;
 
   return functionBody;
 }
 
-const result = generateGetProductData(productData);
+const result = generateProductData(productData);
 
 // Write the result to a file
-fs.writeFileSync("../GetProductData.js", result);
+fs.writeFileSync("../ProductData.js", result);
 
-console.log("GetProductData.js generated successfully!");
+console.log("ProductData.js generated successfully!");

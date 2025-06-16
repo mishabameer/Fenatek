@@ -2294,6 +2294,63 @@
             }
         ]
     },
+    "industrial-mobile-lights": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/industrial-mobile-lights/1720422436771.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/industrial-mobile-lights/1722215756112.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/industrial-mobile-lights/1743154672710.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/industrial-mobile-lights/1745213387928.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/industrial-mobile-lights/1747969670634.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/industrial-mobile-lights/CAT.png"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/industrial-mobile-lights/INMP31N产品列表图.png.webp"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/industrial-mobile-lights/INMP32N产品列表图.png.webp"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/industrial-mobile-lights/INMP51R产品列表图.png.webp"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/industrial-mobile-lights/INMP52R产品列表图-1.png.webp"
+            },
+            {
+                "id": 11,
+                "path": "../assets/images/product/industrial-mobile-lights/INMP61R-1产品列表图.png.webp"
+            },
+            {
+                "id": 12,
+                "path": "../assets/images/product/industrial-mobile-lights/产品列表图片-ExMP51R.png.webp"
+            },
+            {
+                "id": 13,
+                "path": "../assets/images/product/industrial-mobile-lights/产品列表图片-ExMP61R-2-拷贝.png.webp"
+            }
+        ],
+        "videos": []
+    },
     "industrial-springs": {
         "images": [
             {

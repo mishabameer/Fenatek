@@ -181,6 +181,7 @@ export const getProductInCategory = (catName) => {
           { id: 305, name: "Vehicle Aerial Platforms" },
           { id: 306, name: "Sandwich Panel Lifter" },
           { id: 307, name: "Cable Pulling System" },
+          { id: 308, name: "Industrial Mobile Lights" },
         ],
       };
 

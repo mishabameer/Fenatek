@@ -1,4 +1,4 @@
-const GetProductData = (name) => {
+const ProductData = (name) => {
   const normalizedName = name.toLowerCase().replace(/\s+/g, "-");
   switch (normalizedName) {
     case "ai-based-robotic-welding-systems":
@@ -760,6 +760,28 @@ const GetProductData = (name) => {
           { id: 3, uri: "https://www.youtube.com/embed/gNJVS_VH9jk" },
           { id: 4, uri: "https://www.youtube.com/embed/5b6Yn5ggAEw" },
           { id: 5, uri: "https://www.youtube.com/embed/-PaxWnAku6c" }
+        ]
+      };
+
+    case "industrial-mobile-lights":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/industrial-mobile-lights/1720422436771.jpg") },
+          { id: 2, path: require("../assets/images/product/industrial-mobile-lights/1722215756112.jpg") },
+          { id: 3, path: require("../assets/images/product/industrial-mobile-lights/1743154672710.jpg") },
+          { id: 4, path: require("../assets/images/product/industrial-mobile-lights/1745213387928.jpg") },
+          { id: 5, path: require("../assets/images/product/industrial-mobile-lights/1747969670634.jpg") },
+          { id: 6, path: require("../assets/images/product/industrial-mobile-lights/CAT.png") },
+          { id: 7, path: require("../assets/images/product/industrial-mobile-lights/INMP31N产品列表图.png.webp") },
+          { id: 8, path: require("../assets/images/product/industrial-mobile-lights/INMP32N产品列表图.png.webp") },
+          { id: 9, path: require("../assets/images/product/industrial-mobile-lights/INMP51R产品列表图.png.webp") },
+          { id: 10, path: require("../assets/images/product/industrial-mobile-lights/INMP52R产品列表图-1.png.webp") },
+          { id: 11, path: require("../assets/images/product/industrial-mobile-lights/INMP61R-1产品列表图.png.webp") },
+          { id: 12, path: require("../assets/images/product/industrial-mobile-lights/产品列表图片-ExMP51R.png.webp") },
+          { id: 13, path: require("../assets/images/product/industrial-mobile-lights/产品列表图片-ExMP61R-2-拷贝.png.webp") }
+        ],
+        videos: [
+
         ]
       };
 
@@ -2205,4 +2227,4 @@ const GetProductData = (name) => {
   }
 };
 
-export default GetProductData;
+export default ProductData;
