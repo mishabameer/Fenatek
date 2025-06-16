@@ -29,43 +29,45 @@ export const getProductInCategory = (catName) => {
           { id: 106, name: "Pipe Vacuum Lifters" },
           { id: 107, name: "Crane System" },
           { id: 108, name: "Magnetic Lifter" },
-          {
-            id: 109,
-            name: "Tugs",
-            subCategories: [
-              { id: 1091, name: "Electric Tugs" },
-              { id: 1092, name: "Aircraft Tugs" },
-            ],
-          },
+          { id: 109, name: "Chain Hoists" },
           {
             id: 110,
-            name: "Warehousing Solutions",
+            name: "Tugs",
             subCategories: [
-              { id: 1121, name: "Lean System" },
-              { id: 1122, name: "Automated Vertical Storage" },
+              { id: 1101, name: "Electric Tugs" },
+              { id: 1102, name: "Aircraft Tugs" },
             ],
           },
           {
             id: 111,
+            name: "Warehousing Solutions",
+            subCategories: [
+              { id: 1111, name: "Lean System" },
+              { id: 1112, name: "Automated Vertical Storage" },
+            ],
+          },
+          {
+            id: 112,
             name: "Special Lifters",
             subCategories: [
-              { id: 1111, name: "Scissor Lifters" },
-              { id: 1112, name: "Mobile Lifters" },
-              { id: 1112, name: "Heavy Roll Handling Equipment" },
+              { id: 1121, name: "Scissor Lifters" },
+              { id: 1122, name: "Mobile Lifters" },
+              { id: 1123, name: "Heavy Roll Handling Equipment" },
             ],
           },
-          { id: 112, name: "Drum Handling Solutions" },
+          { id: 113, name: "Drum Handling Solutions" },
+          { id: 114, name: "Gas Cylinder Handling" },
           {
-            id: 113,
+            id: 115,
             name: "Pallet Handling",
             subCategories: [
-              { id: 1131, name: "Pallet Inverter" },
-              { id: 1132, name: "Pallet Changer" },
-              { id: 1133, name: "Pile Turner" },
-              { id: 1134, name: "Pallet Exchanger and Dispensers" },
+              { id: 1151, name: "Pallet Inverter" },
+              { id: 1152, name: "Pallet Changer" },
+              { id: 1153, name: "Pile Turner" },
+              { id: 1154, name: "Pallet Exchanger and Dispensers" },
             ],
           },
-          { id: 114, name: "Conveyor System" },
+          { id: 116, name: "Conveyor System" },
         ],
       };
 

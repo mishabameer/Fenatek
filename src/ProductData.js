@@ -114,6 +114,28 @@ const ProductData = (name) => {
         ]
       };
 
+    case "chain-hoists":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/chain-hoists/115v_hoist_feature_2025.jpg") },
+          { id: 2, path: require("../assets/images/product/chain-hoists/electric-cm-product-page-hero.jpg") },
+          { id: 3, path: require("../assets/images/product/chain-hoists/electric-kito-product-range-hero.jpg") },
+          { id: 4, path: require("../assets/images/product/chain-hoists/hoist_half_ton_115v.jpg") },
+          { id: 5, path: require("../assets/images/product/chain-hoists/hoist_one_quarter_ton.jpg") },
+          { id: 6, path: require("../assets/images/product/chain-hoists/hoist_one_quarter_ton_2.jpg") },
+          { id: 7, path: require("../assets/images/product/chain-hoists/hoist_one_ton_fs_300.jpg") },
+          { id: 8, path: require("../assets/images/product/chain-hoists/manual-cm-product_range-hero.jpg") },
+          { id: 9, path: require("../assets/images/product/chain-hoists/prod-kattingtelfrar-mechchain-u2-1200-00-768x511.jpg") },
+          { id: 10, path: require("../assets/images/product/chain-hoists/prod-kattingtelfrar-mechchain-u2-1200-03.jpg") },
+          { id: 11, path: require("../assets/images/product/chain-hoists/prod-kattingtelfrar-ovriga-fabrikat-u2-1200.jpg") },
+          { id: 12, path: require("../assets/images/product/chain-hoists/product-hero.jpg") },
+          { id: 13, path: require("../assets/images/product/chain-hoists/product-range-hero.jpg") }
+        ],
+        videos: [
+
+        ]
+      };
+
     case "cladding-panel-lifters":
       return {
         images: [
@@ -501,6 +523,30 @@ const ProductData = (name) => {
           { id: 2, uri: "https://www.youtube.com/embed/SnBAiKAoQoA" },
           { id: 3, uri: "https://www.youtube.com/embed/cc5iyZj6hmo" },
           { id: 4, uri: "https://www.youtube.com/embed/XU2dA17QhQU" }
+        ]
+      };
+
+    case "gas-cylinder-handling":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/gas-cylinder-handling/1.webp") },
+          { id: 2, path: require("../assets/images/product/gas-cylinder-handling/2.webp") },
+          { id: 3, path: require("../assets/images/product/gas-cylinder-handling/3.webp") },
+          { id: 4, path: require("../assets/images/product/gas-cylinder-handling/4.webp") },
+          { id: 5, path: require("../assets/images/product/gas-cylinder-handling/5.webp") },
+          { id: 6, path: require("../assets/images/product/gas-cylinder-handling/6.webp") },
+          { id: 7, path: require("../assets/images/product/gas-cylinder-handling/banner1.webp") },
+          { id: 8, path: require("../assets/images/product/gas-cylinder-handling/key1.webp") },
+          { id: 9, path: require("../assets/images/product/gas-cylinder-handling/key2.webp") },
+          { id: 10, path: require("../assets/images/product/gas-cylinder-handling/key3.webp") },
+          { id: 11, path: require("../assets/images/product/gas-cylinder-handling/key4.webp") },
+          { id: 12, path: require("../assets/images/product/gas-cylinder-handling/key5.webp") },
+          { id: 13, path: require("../assets/images/product/gas-cylinder-handling/key6.webp") },
+          { id: 14, path: require("../assets/images/product/gas-cylinder-handling/key7.webp") },
+          { id: 15, path: require("../assets/images/product/gas-cylinder-handling/key8.webp") }
+        ],
+        videos: [
+
         ]
       };
 

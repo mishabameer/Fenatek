@@ -311,6 +311,63 @@
             }
         ]
     },
+    "chain-hoists": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/chain-hoists/115v_hoist_feature_2025.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/chain-hoists/electric-cm-product-page-hero.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/chain-hoists/electric-kito-product-range-hero.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/chain-hoists/hoist_half_ton_115v.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/chain-hoists/hoist_one_quarter_ton.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/chain-hoists/hoist_one_quarter_ton_2.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/chain-hoists/hoist_one_ton_fs_300.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/chain-hoists/manual-cm-product_range-hero.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/chain-hoists/prod-kattingtelfrar-mechchain-u2-1200-00-768x511.jpg"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/chain-hoists/prod-kattingtelfrar-mechchain-u2-1200-03.jpg"
+            },
+            {
+                "id": 11,
+                "path": "../assets/images/product/chain-hoists/prod-kattingtelfrar-ovriga-fabrikat-u2-1200.jpg"
+            },
+            {
+                "id": 12,
+                "path": "../assets/images/product/chain-hoists/product-hero.jpg"
+            },
+            {
+                "id": 13,
+                "path": "../assets/images/product/chain-hoists/product-range-hero.jpg"
+            }
+        ],
+        "videos": []
+    },
     "cladding-panel-lifters": {
         "images": [
             {
@@ -1501,6 +1558,71 @@
                 "uri": "https://www.youtube.com/embed/XU2dA17QhQU"
             }
         ]
+    },
+    "gas-cylinder-handling": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/gas-cylinder-handling/1.webp"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/gas-cylinder-handling/2.webp"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/gas-cylinder-handling/3.webp"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/gas-cylinder-handling/4.webp"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/gas-cylinder-handling/5.webp"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/gas-cylinder-handling/6.webp"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/gas-cylinder-handling/banner1.webp"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/gas-cylinder-handling/key1.webp"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/gas-cylinder-handling/key2.webp"
+            },
+            {
+                "id": 10,
+                "path": "../assets/images/product/gas-cylinder-handling/key3.webp"
+            },
+            {
+                "id": 11,
+                "path": "../assets/images/product/gas-cylinder-handling/key4.webp"
+            },
+            {
+                "id": 12,
+                "path": "../assets/images/product/gas-cylinder-handling/key5.webp"
+            },
+            {
+                "id": 13,
+                "path": "../assets/images/product/gas-cylinder-handling/key6.webp"
+            },
+            {
+                "id": 14,
+                "path": "../assets/images/product/gas-cylinder-handling/key7.webp"
+            },
+            {
+                "id": 15,
+                "path": "../assets/images/product/gas-cylinder-handling/key8.webp"
+            }
+        ],
+        "videos": []
     },
     "glass-vacuum-lifters": {
         "images": [
