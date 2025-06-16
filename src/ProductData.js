@@ -14,6 +14,28 @@ const ProductData = (name) => {
         ]
       };
 
+    case "air-sanitization-and-purification":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/air-sanitization-and-purification/1.png") },
+          { id: 2, path: require("../assets/images/product/air-sanitization-and-purification/1.webp") },
+          { id: 3, path: require("../assets/images/product/air-sanitization-and-purification/10.png") },
+          { id: 4, path: require("../assets/images/product/air-sanitization-and-purification/2.png") },
+          { id: 5, path: require("../assets/images/product/air-sanitization-and-purification/4.png") },
+          { id: 6, path: require("../assets/images/product/air-sanitization-and-purification/5.png") },
+          { id: 7, path: require("../assets/images/product/air-sanitization-and-purification/6.png") },
+          { id: 8, path: require("../assets/images/product/air-sanitization-and-purification/76634f03-07ca-4a6a-9c62-4e85dd9b1b74.jpg") },
+          { id: 9, path: require("../assets/images/product/air-sanitization-and-purification/8.png") },
+          { id: 10, path: require("../assets/images/product/air-sanitization-and-purification/9.png") },
+          { id: 11, path: require("../assets/images/product/air-sanitization-and-purification/key1.webp") },
+          { id: 12, path: require("../assets/images/product/air-sanitization-and-purification/key2.jpg") },
+          { id: 13, path: require("../assets/images/product/air-sanitization-and-purification/key3.jpg") }
+        ],
+        videos: [
+
+        ]
+      };
+
     case "aircraft-tugs":
       return {
         images: [
@@ -185,6 +207,26 @@ const ProductData = (name) => {
         ]
       };
 
+    case "cleaning-chemicals":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/cleaning-chemicals/1010-Surfene.jpg") },
+          { id: 2, path: require("../assets/images/product/cleaning-chemicals/2002_10_surfitex_plus-1.jpg") },
+          { id: 3, path: require("../assets/images/product/cleaning-chemicals/7141_surfin_alfa-2-1000x1000.jpg") },
+          { id: 4, path: require("../assets/images/product/cleaning-chemicals/724640_surfobol_spray-1-1000x1000.jpg") },
+          { id: 5, path: require("../assets/images/product/cleaning-chemicals/8190_surflean_dark-1.jpg") },
+          { id: 6, path: require("../assets/images/product/cleaning-chemicals/841015_nat_spot-1.jpg") },
+          { id: 7, path: require("../assets/images/product/cleaning-chemicals/841730_nat_essence-1-1000x1000.jpg") },
+          { id: 8, path: require("../assets/images/product/cleaning-chemicals/8710_ozostar_washer-1.jpg") },
+          { id: 9, path: require("../assets/images/product/cleaning-chemicals/Screenshot 2025-04-12 152535.png") },
+          { id: 10, path: require("../assets/images/product/cleaning-chemicals/Screenshot 2025-04-12 153204.png") },
+          { id: 11, path: require("../assets/images/product/cleaning-chemicals/Screenshot 2025-04-12 153428.png") }
+        ],
+        videos: [
+
+        ]
+      };
+
     case "cnc-laser-cutting-machine":
       return {
         images: [
@@ -321,6 +363,22 @@ const ProductData = (name) => {
           { id: 12, path: require("../assets/images/product/cutting-and-machining-tools/key4-19.jpg") },
           { id: 13, path: require("../assets/images/product/cutting-and-machining-tools/key5-16.jpg") },
           { id: 14, path: require("../assets/images/product/cutting-and-machining-tools/key6-15.jpg") }
+        ],
+        videos: [
+
+        ]
+      };
+
+    case "disinfection-systems":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/disinfection-systems/1669210634643.jpg") },
+          { id: 2, path: require("../assets/images/product/disinfection-systems/applicazione-hygienio-sistema-sanificazione-settore-dentale.webp") },
+          { id: 3, path: require("../assets/images/product/disinfection-systems/applicazione-hygienio-sistema-sanificazione-settore-emergeza-e-soccorso.webp") },
+          { id: 4, path: require("../assets/images/product/disinfection-systems/applicazione-hygienio-sistema-sanificazione-settore-ospedaliero.webp") },
+          { id: 5, path: require("../assets/images/product/disinfection-systems/hygienio-b1n1.png") },
+          { id: 6, path: require("../assets/images/product/disinfection-systems/hygienio-c4-po.png") },
+          { id: 7, path: require("../assets/images/product/disinfection-systems/hygienio-d1-hidc.png") }
         ],
         videos: [
 
@@ -523,6 +581,99 @@ const ProductData = (name) => {
           { id: 2, uri: "https://www.youtube.com/embed/SnBAiKAoQoA" },
           { id: 3, uri: "https://www.youtube.com/embed/cc5iyZj6hmo" },
           { id: 4, uri: "https://www.youtube.com/embed/XU2dA17QhQU" }
+        ]
+      };
+
+    case "filter-pumps":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/filter-pumps/1-1.webp") },
+          { id: 2, path: require("../assets/images/product/filter-pumps/2-1.webp") },
+          { id: 3, path: require("../assets/images/product/filter-pumps/3-1.webp") },
+          { id: 4, path: require("../assets/images/product/filter-pumps/4-2.webp") },
+          { id: 5, path: require("../assets/images/product/filter-pumps/key1.webp") },
+          { id: 6, path: require("../assets/images/product/filter-pumps/key3.webp") }
+        ],
+        videos: [
+
+        ]
+      };
+
+    case "floor-cleaning-machine":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/floor-cleaning-machine/30-20bmeer.png") },
+          { id: 2, path: require("../assets/images/product/floor-cleaning-machine/30-20meer-1.png") },
+          { id: 3, path: require("../assets/images/product/floor-cleaning-machine/30-20meer-1024x785-1.png") },
+          { id: 4, path: require("../assets/images/product/floor-cleaning-machine/40-25bmeer.png") },
+          { id: 5, path: require("../assets/images/product/floor-cleaning-machine/40-25meer.png") },
+          { id: 6, path: require("../assets/images/product/floor-cleaning-machine/43meer.png") },
+          { id: 7, path: require("../assets/images/product/floor-cleaning-machine/50-30meer.png") },
+          { id: 8, path: require("../assets/images/product/floor-cleaning-machine/5535meer-1.png") },
+          { id: 9, path: require("../assets/images/product/floor-cleaning-machine/Action-Picture-01-768x1147-1-e1630488899420.jpg") },
+          { id: 10, path: require("../assets/images/product/floor-cleaning-machine/Excentr-Daily-45-40-Right-front-1200x1600.png") },
+          { id: 11, path: require("../assets/images/product/floor-cleaning-machine/Excentr-Daily-45-Disc-e1715084217368-1200x1425.png") },
+          { id: 12, path: require("../assets/images/product/floor-cleaning-machine/Excentr-WD-72-2-web-1200x1600.png") },
+          { id: 13, path: require("../assets/images/product/floor-cleaning-machine/ExcentrAIR250-2-scaled-e1599141865267-1200x1208.jpg") },
+          { id: 14, path: require("../assets/images/product/floor-cleaning-machine/MachinesWebsiteHandhero.png") },
+          { id: 15, path: require("../assets/images/product/floor-cleaning-machine/Screenshot-2019-12-20-at-08.32.26-e1630494642404.png") }
+        ],
+        videos: [
+
+        ]
+      };
+
+    case "floor-marking-stickers-and-tools":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/floor-marking-stickers-and-tools/Audible_AddOn_Sensors_BlueLight.jpg") },
+          { id: 2, path: require("../assets/images/product/floor-marking-stickers-and-tools/DS_FloorMarking.jpg") },
+          { id: 3, path: require("../assets/images/product/floor-marking-stickers-and-tools/DS_Glow.jpg") },
+          { id: 4, path: require("../assets/images/product/floor-marking-stickers-and-tools/DS_Hazard_Walkway.jpg") },
+          { id: 5, path: require("../assets/images/product/floor-marking-stickers-and-tools/DS_Inline.jpg") },
+          { id: 6, path: require("../assets/images/product/floor-marking-stickers-and-tools/DS_Roll.jpg") },
+          { id: 7, path: require("../assets/images/product/floor-marking-stickers-and-tools/DS_Roll_Xtreme.jpg") },
+          { id: 8, path: require("../assets/images/product/floor-marking-stickers-and-tools/DS_StarterKit.jpg") },
+          { id: 9, path: require("../assets/images/product/floor-marking-stickers-and-tools/DS_View.jpg") },
+          { id: 10, path: require("../assets/images/product/floor-marking-stickers-and-tools/DS_Walkway.jpg") },
+          { id: 11, path: require("../assets/images/product/floor-marking-stickers-and-tools/Home_Help_Durastripe.jpg") },
+          { id: 12, path: require("../assets/images/product/floor-marking-stickers-and-tools/Home_Help_LED.jpg") },
+          { id: 13, path: require("../assets/images/product/floor-marking-stickers-and-tools/LEDMatting_Kneeling.jpg") },
+          { id: 14, path: require("../assets/images/product/floor-marking-stickers-and-tools/LEDMatting_Mat.jpg") },
+          { id: 15, path: require("../assets/images/product/floor-marking-stickers-and-tools/LED_InteractiveSign.jpg") },
+          { id: 16, path: require("../assets/images/product/floor-marking-stickers-and-tools/Matting_Customized.jpg") },
+          { id: 17, path: require("../assets/images/product/floor-marking-stickers-and-tools/Matting_FacilitySafety.jpg") },
+          { id: 18, path: require("../assets/images/product/floor-marking-stickers-and-tools/Matting_Overview.jpg") },
+          { id: 19, path: require("../assets/images/product/floor-marking-stickers-and-tools/Matting_Sticky.jpg") },
+          { id: 20, path: require("../assets/images/product/floor-marking-stickers-and-tools/ROTATOR01.jpg") },
+          { id: 21, path: require("../assets/images/product/floor-marking-stickers-and-tools/ROTATOR02.jpg") },
+          { id: 22, path: require("../assets/images/product/floor-marking-stickers-and-tools/ROTATOR03.jpg") },
+          { id: 23, path: require("../assets/images/product/floor-marking-stickers-and-tools/ROTATOR04.jpg") },
+          { id: 24, path: require("../assets/images/product/floor-marking-stickers-and-tools/STOP_Octagon_Safety-Glasses_Red.jpg") },
+          { id: 25, path: require("../assets/images/product/floor-marking-stickers-and-tools/STOP_Octagon_Stoplookpoint_Red.jpg") }
+        ],
+        videos: [
+
+        ]
+      };
+
+    case "frames-and-protections":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/frames-and-protections/1-3.webp") },
+          { id: 2, path: require("../assets/images/product/frames-and-protections/11.cabina bordomacchina-ombre.png") },
+          { id: 3, path: require("../assets/images/product/frames-and-protections/2-3.webp") },
+          { id: 4, path: require("../assets/images/product/frames-and-protections/3-3.webp") },
+          { id: 5, path: require("../assets/images/product/frames-and-protections/macap3.jpg") },
+          { id: 6, path: require("../assets/images/product/frames-and-protections/protezione-a-vista1-1024x512_0.jpg") },
+          { id: 7, path: require("../assets/images/product/frames-and-protections/protezione-a-vista2-1024x512.jpg") },
+          { id: 8, path: require("../assets/images/product/frames-and-protections/protezione-a-vista3-1024x512.jpg") },
+          { id: 9, path: require("../assets/images/product/frames-and-protections/protezione-a-vista4-1024x512.jpg") },
+          { id: 10, path: require("../assets/images/product/frames-and-protections/protezione-bordo-macchina-5-1024x512.jpg") },
+          { id: 11, path: require("../assets/images/product/frames-and-protections/protezione-per-macchine2-1024x512.jpg") }
+        ],
+        videos: [
+
         ]
       };
 
@@ -831,6 +982,27 @@ const ProductData = (name) => {
         ]
       };
 
+    case "industrial-soundproofing-systems":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/industrial-soundproofing-systems/1 (1).jpg") },
+          { id: 2, path: require("../assets/images/product/industrial-soundproofing-systems/1.30.jpg") },
+          { id: 3, path: require("../assets/images/product/industrial-soundproofing-systems/20210315_163115_1.jpg") },
+          { id: 4, path: require("../assets/images/product/industrial-soundproofing-systems/Control Room_1.jpg") },
+          { id: 5, path: require("../assets/images/product/industrial-soundproofing-systems/Immagine1.jpg") },
+          { id: 6, path: require("../assets/images/product/industrial-soundproofing-systems/Immagine3.png") },
+          { id: 7, path: require("../assets/images/product/industrial-soundproofing-systems/Impianto di insonorizzazione.jpg") },
+          { id: 8, path: require("../assets/images/product/industrial-soundproofing-systems/InEco 13.09.24.jpg") },
+          { id: 9, path: require("../assets/images/product/industrial-soundproofing-systems/KS398431563.2 (2).jpg") },
+          { id: 10, path: require("../assets/images/product/industrial-soundproofing-systems/PULPITO_1.jpg") },
+          { id: 11, path: require("../assets/images/product/industrial-soundproofing-systems/STPR00141_0.png") },
+          { id: 12, path: require("../assets/images/product/industrial-soundproofing-systems/protezioni2.jpg") }
+        ],
+        videos: [
+
+        ]
+      };
+
     case "industrial-springs":
       return {
         images: [
@@ -1101,6 +1273,31 @@ const ProductData = (name) => {
         ]
       };
 
+    case "multi-product-packing-machines":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/multi-product-packing-machines/Auger Filler Machine – VFFS (Collar).jpg") },
+          { id: 2, path: require("../assets/images/product/multi-product-packing-machines/Semi Automatic Multi Head Weigher – Intego10.jpg") },
+          { id: 3, path: require("../assets/images/product/multi-product-packing-machines/Semi Automatic Multi Head Weigher.jpg") },
+          { id: 4, path: require("../assets/images/product/multi-product-packing-machines/Semi Automatic Single Head.jpg") },
+          { id: 5, path: require("../assets/images/product/multi-product-packing-machines/Semi Automatic Twin Head Open Hopper Weigher.png") },
+          { id: 6, path: require("../assets/images/product/multi-product-packing-machines/Semi-Automatic-Twin-Head-Open-Hopper-Weigher-300x200.png") },
+          { id: 7, path: require("../assets/images/product/multi-product-packing-machines/VFFS (Former) – Twin Head Linear Weigher.jpg") },
+          { id: 8, path: require("../assets/images/product/multi-product-packing-machines/VFFS 14 Multihead Weigher.jpg") },
+          { id: 9, path: require("../assets/images/product/multi-product-packing-machines/VFFS – Four Head Linear Weigher.jpg") },
+          { id: 10, path: require("../assets/images/product/multi-product-packing-machines/aboutUS-1-1.jpg") },
+          { id: 11, path: require("../assets/images/product/multi-product-packing-machines/key1.webp") },
+          { id: 12, path: require("../assets/images/product/multi-product-packing-machines/key2.webp") },
+          { id: 13, path: require("../assets/images/product/multi-product-packing-machines/key3.webp") },
+          { id: 14, path: require("../assets/images/product/multi-product-packing-machines/key4.webp") },
+          { id: 15, path: require("../assets/images/product/multi-product-packing-machines/seedpackingmachine.png") },
+          { id: 16, path: require("../assets/images/product/multi-product-packing-machines/sugarpackingmachine-300x200.png") }
+        ],
+        videos: [
+
+        ]
+      };
+
     case "multitapper-machine":
       return {
         images: [
@@ -1247,6 +1444,33 @@ const ProductData = (name) => {
           { id: 2, uri: "https://www.youtube.com/embed/pk5aaG17LcE" },
           { id: 3, uri: "https://www.youtube.com/embed/u8z4CLHsIjo" },
           { id: 4, uri: "https://www.youtube.com/embed/ao69b__gLrE" }
+        ]
+      };
+
+    case "perimeter-protections":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/perimeter-protections/002.jpg") },
+          { id: 2, path: require("../assets/images/product/perimeter-protections/003.jpg") },
+          { id: 3, path: require("../assets/images/product/perimeter-protections/004_0.jpg") },
+          { id: 4, path: require("../assets/images/product/perimeter-protections/1-5.webp") },
+          { id: 5, path: require("../assets/images/product/perimeter-protections/1.png") },
+          { id: 6, path: require("../assets/images/product/perimeter-protections/2-5.webp") },
+          { id: 7, path: require("../assets/images/product/perimeter-protections/3-5.webp") },
+          { id: 8, path: require("../assets/images/product/perimeter-protections/4-3.webp") },
+          { id: 9, path: require("../assets/images/product/perimeter-protections/6-3.webp") },
+          { id: 10, path: require("../assets/images/product/perimeter-protections/7-2.webp") },
+          { id: 11, path: require("../assets/images/product/perimeter-protections/8-2.webp") },
+          { id: 12, path: require("../assets/images/product/perimeter-protections/9-1.webp") },
+          { id: 13, path: require("../assets/images/product/perimeter-protections/Dierre_Protezioni_Fisse_Fast-Line.jpg") },
+          { id: 14, path: require("../assets/images/product/perimeter-protections/PROTEZIONE-PERIMETRALE-ECO-LINE-DIERRE-1-1.jpg") },
+          { id: 15, path: require("../assets/images/product/perimeter-protections/PROTEZIONE-PERIMETRALE-ECO-LINE-DIERRE-2.jpg") },
+          { id: 16, path: require("../assets/images/product/perimeter-protections/Schermata-2017-10-19-alle-11.15.43.png") },
+          { id: 17, path: require("../assets/images/product/perimeter-protections/XP11340002-00_3.jpg") },
+          { id: 18, path: require("../assets/images/product/perimeter-protections/kit porte a battente.png") }
+        ],
+        videos: [
+
         ]
       };
 
