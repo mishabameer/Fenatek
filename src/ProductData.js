@@ -796,7 +796,7 @@ const ProductData = (name) => {
           { id: 11, path: require("../assets/images/product/frames-and-protections/protezione-per-macchine2-1024x512.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/savTJkWVW70" }
         ]
       };
 
@@ -1118,6 +1118,23 @@ const ProductData = (name) => {
         ]
       };
 
+    case "industrial-oxygen-generators":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/industrial-oxygen-generators/1.jpeg") },
+          { id: 2, path: require("../assets/images/product/industrial-oxygen-generators/11.jpg") },
+          { id: 3, path: require("../assets/images/product/industrial-oxygen-generators/21.jpeg") },
+          { id: 4, path: require("../assets/images/product/industrial-oxygen-generators/industrial_oxygen_generators_3.jpg") },
+          { id: 5, path: require("../assets/images/product/industrial-oxygen-generators/industrial_oxygen_generators_slider.jpg") }
+        ],
+        videos: [
+          { id: 1, uri: "https://www.youtube.com/embed/FiPQXCgDY-k" },
+          { id: 2, uri: "https://www.youtube.com/embed/f04uLhqIqkk" },
+          { id: 3, uri: "https://www.youtube.com/embed/A3pEu7CAXT8" },
+          { id: 4, uri: "https://www.youtube.com/embed/E61hXl-5D88" }
+        ]
+      };
+
     case "industrial-soundproofing-systems":
       return {
         images: [
@@ -1135,7 +1152,7 @@ const ProductData = (name) => {
           { id: 12, path: require("../assets/images/product/industrial-soundproofing-systems/protezioni2.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/Arlq4iooTIs" }
         ]
       };
 
@@ -1378,6 +1395,29 @@ const ProductData = (name) => {
         ]
       };
 
+    case "medical-oxygen-generators":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/medical-oxygen-generators/1.jpg") },
+          { id: 2, path: require("../assets/images/product/medical-oxygen-generators/2.jpg") },
+          { id: 3, path: require("../assets/images/product/medical-oxygen-generators/24.jpeg") },
+          { id: 4, path: require("../assets/images/product/medical-oxygen-generators/3.jpeg") },
+          { id: 5, path: require("../assets/images/product/medical-oxygen-generators/3.jpg") },
+          { id: 6, path: require("../assets/images/product/medical-oxygen-generators/4.jpg") },
+          { id: 7, path: require("../assets/images/product/medical-oxygen-generators/5.jpg") },
+          { id: 8, path: require("../assets/images/product/medical-oxygen-generators/6.jpg") },
+          { id: 9, path: require("../assets/images/product/medical-oxygen-generators/8.jpg") },
+          { id: 10, path: require("../assets/images/product/medical-oxygen-generators/key1.jpg") },
+          { id: 11, path: require("../assets/images/product/medical-oxygen-generators/key2.jpg") },
+          { id: 12, path: require("../assets/images/product/medical-oxygen-generators/medical_oxygen_22.jpg") },
+          { id: 13, path: require("../assets/images/product/medical-oxygen-generators/medical_oxygen_23.jpg") },
+          { id: 14, path: require("../assets/images/product/medical-oxygen-generators/medical_oxygen_slider.jpg") }
+        ],
+        videos: [
+
+        ]
+      };
+
     case "mobile-lifters":
       return {
         images: [
@@ -1442,7 +1482,11 @@ const ProductData = (name) => {
           { id: 16, path: require("../assets/images/product/multi-product-packing-machines/sugarpackingmachine-300x200.png") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/chblS6ZBMEQ" },
+          { id: 2, uri: "https://www.youtube.com/embed/G2kELE1yZj0" },
+          { id: 3, uri: "https://www.youtube.com/embed/CFDOkEpGJyM" },
+          { id: 4, uri: "https://www.youtube.com/embed/Ex5tc7jk5bM" },
+          { id: 5, uri: "https://www.youtube.com/embed/idBD-LslOpA" }
         ]
       };
 
@@ -1465,10 +1509,17 @@ const ProductData = (name) => {
         images: [
           { id: 1, path: require("../assets/images/product/nitrogen-generators/1-1.jpg") },
           { id: 2, path: require("../assets/images/product/nitrogen-generators/2-1.jpg") },
-          { id: 3, path: require("../assets/images/product/nitrogen-generators/3-1.jpg") },
-          { id: 4, path: require("../assets/images/product/nitrogen-generators/4-1.jpg") },
-          { id: 5, path: require("../assets/images/product/nitrogen-generators/key1-1.jpg") },
-          { id: 6, path: require("../assets/images/product/nitrogen-generators/key2-1.jpg") }
+          { id: 3, path: require("../assets/images/product/nitrogen-generators/23.jpeg") },
+          { id: 4, path: require("../assets/images/product/nitrogen-generators/3-1.jpg") },
+          { id: 5, path: require("../assets/images/product/nitrogen-generators/4-1.jpg") },
+          { id: 6, path: require("../assets/images/product/nitrogen-generators/9.jpg") },
+          { id: 7, path: require("../assets/images/product/nitrogen-generators/key1-1.jpg") },
+          { id: 8, path: require("../assets/images/product/nitrogen-generators/key2-1.jpg") },
+          { id: 9, path: require("../assets/images/product/nitrogen-generators/nitrogen-slider.jpg") },
+          { id: 10, path: require("../assets/images/product/nitrogen-generators/nitrogen_generator_21.jpg") },
+          { id: 11, path: require("../assets/images/product/nitrogen-generators/nitrogen_generator_22.jpg") },
+          { id: 12, path: require("../assets/images/product/nitrogen-generators/nitrogen_generator_5.jpg") },
+          { id: 13, path: require("../assets/images/product/nitrogen-generators/nitrogen_generator_51.jpg") }
         ],
         videos: [
 
@@ -1495,26 +1546,6 @@ const ProductData = (name) => {
           { id: 2, uri: "https://www.youtube.com/embed/Dd5uX7fuRjc" },
           { id: 3, uri: "https://www.youtube.com/embed/z2t9IsWPH7Y" },
           { id: 4, uri: "https://www.youtube.com/embed/bxsrD2H-oOY" }
-        ]
-      };
-
-    case "oxygen-generators":
-      return {
-        images: [
-          { id: 1, path: require("../assets/images/product/oxygen-generators/1.jpg") },
-          { id: 2, path: require("../assets/images/product/oxygen-generators/2.jpg") },
-          { id: 3, path: require("../assets/images/product/oxygen-generators/3.jpg") },
-          { id: 4, path: require("../assets/images/product/oxygen-generators/4.jpg") },
-          { id: 5, path: require("../assets/images/product/oxygen-generators/5.jpg") },
-          { id: 6, path: require("../assets/images/product/oxygen-generators/6.jpg") },
-          { id: 7, path: require("../assets/images/product/oxygen-generators/key1.jpg") },
-          { id: 8, path: require("../assets/images/product/oxygen-generators/key2.jpg") }
-        ],
-        videos: [
-          { id: 1, uri: "https://www.youtube.com/embed/FiPQXCgDY-k" },
-          { id: 2, uri: "https://www.youtube.com/embed/f04uLhqIqkk" },
-          { id: 3, uri: "https://www.youtube.com/embed/A3pEu7CAXT8" },
-          { id: 4, uri: "https://www.youtube.com/embed/E61hXl-5D88" }
         ]
       };
 
@@ -1618,7 +1649,7 @@ const ProductData = (name) => {
           { id: 18, path: require("../assets/images/product/perimeter-protections/kit porte a battente.png") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/savTJkWVW70" }
         ]
       };
 

@@ -295,10 +295,11 @@ export const getProductInCategory = (catName) => {
           { id: 415, name: "Industrial Filtration" },
           {
             id: 416,
-            name: "Generators",
+            name: "Nitrogen & Oxygen Generators",
             subCategories: [
-              { id: 4161, name: "Oxygen Generators" },
-              { id: 4162, name: "Nitrogen Generators" },
+              { id: 4161, name: "Industrial Oxygen Generators" },
+              { id: 4162, name: "Medical Oxygen Generators" },
+              { id: 4163, name: "Nitrogen Generators" },
             ],
           },
         ],
