@@ -22,4 +22,4 @@
 4. Run script 'fetchProductImages' to build productData JSON file
 5. Run script 'createProductData' to build prodcut data maping file
 6. Run script 'createGetThumbnails' to build thumbnail data maping file
-7. Re-build the apk
+7. Re-build the apk - "eas build -p android --profile preview"
