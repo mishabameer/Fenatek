@@ -196,7 +196,7 @@ export const getProductInCategory = (catName) => {
             name: "Marking Solutions",
             subCategories: [
               { id: 2111, name: "Laser Marking" },
-              { id: 2111, name: "Portable Marking Machines" },
+              { id: 2111, name: "Portable Marking Machine" },
             ],
           },
         ],

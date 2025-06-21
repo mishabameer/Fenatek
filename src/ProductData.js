@@ -430,7 +430,10 @@ const ProductData = (name) => {
           { id: 7, path: require("../assets/images/product/crimping-machine/7-1.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/e-iDabWy7A4" },
+          { id: 2, uri: "https://www.youtube.com/embed/op0C4Z80tSw" },
+          { id: 3, uri: "https://www.youtube.com/embed/4seuHkyDCRg" },
+          { id: 4, uri: "https://www.youtube.com/embed/lQNp2VMYRBw" }
         ]
       };
 
@@ -820,7 +823,10 @@ const ProductData = (name) => {
           { id: 15, path: require("../assets/images/product/gas-cylinder-handling/key8.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/rNDX4bBdFS0" },
+          { id: 2, uri: "https://www.youtube.com/embed/vxlFJuidWxM" },
+          { id: 3, uri: "https://www.youtube.com/embed/0kRcMBuoNWs" },
+          { id: 4, uri: "https://www.youtube.com/embed/bRTHySJIl2o" }
         ]
       };
 
@@ -890,7 +896,8 @@ const ProductData = (name) => {
           { id: 4, path: require("../assets/images/product/guillotine-shears/4-1.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://fenatek.com/wp-content/uploads/2025/03/TVRS_video.mp4" },
+          { id: 2, uri: "https://fenatek.com/wp-content/uploads/2025/03/TVRS_video2.mp4" }
         ]
       };
 
@@ -1745,7 +1752,9 @@ const ProductData = (name) => {
           { id: 5, path: require("../assets/images/product/pipe-laser-cutting-machine/sirus-1.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/r_1dpDs44Dg" },
+          { id: 2, uri: "https://www.youtube.com/embed/Rla_L1hHUYY" },
+          { id: 3, uri: "https://www.youtube.com/embed/h_9PuLlwXrM" }
         ]
       };
 
@@ -1823,7 +1832,9 @@ const ProductData = (name) => {
           { id: 7, path: require("../assets/images/product/plate-rolling-machines/D.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/2OmW9gJxJjQ" },
+          { id: 2, uri: "https://www.youtube.com/embed/xkkkzQeugfU" },
+          { id: 3, uri: "https://fenatek.com/wp-content/uploads/2025/03/E79-1568-COR-NC-CONTROLLED.mp4" }
         ]
       };
 
@@ -1837,7 +1848,10 @@ const ProductData = (name) => {
           { id: 5, path: require("../assets/images/product/portable-marking-machine/5-1.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/6aUDlNVHQD0" },
+          { id: 2, uri: "https://www.youtube.com/embed/zkOaS47CBQI" },
+          { id: 3, uri: "https://www.youtube.com/embed/0gNI1qRFZKg" },
+          { id: 4, uri: "https://www.youtube.com/embed/8obKvHC4L8g" }
         ]
       };
 
