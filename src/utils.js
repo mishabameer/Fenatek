@@ -96,6 +96,7 @@ export const getProductInCategory = (catName) => {
             name: "Laser Technology",
             subCategories: [
               { id: 2021, name: "Laser Cutting Machine" },
+              { id: 2021, name: "Pipe Laser Cutting Machine" },
               { id: 2022, name: "Laser Welding Machines" },
               { id: 2023, name: "Laser Cleaning Machine" },
             ],
@@ -112,9 +113,23 @@ export const getProductInCategory = (catName) => {
           },
           {
             id: 204,
+            name: "Sheet Metal Fabrication Machinery",
+            subCategories: [
+              { id: 2041, name: "Press Brakes" },
+              { id: 2041, name: "Guillotine Shears" },
+              { id: 2041, name: "IronWorkers Notching Machine" },
+              // { id: 2041, name: "Special Machinery" },
+            ],
+          },
+          {
+            id: 204,
             name: "Forming Technology",
             subCategories: [
+              { id: 2041, name: "Dishing Press" },
+              { id: 2041, name: "Flanging Machines" },
+              { id: 2041, name: "Plate Rolling Machines" },
               { id: 2041, name: "Sheet Metal Processing Lines" },
+              { id: 2041, name: "Angle Roll" },
               { id: 2042, name: "Press Brakes" },
               { id: 2043, name: "Profile Bending Machines" },
             ],
@@ -123,7 +138,6 @@ export const getProductInCategory = (catName) => {
             id: 205,
             name: "Cutting Technology",
             subCategories: [
-              { id: 2051, name: "Cutting and Machining Tools" },
               { id: 2052, name: "MultiTapper Machine" },
               { id: 2053, name: "Electric Tapping Machine" },
               { id: 2054, name: "Bandsaw Cutting" },
@@ -135,7 +149,21 @@ export const getProductInCategory = (catName) => {
             subCategories: [
               { id: 2061, name: "CNC Laser Cutting Machine" },
               { id: 2062, name: "CNC Plasma Gas Cutting Machine" },
+              { id: 2062, name: "CNC Milling Machine" },
             ],
+          },
+          {
+            id: 206,
+            name: "Tooling Solutions",
+            subCategories: [
+              { id: 2061, name: "Cutting and Machining Tools" },
+              { id: 2062, name: "Crimping Machine" },
+              { id: 2062, name: "Clinching Machine" },
+            ],
+          },
+          {
+            id: 207,
+            name: "Cord Machines",
           },
           {
             id: 207,
@@ -166,7 +194,10 @@ export const getProductInCategory = (catName) => {
           {
             id: 211,
             name: "Marking Solutions",
-            subCategories: [{ id: 2111, name: "Laser Marking" }],
+            subCategories: [
+              { id: 2111, name: "Laser Marking" },
+              { id: 2111, name: "Portable Marking Machines" },
+            ],
           },
         ],
       };

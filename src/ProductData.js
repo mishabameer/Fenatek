@@ -18,18 +18,17 @@ const ProductData = (name) => {
       return {
         images: [
           { id: 1, path: require("../assets/images/product/air-sanitization-and-purification/1.png") },
-          { id: 2, path: require("../assets/images/product/air-sanitization-and-purification/1.webp") },
-          { id: 3, path: require("../assets/images/product/air-sanitization-and-purification/10.png") },
-          { id: 4, path: require("../assets/images/product/air-sanitization-and-purification/2.png") },
-          { id: 5, path: require("../assets/images/product/air-sanitization-and-purification/4.png") },
-          { id: 6, path: require("../assets/images/product/air-sanitization-and-purification/5.png") },
-          { id: 7, path: require("../assets/images/product/air-sanitization-and-purification/6.png") },
-          { id: 8, path: require("../assets/images/product/air-sanitization-and-purification/76634f03-07ca-4a6a-9c62-4e85dd9b1b74.jpg") },
-          { id: 9, path: require("../assets/images/product/air-sanitization-and-purification/8.png") },
-          { id: 10, path: require("../assets/images/product/air-sanitization-and-purification/9.png") },
-          { id: 11, path: require("../assets/images/product/air-sanitization-and-purification/key1.webp") },
-          { id: 12, path: require("../assets/images/product/air-sanitization-and-purification/key2.jpg") },
-          { id: 13, path: require("../assets/images/product/air-sanitization-and-purification/key3.jpg") }
+          { id: 2, path: require("../assets/images/product/air-sanitization-and-purification/10.png") },
+          { id: 3, path: require("../assets/images/product/air-sanitization-and-purification/2.png") },
+          { id: 4, path: require("../assets/images/product/air-sanitization-and-purification/4.png") },
+          { id: 5, path: require("../assets/images/product/air-sanitization-and-purification/5.png") },
+          { id: 6, path: require("../assets/images/product/air-sanitization-and-purification/6.png") },
+          { id: 7, path: require("../assets/images/product/air-sanitization-and-purification/76634f03-07ca-4a6a-9c62-4e85dd9b1b74.jpg") },
+          { id: 8, path: require("../assets/images/product/air-sanitization-and-purification/8.png") },
+          { id: 9, path: require("../assets/images/product/air-sanitization-and-purification/9.png") },
+          { id: 10, path: require("../assets/images/product/air-sanitization-and-purification/key1.webp") },
+          { id: 11, path: require("../assets/images/product/air-sanitization-and-purification/key2.jpg") },
+          { id: 12, path: require("../assets/images/product/air-sanitization-and-purification/key3.jpg") }
         ],
         videos: [
 
@@ -62,6 +61,21 @@ const ProductData = (name) => {
           { id: 3, uri: "https://www.youtube.com/watch?v=5Uj8hyuDapM" },
           { id: 4, uri: "https://www.youtube.com/watch?v=vpiGRmvIJC0" },
           { id: 5, uri: "https://www.youtube.com/watch?v=QCBzOauCjsw" }
+        ]
+      };
+
+    case "angle-roll":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/angle-roll/1-7.webp") },
+          { id: 2, path: require("../assets/images/product/angle-roll/2-6.webp") },
+          { id: 3, path: require("../assets/images/product/angle-roll/3-6.webp") },
+          { id: 4, path: require("../assets/images/product/angle-roll/4-4.webp") },
+          { id: 5, path: require("../assets/images/product/angle-roll/5.webp") },
+          { id: 6, path: require("../assets/images/product/angle-roll/6.webp") }
+        ],
+        videos: [
+
         ]
       };
 
@@ -227,6 +241,23 @@ const ProductData = (name) => {
         ]
       };
 
+    case "clinching-machine":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/clinching-machine/1-14.webp") },
+          { id: 2, path: require("../assets/images/product/clinching-machine/10.webp") },
+          { id: 3, path: require("../assets/images/product/clinching-machine/12.webp") },
+          { id: 4, path: require("../assets/images/product/clinching-machine/2-13.webp") },
+          { id: 5, path: require("../assets/images/product/clinching-machine/3-13.webp") },
+          { id: 6, path: require("../assets/images/product/clinching-machine/5-4.webp") },
+          { id: 7, path: require("../assets/images/product/clinching-machine/6-3.webp") },
+          { id: 8, path: require("../assets/images/product/clinching-machine/9.webp") }
+        ],
+        videos: [
+
+        ]
+      };
+
     case "cnc-laser-cutting-machine":
       return {
         images: [
@@ -239,6 +270,20 @@ const ProductData = (name) => {
           { id: 2, uri: "https://www.youtube.com/embed/ZK-3CGk3w00" },
           { id: 3, uri: "https://www.youtube.com/embed/vcQNL2ZERf0" },
           { id: 4, uri: "https://www.youtube.com/embed/DvIthUfBDuI" }
+        ]
+      };
+
+    case "cnc-milling-machine":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/cnc-milling-machine/1.webp") },
+          { id: 2, path: require("../assets/images/product/cnc-milling-machine/2.webp") },
+          { id: 3, path: require("../assets/images/product/cnc-milling-machine/3.webp") },
+          { id: 4, path: require("../assets/images/product/cnc-milling-machine/4-1.webp") },
+          { id: 5, path: require("../assets/images/product/cnc-milling-machine/5.webp") }
+        ],
+        videos: [
+
         ]
       };
 
@@ -316,6 +361,29 @@ const ProductData = (name) => {
         ]
       };
 
+    case "cord-machines":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/cord-machines/1-2.webp") },
+          { id: 2, path: require("../assets/images/product/cord-machines/1-3.webp") },
+          { id: 3, path: require("../assets/images/product/cord-machines/1-4.webp") },
+          { id: 4, path: require("../assets/images/product/cord-machines/2-2.webp") },
+          { id: 5, path: require("../assets/images/product/cord-machines/2-3.webp") },
+          { id: 6, path: require("../assets/images/product/cord-machines/2-4.webp") },
+          { id: 7, path: require("../assets/images/product/cord-machines/3-2.webp") },
+          { id: 8, path: require("../assets/images/product/cord-machines/3-3.webp") },
+          { id: 9, path: require("../assets/images/product/cord-machines/4-3.webp") },
+          { id: 10, path: require("../assets/images/product/cord-machines/4-4.webp") },
+          { id: 11, path: require("../assets/images/product/cord-machines/5-1.webp") },
+          { id: 12, path: require("../assets/images/product/cord-machines/5-2.webp") },
+          { id: 13, path: require("../assets/images/product/cord-machines/6.webp") },
+          { id: 14, path: require("../assets/images/product/cord-machines/7.webp") }
+        ],
+        videos: [
+
+        ]
+      };
+
     case "crane-system":
       return {
         images: [
@@ -346,6 +414,22 @@ const ProductData = (name) => {
         ]
       };
 
+    case "crimping-machine":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/crimping-machine/1-13.webp") },
+          { id: 2, path: require("../assets/images/product/crimping-machine/2-12.webp") },
+          { id: 3, path: require("../assets/images/product/crimping-machine/3-12.webp") },
+          { id: 4, path: require("../assets/images/product/crimping-machine/4-10.webp") },
+          { id: 5, path: require("../assets/images/product/crimping-machine/5-3.webp") },
+          { id: 6, path: require("../assets/images/product/crimping-machine/6-2.webp") },
+          { id: 7, path: require("../assets/images/product/crimping-machine/7-1.webp") }
+        ],
+        videos: [
+
+        ]
+      };
+
     case "cutting-and-machining-tools":
       return {
         images: [
@@ -363,6 +447,20 @@ const ProductData = (name) => {
           { id: 12, path: require("../assets/images/product/cutting-and-machining-tools/key4-19.jpg") },
           { id: 13, path: require("../assets/images/product/cutting-and-machining-tools/key5-16.jpg") },
           { id: 14, path: require("../assets/images/product/cutting-and-machining-tools/key6-15.jpg") }
+        ],
+        videos: [
+
+        ]
+      };
+
+    case "dishing-press":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/dishing-press/3-10.webp") },
+          { id: 2, path: require("../assets/images/product/dishing-press/4-8.webp") },
+          { id: 3, path: require("../assets/images/product/dishing-press/G.webp") },
+          { id: 4, path: require("../assets/images/product/dishing-press/H.webp") },
+          { id: 5, path: require("../assets/images/product/dishing-press/no2.webp") }
         ],
         videos: [
 
@@ -599,6 +697,22 @@ const ProductData = (name) => {
         ]
       };
 
+    case "flanging-machines":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/flanging-machines/1-12.webp") },
+          { id: 2, path: require("../assets/images/product/flanging-machines/2-11.webp") },
+          { id: 3, path: require("../assets/images/product/flanging-machines/3-11.webp") },
+          { id: 4, path: require("../assets/images/product/flanging-machines/4-9.webp") },
+          { id: 5, path: require("../assets/images/product/flanging-machines/I-2048x1536.webp") },
+          { id: 6, path: require("../assets/images/product/flanging-machines/L.webp") },
+          { id: 7, path: require("../assets/images/product/flanging-machines/N.webp") }
+        ],
+        videos: [
+
+        ]
+      };
+
     case "floor-cleaning-machine":
       return {
         images: [
@@ -755,6 +869,19 @@ const ProductData = (name) => {
           { id: 3, uri: "https://www.youtube.com/embed/EoyWPQkBHig" },
           { id: 4, uri: "https://www.youtube.com/embed/Df6Y2G04FrI" },
           { id: 5, uri: "https://www.youtube.com/embed/cc2WoNgLEis" }
+        ]
+      };
+
+    case "guillotine-shears":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/guillotine-shears/1-3.webp") },
+          { id: 2, path: require("../assets/images/product/guillotine-shears/2-3.webp") },
+          { id: 3, path: require("../assets/images/product/guillotine-shears/3-3.webp") },
+          { id: 4, path: require("../assets/images/product/guillotine-shears/4-1.webp") }
+        ],
+        videos: [
+
         ]
       };
 
@@ -1038,6 +1165,18 @@ const ProductData = (name) => {
           { id: 5, path: require("../assets/images/product/inkjet-printing/5.png") },
           { id: 6, path: require("../assets/images/product/inkjet-printing/6.png") },
           { id: 7, path: require("../assets/images/product/inkjet-printing/7.png") }
+        ],
+        videos: [
+
+        ]
+      };
+
+    case "ironworkers-notching-machine":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/ironworkers-notching-machine/1-2.webp") },
+          { id: 2, path: require("../assets/images/product/ironworkers-notching-machine/2-2.webp") },
+          { id: 3, path: require("../assets/images/product/ironworkers-notching-machine/3-2.webp") }
         ],
         videos: [
 
@@ -1556,6 +1695,20 @@ const ProductData = (name) => {
         ]
       };
 
+    case "pipe-laser-cutting-machine":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/pipe-laser-cutting-machine/2024-sağ-1-degrade.png") },
+          { id: 2, path: require("../assets/images/product/pipe-laser-cutting-machine/2024-sol-1-degrade.jpg") },
+          { id: 3, path: require("../assets/images/product/pipe-laser-cutting-machine/lazer-detay-1.jpg") },
+          { id: 4, path: require("../assets/images/product/pipe-laser-cutting-machine/orionf1-g2.jpg") },
+          { id: 5, path: require("../assets/images/product/pipe-laser-cutting-machine/sirus-1.jpg") }
+        ],
+        videos: [
+
+        ]
+      };
+
     case "pipe-polishing":
       return {
         images: [
@@ -1618,15 +1771,48 @@ const ProductData = (name) => {
         ]
       };
 
+    case "plate-rolling-machines":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/plate-rolling-machines/5-2.webp") },
+          { id: 2, path: require("../assets/images/product/plate-rolling-machines/6-1.webp") },
+          { id: 3, path: require("../assets/images/product/plate-rolling-machines/7.webp") },
+          { id: 4, path: require("../assets/images/product/plate-rolling-machines/A.webp") },
+          { id: 5, path: require("../assets/images/product/plate-rolling-machines/B.webp") },
+          { id: 6, path: require("../assets/images/product/plate-rolling-machines/C.webp") },
+          { id: 7, path: require("../assets/images/product/plate-rolling-machines/D.webp") }
+        ],
+        videos: [
+
+        ]
+      };
+
+    case "portable-marking-machine":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/portable-marking-machine/1-8.webp") },
+          { id: 2, path: require("../assets/images/product/portable-marking-machine/2-7.webp") },
+          { id: 3, path: require("../assets/images/product/portable-marking-machine/3-7.webp") },
+          { id: 4, path: require("../assets/images/product/portable-marking-machine/4-5.webp") },
+          { id: 5, path: require("../assets/images/product/portable-marking-machine/5-1.webp") }
+        ],
+        videos: [
+
+        ]
+      };
+
     case "press-brakes":
       return {
         images: [
           { id: 1, path: require("../assets/images/product/press-brakes/1-6.jpg") },
-          { id: 2, path: require("../assets/images/product/press-brakes/2-5.jpg") },
-          { id: 3, path: require("../assets/images/product/press-brakes/3-5.jpg") },
-          { id: 4, path: require("../assets/images/product/press-brakes/C9HS-D2-1.jpg") },
-          { id: 5, path: require("../assets/images/product/press-brakes/C9HS-D4.jpg") },
-          { id: 6, path: require("../assets/images/product/press-brakes/G20X_3.jpg") }
+          { id: 2, path: require("../assets/images/product/press-brakes/1.webp") },
+          { id: 3, path: require("../assets/images/product/press-brakes/2-5.jpg") },
+          { id: 4, path: require("../assets/images/product/press-brakes/2.webp") },
+          { id: 5, path: require("../assets/images/product/press-brakes/3-5.jpg") },
+          { id: 6, path: require("../assets/images/product/press-brakes/3.webp") },
+          { id: 7, path: require("../assets/images/product/press-brakes/C9HS-D2-1.jpg") },
+          { id: 8, path: require("../assets/images/product/press-brakes/C9HS-D4.jpg") },
+          { id: 9, path: require("../assets/images/product/press-brakes/G20X_3.jpg") }
         ],
         videos: [
           { id: 1, uri: "https://www.youtube.com/embed/e-iDabWy7A4" },
