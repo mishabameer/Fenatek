@@ -31,7 +31,8 @@ const ProductData = (name) => {
           { id: 12, path: require("../assets/images/product/air-sanitization-and-purification/key3.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/jc_XX0K9eyE" },
+          { id: 2, uri: "https://www.youtube.com/embed/zN7alxQqGL4" }
         ]
       };
 
@@ -237,7 +238,10 @@ const ProductData = (name) => {
           { id: 11, path: require("../assets/images/product/cleaning-chemicals/Screenshot 2025-04-12 153428.png") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/i1LaDjIuGkE" },
+          { id: 2, uri: "https://www.youtube.com/embed/7ZTIIBG8hgA" },
+          { id: 3, uri: "https://www.youtube.com/embed/l7MKOdLhjBg" },
+          { id: 4, uri: "https://www.youtube.com/embed/MogJyDgiFEM" }
         ]
       };
 
@@ -479,7 +483,9 @@ const ProductData = (name) => {
           { id: 7, path: require("../assets/images/product/disinfection-systems/hygienio-d1-hidc.png") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/-oCWvEqcjB0" },
+          { id: 2, uri: "https://www.youtube.com/embed/u3eh4JlYwD8" },
+          { id: 3, uri: "https://www.youtube.com/embed/eyb6dMuTtlQ" }
         ]
       };
 
@@ -733,7 +739,10 @@ const ProductData = (name) => {
           { id: 15, path: require("../assets/images/product/floor-cleaning-machine/Screenshot-2019-12-20-at-08.32.26-e1630494642404.png") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/LwgGamD0eFI" },
+          { id: 2, uri: "https://www.youtube.com/embed/SK4cF92TtJE" },
+          { id: 3, uri: "https://www.youtube.com/embed/YKpg08FJl44" },
+          { id: 4, uri: "https://www.youtube.com/embed/y6SFHPw-4vM" }
         ]
       };
 

@@ -71,7 +71,16 @@
                 "path": "../assets/images/product/air-sanitization-and-purification/key3.jpg"
             }
         ],
-        "videos": []
+        "videos": [
+            {
+                "id": 1,
+                "uri": "https://www.youtube.com/embed/jc_XX0K9eyE"
+            },
+            {
+                "id": 2,
+                "uri": "https://www.youtube.com/embed/zN7alxQqGL4"
+            }
+        ]
     },
     "aircraft-tugs": {
         "images": [
@@ -641,7 +650,24 @@
                 "path": "../assets/images/product/cleaning-chemicals/Screenshot 2025-04-12 153428.png"
             }
         ],
-        "videos": []
+        "videos": [
+            {
+                "id": 1,
+                "uri": "https://www.youtube.com/embed/i1LaDjIuGkE"
+            },
+            {
+                "id": 2,
+                "uri": "https://www.youtube.com/embed/7ZTIIBG8hgA"
+            },
+            {
+                "id": 3,
+                "uri": "https://www.youtube.com/embed/l7MKOdLhjBg"
+            },
+            {
+                "id": 4,
+                "uri": "https://www.youtube.com/embed/MogJyDgiFEM"
+            }
+        ]
     },
     "clinching-machine": {
         "images": [
@@ -1288,7 +1314,20 @@
                 "path": "../assets/images/product/disinfection-systems/hygienio-d1-hidc.png"
             }
         ],
-        "videos": []
+        "videos": [
+            {
+                "id": 1,
+                "uri": "https://www.youtube.com/embed/-oCWvEqcjB0"
+            },
+            {
+                "id": 2,
+                "uri": "https://www.youtube.com/embed/u3eh4JlYwD8"
+            },
+            {
+                "id": 3,
+                "uri": "https://www.youtube.com/embed/eyb6dMuTtlQ"
+            }
+        ]
     },
     "drum-handling-solutions": {
         "images": [
@@ -2029,7 +2068,24 @@
                 "path": "../assets/images/product/floor-cleaning-machine/Screenshot-2019-12-20-at-08.32.26-e1630494642404.png"
             }
         ],
-        "videos": []
+        "videos": [
+            {
+                "id": 1,
+                "uri": "https://www.youtube.com/embed/LwgGamD0eFI"
+            },
+            {
+                "id": 2,
+                "uri": "https://www.youtube.com/embed/SK4cF92TtJE"
+            },
+            {
+                "id": 3,
+                "uri": "https://www.youtube.com/embed/YKpg08FJl44"
+            },
+            {
+                "id": 4,
+                "uri": "https://www.youtube.com/embed/y6SFHPw-4vM"
+            }
+        ]
     },
     "floor-marking-stickers-and-tools": {
         "images": [
