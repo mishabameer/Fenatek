@@ -3975,23 +3975,23 @@
         "images": [
             {
                 "id": 1,
-                "path": "../assets/images/product/metal-cutting-bandsaw/1-5.webp"
+                "path": "../assets/images/product/metal-cutting-bandsaw/1-5.jpg"
             },
             {
                 "id": 2,
-                "path": "../assets/images/product/metal-cutting-bandsaw/2-5.webp"
+                "path": "../assets/images/product/metal-cutting-bandsaw/2-5.jpg"
             },
             {
                 "id": 3,
-                "path": "../assets/images/product/metal-cutting-bandsaw/3-4.webp"
+                "path": "../assets/images/product/metal-cutting-bandsaw/3-4.jpg"
             },
             {
                 "id": 4,
-                "path": "../assets/images/product/metal-cutting-bandsaw/4-5.webp"
+                "path": "../assets/images/product/metal-cutting-bandsaw/4-5.jpg"
             },
             {
                 "id": 5,
-                "path": "../assets/images/product/metal-cutting-bandsaw/metal-cutting-bandsaw.webp"
+                "path": "../assets/images/product/metal-cutting-bandsaw/metal-cutting-bandsaw.jpg"
             }
         ],
         "videos": []
@@ -5855,27 +5855,27 @@
             },
             {
                 "id": 11,
-                "path": "../assets/images/product/sawing-machines/AUTOMATIC-CIRCULAR-SAWING-MACHINES-for-HIGH-SPEED-cutting.webp"
+                "path": "../assets/images/product/sawing-machines/AUTOMATIC-CIRCULAR-SAWING-MACHINES-for-HIGH-SPEED-cutting.jpg"
             },
             {
                 "id": 12,
-                "path": "../assets/images/product/sawing-machines/MANUAL-CIRCULAR-SAWING-MACHINES.webp"
+                "path": "../assets/images/product/sawing-machines/MANUAL-CIRCULAR-SAWING-MACHINES.jpg"
             },
             {
                 "id": 13,
-                "path": "../assets/images/product/sawing-machines/Manual-band-sawing-machines-1.webp"
+                "path": "../assets/images/product/sawing-machines/Manual-band-sawing-machines-1.jpg"
             },
             {
                 "id": 14,
-                "path": "../assets/images/product/sawing-machines/SEMI-AUTOMATIc-band-sawing-machines-1.webp"
+                "path": "../assets/images/product/sawing-machines/SEMI-AUTOMATIc-band-sawing-machines-1.jpg"
             },
             {
                 "id": 15,
-                "path": "../assets/images/product/sawing-machines/Semi-Automatic-circular-sawing-machines.webp"
+                "path": "../assets/images/product/sawing-machines/Semi-Automatic-circular-sawing-machines.jpg"
             },
             {
                 "id": 16,
-                "path": "../assets/images/product/sawing-machines/automatic-band-sawing-machines-1.webp"
+                "path": "../assets/images/product/sawing-machines/automatic-band-sawing-machines-1.jpg"
             }
         ],
         "videos": []

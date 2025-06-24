@@ -1403,11 +1403,11 @@ const ProductData = (name) => {
     case "metal-cutting-bandsaw":
       return {
         images: [
-          { id: 1, path: require("../assets/images/product/metal-cutting-bandsaw/1-5.webp") },
-          { id: 2, path: require("../assets/images/product/metal-cutting-bandsaw/2-5.webp") },
-          { id: 3, path: require("../assets/images/product/metal-cutting-bandsaw/3-4.webp") },
-          { id: 4, path: require("../assets/images/product/metal-cutting-bandsaw/4-5.webp") },
-          { id: 5, path: require("../assets/images/product/metal-cutting-bandsaw/metal-cutting-bandsaw.webp") }
+          { id: 1, path: require("../assets/images/product/metal-cutting-bandsaw/1-5.jpg") },
+          { id: 2, path: require("../assets/images/product/metal-cutting-bandsaw/2-5.jpg") },
+          { id: 3, path: require("../assets/images/product/metal-cutting-bandsaw/3-4.jpg") },
+          { id: 4, path: require("../assets/images/product/metal-cutting-bandsaw/4-5.jpg") },
+          { id: 5, path: require("../assets/images/product/metal-cutting-bandsaw/metal-cutting-bandsaw.jpg") }
         ],
         videos: [
 
@@ -2064,12 +2064,12 @@ const ProductData = (name) => {
           { id: 8, path: require("../assets/images/product/sawing-machines/7.png") },
           { id: 9, path: require("../assets/images/product/sawing-machines/8.png") },
           { id: 10, path: require("../assets/images/product/sawing-machines/9.png") },
-          { id: 11, path: require("../assets/images/product/sawing-machines/AUTOMATIC-CIRCULAR-SAWING-MACHINES-for-HIGH-SPEED-cutting.webp") },
-          { id: 12, path: require("../assets/images/product/sawing-machines/MANUAL-CIRCULAR-SAWING-MACHINES.webp") },
-          { id: 13, path: require("../assets/images/product/sawing-machines/Manual-band-sawing-machines-1.webp") },
-          { id: 14, path: require("../assets/images/product/sawing-machines/SEMI-AUTOMATIc-band-sawing-machines-1.webp") },
-          { id: 15, path: require("../assets/images/product/sawing-machines/Semi-Automatic-circular-sawing-machines.webp") },
-          { id: 16, path: require("../assets/images/product/sawing-machines/automatic-band-sawing-machines-1.webp") }
+          { id: 11, path: require("../assets/images/product/sawing-machines/AUTOMATIC-CIRCULAR-SAWING-MACHINES-for-HIGH-SPEED-cutting.jpg") },
+          { id: 12, path: require("../assets/images/product/sawing-machines/MANUAL-CIRCULAR-SAWING-MACHINES.jpg") },
+          { id: 13, path: require("../assets/images/product/sawing-machines/Manual-band-sawing-machines-1.jpg") },
+          { id: 14, path: require("../assets/images/product/sawing-machines/SEMI-AUTOMATIc-band-sawing-machines-1.jpg") },
+          { id: 15, path: require("../assets/images/product/sawing-machines/Semi-Automatic-circular-sawing-machines.jpg") },
+          { id: 16, path: require("../assets/images/product/sawing-machines/automatic-band-sawing-machines-1.jpg") }
         ],
         videos: [
 
