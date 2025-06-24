@@ -24,8 +24,8 @@ const ProductData = (name) => {
           { id: 5, path: require("../assets/images/product/air-sanitization-and-purification/5.png") },
           { id: 6, path: require("../assets/images/product/air-sanitization-and-purification/6.png") },
           { id: 7, path: require("../assets/images/product/air-sanitization-and-purification/76634f03-07ca-4a6a-9c62-4e85dd9b1b74.jpg") },
-          { id: 8, path: require("../assets/images/product/air-sanitization-and-purification/8.png") },
-          { id: 9, path: require("../assets/images/product/air-sanitization-and-purification/9.png") },
+          { id: 8, path: require("../assets/images/product/air-sanitization-and-purification/9.png") },
+          { id: 9, path: require("../assets/images/product/air-sanitization-and-purification/air-sanitization-and-purification.png") },
           { id: 10, path: require("../assets/images/product/air-sanitization-and-purification/key1.jpg") },
           { id: 11, path: require("../assets/images/product/air-sanitization-and-purification/key2.jpg") },
           { id: 12, path: require("../assets/images/product/air-sanitization-and-purification/key3.jpg") }
@@ -68,12 +68,12 @@ const ProductData = (name) => {
     case "angle-roll":
       return {
         images: [
-          { id: 1, path: require("../assets/images/product/angle-roll/1-7.jpg") },
-          { id: 2, path: require("../assets/images/product/angle-roll/2-6.jpg") },
-          { id: 3, path: require("../assets/images/product/angle-roll/3-6.jpg") },
-          { id: 4, path: require("../assets/images/product/angle-roll/4-4.jpg") },
-          { id: 5, path: require("../assets/images/product/angle-roll/5.jpg") },
-          { id: 6, path: require("../assets/images/product/angle-roll/6.jpg") }
+          { id: 1, path: require("../assets/images/product/angle-roll/2-6.jpg") },
+          { id: 2, path: require("../assets/images/product/angle-roll/3-6.jpg") },
+          { id: 3, path: require("../assets/images/product/angle-roll/4-4.jpg") },
+          { id: 4, path: require("../assets/images/product/angle-roll/5.jpg") },
+          { id: 5, path: require("../assets/images/product/angle-roll/6.jpg") },
+          { id: 6, path: require("../assets/images/product/angle-roll/angle-roll.jpg") }
         ],
         videos: [
 
@@ -105,25 +105,6 @@ const ProductData = (name) => {
           { id: 6, uri: "https://www.youtube.com/embed/_kBbDDdOkXk" },
           { id: 7, uri: "https://www.youtube.com/embed/h3CbXKmWYiw" },
           { id: 8, uri: "https://www.youtube.com/embed/RDlJGDtJGPw" }
-        ]
-      };
-
-    case "bandsaw-cutting":
-      return {
-        images: [
-          { id: 1, path: require("../assets/images/product/bandsaw-cutting/1.png") },
-          { id: 2, path: require("../assets/images/product/bandsaw-cutting/10.png") },
-          { id: 3, path: require("../assets/images/product/bandsaw-cutting/2.png") },
-          { id: 4, path: require("../assets/images/product/bandsaw-cutting/3.png") },
-          { id: 5, path: require("../assets/images/product/bandsaw-cutting/4.png") },
-          { id: 6, path: require("../assets/images/product/bandsaw-cutting/5.png") },
-          { id: 7, path: require("../assets/images/product/bandsaw-cutting/6.png") },
-          { id: 8, path: require("../assets/images/product/bandsaw-cutting/7.png") },
-          { id: 9, path: require("../assets/images/product/bandsaw-cutting/8.png") },
-          { id: 10, path: require("../assets/images/product/bandsaw-cutting/9.png") }
-        ],
-        videos: [
-
         ]
       };
 
@@ -255,7 +236,7 @@ const ProductData = (name) => {
           { id: 5, path: require("../assets/images/product/clinching-machine/3-13.jpg") },
           { id: 6, path: require("../assets/images/product/clinching-machine/5-4.jpg") },
           { id: 7, path: require("../assets/images/product/clinching-machine/6-3.jpg") },
-          { id: 8, path: require("../assets/images/product/clinching-machine/9.jpg") }
+          { id: 8, path: require("../assets/images/product/clinching-machine/clinching-machine.jpg") }
         ],
         videos: [
 
@@ -282,9 +263,9 @@ const ProductData = (name) => {
         images: [
           { id: 1, path: require("../assets/images/product/cnc-milling-machine/1.jpg") },
           { id: 2, path: require("../assets/images/product/cnc-milling-machine/2.jpg") },
-          { id: 3, path: require("../assets/images/product/cnc-milling-machine/3.jpg") },
-          { id: 4, path: require("../assets/images/product/cnc-milling-machine/4-1.jpg") },
-          { id: 5, path: require("../assets/images/product/cnc-milling-machine/5.jpg") }
+          { id: 3, path: require("../assets/images/product/cnc-milling-machine/4-1.jpg") },
+          { id: 4, path: require("../assets/images/product/cnc-milling-machine/5.jpg") },
+          { id: 5, path: require("../assets/images/product/cnc-milling-machine/cnc-milling-machine.jpg") }
         ],
         videos: [
 
@@ -373,15 +354,15 @@ const ProductData = (name) => {
           { id: 3, path: require("../assets/images/product/cord-machines/1-4.jpg") },
           { id: 4, path: require("../assets/images/product/cord-machines/2-2.jpg") },
           { id: 5, path: require("../assets/images/product/cord-machines/2-3.jpg") },
-          { id: 6, path: require("../assets/images/product/cord-machines/2-4.jpg") },
-          { id: 7, path: require("../assets/images/product/cord-machines/3-2.jpg") },
-          { id: 8, path: require("../assets/images/product/cord-machines/3-3.jpg") },
-          { id: 9, path: require("../assets/images/product/cord-machines/4-3.jpg") },
-          { id: 10, path: require("../assets/images/product/cord-machines/4-4.jpg") },
-          { id: 11, path: require("../assets/images/product/cord-machines/5-1.jpg") },
-          { id: 12, path: require("../assets/images/product/cord-machines/5-2.jpg") },
-          { id: 13, path: require("../assets/images/product/cord-machines/6.jpg") },
-          { id: 14, path: require("../assets/images/product/cord-machines/7.jpg") }
+          { id: 6, path: require("../assets/images/product/cord-machines/3-2.jpg") },
+          { id: 7, path: require("../assets/images/product/cord-machines/3-3.jpg") },
+          { id: 8, path: require("../assets/images/product/cord-machines/4-3.jpg") },
+          { id: 9, path: require("../assets/images/product/cord-machines/4-4.jpg") },
+          { id: 10, path: require("../assets/images/product/cord-machines/5-1.jpg") },
+          { id: 11, path: require("../assets/images/product/cord-machines/5-2.jpg") },
+          { id: 12, path: require("../assets/images/product/cord-machines/6.jpg") },
+          { id: 13, path: require("../assets/images/product/cord-machines/7.jpg") },
+          { id: 14, path: require("../assets/images/product/cord-machines/cord-machines.jpg") }
         ],
         videos: [
 
@@ -423,11 +404,11 @@ const ProductData = (name) => {
         images: [
           { id: 1, path: require("../assets/images/product/crimping-machine/1-13.jpg") },
           { id: 2, path: require("../assets/images/product/crimping-machine/2-12.jpg") },
-          { id: 3, path: require("../assets/images/product/crimping-machine/3-12.jpg") },
-          { id: 4, path: require("../assets/images/product/crimping-machine/4-10.jpg") },
-          { id: 5, path: require("../assets/images/product/crimping-machine/5-3.jpg") },
-          { id: 6, path: require("../assets/images/product/crimping-machine/6-2.jpg") },
-          { id: 7, path: require("../assets/images/product/crimping-machine/7-1.jpg") }
+          { id: 3, path: require("../assets/images/product/crimping-machine/4-10.jpg") },
+          { id: 4, path: require("../assets/images/product/crimping-machine/5-3.jpg") },
+          { id: 5, path: require("../assets/images/product/crimping-machine/6-2.jpg") },
+          { id: 6, path: require("../assets/images/product/crimping-machine/7-1.jpg") },
+          { id: 7, path: require("../assets/images/product/crimping-machine/crimping-machine.jpg") }
         ],
         videos: [
           { id: 1, uri: "https://www.youtube.com/embed/e-iDabWy7A4" },
@@ -464,9 +445,9 @@ const ProductData = (name) => {
       return {
         images: [
           { id: 1, path: require("../assets/images/product/dishing-press/3-10.jpg") },
-          { id: 2, path: require("../assets/images/product/dishing-press/4-8.jpg") },
-          { id: 3, path: require("../assets/images/product/dishing-press/G.jpg") },
-          { id: 4, path: require("../assets/images/product/dishing-press/H.jpg") },
+          { id: 2, path: require("../assets/images/product/dishing-press/G.jpg") },
+          { id: 3, path: require("../assets/images/product/dishing-press/H.jpg") },
+          { id: 4, path: require("../assets/images/product/dishing-press/dishing-press.jpg") },
           { id: 5, path: require("../assets/images/product/dishing-press/no2.jpg") }
         ],
         videos: [
@@ -621,18 +602,9 @@ const ProductData = (name) => {
     case "electric-tapping-machine":
       return {
         images: [
-          { id: 1, path: require("../assets/images/product/electric-tapping-machine/1-45.jpg") },
-          { id: 2, path: require("../assets/images/product/electric-tapping-machine/1-46.jpg") },
-          { id: 3, path: require("../assets/images/product/electric-tapping-machine/2-44.jpg") },
-          { id: 4, path: require("../assets/images/product/electric-tapping-machine/2-45.jpg") },
-          { id: 5, path: require("../assets/images/product/electric-tapping-machine/3-43.jpg") },
-          { id: 6, path: require("../assets/images/product/electric-tapping-machine/3-44.jpg") },
-          { id: 7, path: require("../assets/images/product/electric-tapping-machine/4-32.jpg") },
-          { id: 8, path: require("../assets/images/product/electric-tapping-machine/4-33.jpg") },
-          { id: 9, path: require("../assets/images/product/electric-tapping-machine/5-23.jpg") },
-          { id: 10, path: require("../assets/images/product/electric-tapping-machine/6-15.jpg") },
-          { id: 11, path: require("../assets/images/product/electric-tapping-machine/7-8.jpg") },
-          { id: 12, path: require("../assets/images/product/electric-tapping-machine/8-7.jpg") }
+          { id: 1, path: require("../assets/images/product/electric-tapping-machine/2-45.jpg") },
+          { id: 2, path: require("../assets/images/product/electric-tapping-machine/3-43.jpg") },
+          { id: 3, path: require("../assets/images/product/electric-tapping-machine/3-44.jpg") }
         ],
         videos: [
           { id: 1, uri: "https://www.youtube.com/embed/DAvMUFyA20E" },
@@ -712,10 +684,10 @@ const ProductData = (name) => {
           { id: 1, path: require("../assets/images/product/flanging-machines/1-12.jpg") },
           { id: 2, path: require("../assets/images/product/flanging-machines/2-11.jpg") },
           { id: 3, path: require("../assets/images/product/flanging-machines/3-11.jpg") },
-          { id: 4, path: require("../assets/images/product/flanging-machines/4-9.jpg") },
-          { id: 5, path: require("../assets/images/product/flanging-machines/I-2048x1536.jpg") },
-          { id: 6, path: require("../assets/images/product/flanging-machines/L.jpg") },
-          { id: 7, path: require("../assets/images/product/flanging-machines/N.jpg") }
+          { id: 4, path: require("../assets/images/product/flanging-machines/I-2048x1536.jpg") },
+          { id: 5, path: require("../assets/images/product/flanging-machines/L.jpg") },
+          { id: 6, path: require("../assets/images/product/flanging-machines/N.jpg") },
+          { id: 7, path: require("../assets/images/product/flanging-machines/flanging-machines.jpg") }
         ],
         videos: [
 
@@ -893,7 +865,7 @@ const ProductData = (name) => {
           { id: 1, path: require("../assets/images/product/guillotine-shears/1-3.jpg") },
           { id: 2, path: require("../assets/images/product/guillotine-shears/2-3.jpg") },
           { id: 3, path: require("../assets/images/product/guillotine-shears/3-3.jpg") },
-          { id: 4, path: require("../assets/images/product/guillotine-shears/4-1.jpg") }
+          { id: 4, path: require("../assets/images/product/guillotine-shears/guillotine-shears.jpg") }
         ],
         videos: [
           { id: 1, uri: "https://fenatek.com/wp-content/uploads/2025/03/TVRS_video.mp4" },
@@ -1121,7 +1093,10 @@ const ProductData = (name) => {
           { id: 13, path: require("../assets/images/product/industrial-mobile-lights/产品列表图片-ExMP61R-2-拷贝.png.jpg") }
         ],
         videos: [
-
+          { id: 1, uri: "https://www.youtube.com/embed/twlQ2CNfDk0" },
+          { id: 2, uri: "https://www.youtube.com/embed/vmxWqMDLAGM" },
+          { id: 3, uri: "https://www.youtube.com/embed/U-6hXZBU66s" },
+          { id: 4, uri: "https://www.youtube.com/embed/_0lneXFuFOY" }
         ]
       };
 
@@ -1209,7 +1184,7 @@ const ProductData = (name) => {
         images: [
           { id: 1, path: require("../assets/images/product/ironworkers-notching-machine/1-2.jpg") },
           { id: 2, path: require("../assets/images/product/ironworkers-notching-machine/2-2.jpg") },
-          { id: 3, path: require("../assets/images/product/ironworkers-notching-machine/3-2.jpg") }
+          { id: 3, path: require("../assets/images/product/ironworkers-notching-machine/ironworkers-notching-machine.jpg") }
         ],
         videos: [
 
@@ -1419,6 +1394,20 @@ const ProductData = (name) => {
           { id: 12, path: require("../assets/images/product/medical-oxygen-generators/medical_oxygen_22.jpg") },
           { id: 13, path: require("../assets/images/product/medical-oxygen-generators/medical_oxygen_23.jpg") },
           { id: 14, path: require("../assets/images/product/medical-oxygen-generators/medical_oxygen_slider.jpg") }
+        ],
+        videos: [
+
+        ]
+      };
+
+    case "metal-cutting-bandsaw":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/metal-cutting-bandsaw/1-5.webp") },
+          { id: 2, path: require("../assets/images/product/metal-cutting-bandsaw/2-5.webp") },
+          { id: 3, path: require("../assets/images/product/metal-cutting-bandsaw/3-4.webp") },
+          { id: 4, path: require("../assets/images/product/metal-cutting-bandsaw/4-5.webp") },
+          { id: 5, path: require("../assets/images/product/metal-cutting-bandsaw/metal-cutting-bandsaw.webp") }
         ],
         videos: [
 
@@ -1748,7 +1737,7 @@ const ProductData = (name) => {
           { id: 1, path: require("../assets/images/product/pipe-laser-cutting-machine/2024-sağ-1-degrade.png") },
           { id: 2, path: require("../assets/images/product/pipe-laser-cutting-machine/2024-sol-1-degrade.jpg") },
           { id: 3, path: require("../assets/images/product/pipe-laser-cutting-machine/lazer-detay-1.jpg") },
-          { id: 4, path: require("../assets/images/product/pipe-laser-cutting-machine/orionf1-g2.jpg") },
+          { id: 4, path: require("../assets/images/product/pipe-laser-cutting-machine/pipe-laser-cutting-machine.jpg") },
           { id: 5, path: require("../assets/images/product/pipe-laser-cutting-machine/sirus-1.jpg") }
         ],
         videos: [
@@ -1826,10 +1815,10 @@ const ProductData = (name) => {
           { id: 1, path: require("../assets/images/product/plate-rolling-machines/5-2.jpg") },
           { id: 2, path: require("../assets/images/product/plate-rolling-machines/6-1.jpg") },
           { id: 3, path: require("../assets/images/product/plate-rolling-machines/7.jpg") },
-          { id: 4, path: require("../assets/images/product/plate-rolling-machines/A.jpg") },
-          { id: 5, path: require("../assets/images/product/plate-rolling-machines/B.jpg") },
-          { id: 6, path: require("../assets/images/product/plate-rolling-machines/C.jpg") },
-          { id: 7, path: require("../assets/images/product/plate-rolling-machines/D.jpg") }
+          { id: 4, path: require("../assets/images/product/plate-rolling-machines/B.jpg") },
+          { id: 5, path: require("../assets/images/product/plate-rolling-machines/C.jpg") },
+          { id: 6, path: require("../assets/images/product/plate-rolling-machines/D.jpg") },
+          { id: 7, path: require("../assets/images/product/plate-rolling-machines/plate-rolling-machines.jpg") }
         ],
         videos: [
           { id: 1, uri: "https://www.youtube.com/embed/2OmW9gJxJjQ" },
@@ -1858,9 +1847,9 @@ const ProductData = (name) => {
     case "press-brakes":
       return {
         images: [
-          { id: 1, path: require("../assets/images/product/press-brakes/1-6.jpg") },
-          { id: 2, path: require("../assets/images/product/press-brakes/1.jpg") },
-          { id: 3, path: require("../assets/images/product/press-brakes/2-5.jpg") },
+          { id: 1, path: require("../assets/images/product/press-brakes/1.0.jpg") },
+          { id: 2, path: require("../assets/images/product/press-brakes/1.1.jpg") },
+          { id: 3, path: require("../assets/images/product/press-brakes/1.3.jpg") },
           { id: 4, path: require("../assets/images/product/press-brakes/2.jpg") },
           { id: 5, path: require("../assets/images/product/press-brakes/3-5.jpg") },
           { id: 6, path: require("../assets/images/product/press-brakes/3.jpg") },
@@ -2059,6 +2048,31 @@ const ProductData = (name) => {
           { id: 2, uri: "https://www.youtube.com/embed/BlE7KYfwLbI" },
           { id: 3, uri: "https://www.youtube.com/embed/xqrkATyp2oA" },
           { id: 4, uri: "https://www.youtube.com/embed/laOqkCQCPRg" }
+        ]
+      };
+
+    case "sawing-machines":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/sawing-machines/1.png") },
+          { id: 2, path: require("../assets/images/product/sawing-machines/10.png") },
+          { id: 3, path: require("../assets/images/product/sawing-machines/2.png") },
+          { id: 4, path: require("../assets/images/product/sawing-machines/3.png") },
+          { id: 5, path: require("../assets/images/product/sawing-machines/4.png") },
+          { id: 6, path: require("../assets/images/product/sawing-machines/5.png") },
+          { id: 7, path: require("../assets/images/product/sawing-machines/6.png") },
+          { id: 8, path: require("../assets/images/product/sawing-machines/7.png") },
+          { id: 9, path: require("../assets/images/product/sawing-machines/8.png") },
+          { id: 10, path: require("../assets/images/product/sawing-machines/9.png") },
+          { id: 11, path: require("../assets/images/product/sawing-machines/AUTOMATIC-CIRCULAR-SAWING-MACHINES-for-HIGH-SPEED-cutting.webp") },
+          { id: 12, path: require("../assets/images/product/sawing-machines/MANUAL-CIRCULAR-SAWING-MACHINES.webp") },
+          { id: 13, path: require("../assets/images/product/sawing-machines/Manual-band-sawing-machines-1.webp") },
+          { id: 14, path: require("../assets/images/product/sawing-machines/SEMI-AUTOMATIc-band-sawing-machines-1.webp") },
+          { id: 15, path: require("../assets/images/product/sawing-machines/Semi-Automatic-circular-sawing-machines.webp") },
+          { id: 16, path: require("../assets/images/product/sawing-machines/automatic-band-sawing-machines-1.webp") }
+        ],
+        videos: [
+
         ]
       };
 
