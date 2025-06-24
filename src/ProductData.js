@@ -1734,8 +1734,8 @@ const ProductData = (name) => {
     case "pipe-laser-cutting-machine":
       return {
         images: [
-          { id: 1, path: require("../assets/images/product/pipe-laser-cutting-machine/2024-sağ-1-degrade.png") },
-          { id: 2, path: require("../assets/images/product/pipe-laser-cutting-machine/2024-sol-1-degrade.jpg") },
+          { id: 1, path: require("../assets/images/product/pipe-laser-cutting-machine/2024-sol-1-degrade.jpg") },
+          { id: 2, path: require("../assets/images/product/pipe-laser-cutting-machine/20241-degrade.png") },
           { id: 3, path: require("../assets/images/product/pipe-laser-cutting-machine/lazer-detay-1.jpg") },
           { id: 4, path: require("../assets/images/product/pipe-laser-cutting-machine/pipe-laser-cutting-machine.jpg") },
           { id: 5, path: require("../assets/images/product/pipe-laser-cutting-machine/sirus-1.jpg") }
