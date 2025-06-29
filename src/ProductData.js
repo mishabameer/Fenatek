@@ -2202,6 +2202,25 @@ const ProductData = (name) => {
         ]
       };
 
+    case "slag-cleaner":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/slag-cleaner/11c18322-566e-46de-a6be-72fec2ec786f.jpg") },
+          { id: 2, path: require("../assets/images/product/slag-cleaner/1908253f-31fd-48fa-9e34-12c54c3d4881.jpg") },
+          { id: 3, path: require("../assets/images/product/slag-cleaner/5a8b6156-250d-48af-be49-3d1d66ff5572.jpg") },
+          { id: 4, path: require("../assets/images/product/slag-cleaner/77a59d25-6153-410e-89e0-b1fce2677cc6.jpg") },
+          { id: 5, path: require("../assets/images/product/slag-cleaner/d5f27412-0c9d-496e-aee0-96b2cf4b13a0.jpg") },
+          { id: 6, path: require("../assets/images/product/slag-cleaner/f903c70e-eed4-4050-b5b8-d7c97b1abb7d.jpg") },
+          { id: 7, path: require("../assets/images/product/slag-cleaner/slag-cleaner.jpg") }
+        ],
+        videos: [
+          { id: 1, uri: "https://www.youtube.com/embed/jr2Swq9WtZw" },
+          { id: 2, uri: "https://www.youtube.com/embed/cnwndHh508w" },
+          { id: 3, uri: "https://www.youtube.com/embed/EXh3usm8mOI" },
+          { id: 4, uri: "https://www.youtube.com/embed/gEx6MVfeB8o" }
+        ]
+      };
+
     case "solar-panel-cleaning":
       return {
         images: [

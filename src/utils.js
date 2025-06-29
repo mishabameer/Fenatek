@@ -199,6 +199,10 @@ export const getProductInCategory = (catName) => {
               { id: 2111, name: "Portable Marking Machine" },
             ],
           },
+          {
+            id: 212,
+            name: "Slag Cleaner",
+          },
         ],
       };
 

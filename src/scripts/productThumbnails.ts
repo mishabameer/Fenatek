@@ -113,6 +113,7 @@ export const productThumbnails: ProductThumbnails = {
   "sheet-metal-vacuum-lifters": require("../../assets/images/productThumbnails/sheet-metal-vacuum-lifters.jpg"),
   "shrink-wrap": require("../../assets/images/productThumbnails/shrink-wrap.jpg"),
   "signalling-and-alarm-solutions": require("../../assets/images/productThumbnails/signalling-and-alarm-solutions.jpg"),
+  "slag-cleaner": require("../../assets/images/productThumbnails/slag-cleaner.jpg"),
   "solar-panel-cleaning": require("../../assets/images/productThumbnails/solar-panel-cleaning.jpg"),
   "special-lifters": require("../../assets/images/productThumbnails/special-lifters.png"),
   "spider-lifters": require("../../assets/images/productThumbnails/spider-lifters.png"),
