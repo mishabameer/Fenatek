@@ -529,42 +529,6 @@ const ProductData = (name) => {
         ]
       };
 
-    case "dust-and-chip-aspirators":
-      return {
-        images: [
-          { id: 1, path: require("../assets/images/product/dust-and-chip-aspirators/cicloni-e-ipercicloni-13.jpg") },
-          { id: 2, path: require("../assets/images/product/dust-and-chip-aspirators/customizzato-10.jpg") },
-          { id: 3, path: require("../assets/images/product/dust-and-chip-aspirators/deduster-87.jpg") },
-          { id: 4, path: require("../assets/images/product/dust-and-chip-aspirators/easybag-12.jpg") },
-          { id: 5, path: require("../assets/images/product/dust-and-chip-aspirators/heliroto-24h-11.jpg") },
-          { id: 6, path: require("../assets/images/product/dust-and-chip-aspirators/impianti-centralizzati-8.jpg") },
-          { id: 7, path: require("../assets/images/product/dust-and-chip-aspirators/innova-16.jpg") },
-          { id: 8, path: require("../assets/images/product/dust-and-chip-aspirators/key1-3.jpg") },
-          { id: 9, path: require("../assets/images/product/dust-and-chip-aspirators/key2-2.jpg") },
-          { id: 10, path: require("../assets/images/product/dust-and-chip-aspirators/key3-1.jpg") },
-          { id: 11, path: require("../assets/images/product/dust-and-chip-aspirators/key4.jpg") },
-          { id: 12, path: require("../assets/images/product/dust-and-chip-aspirators/longpack-72.jpg") },
-          { id: 13, path: require("../assets/images/product/dust-and-chip-aspirators/masterclean-49.jpg") },
-          { id: 14, path: require("../assets/images/product/dust-and-chip-aspirators/maxi-vortex-58-6.jpg") },
-          { id: 15, path: require("../assets/images/product/dust-and-chip-aspirators/miniblow-14.jpg") },
-          { id: 16, path: require("../assets/images/product/dust-and-chip-aspirators/normal.jpg") },
-          { id: 17, path: require("../assets/images/product/dust-and-chip-aspirators/propaint-89.jpg") },
-          { id: 18, path: require("../assets/images/product/dust-and-chip-aspirators/safedust-68-1.jpg") },
-          { id: 19, path: require("../assets/images/product/dust-and-chip-aspirators/safedust-68.jpg") },
-          { id: 20, path: require("../assets/images/product/dust-and-chip-aspirators/skid-15.jpg") },
-          { id: 21, path: require("../assets/images/product/dust-and-chip-aspirators/universal-48-4.jpg") },
-          { id: 22, path: require("../assets/images/product/dust-and-chip-aspirators/vortex-58-5.jpg") },
-          { id: 23, path: require("../assets/images/product/dust-and-chip-aspirators/workbench-fan-90.jpg") },
-          { id: 24, path: require("../assets/images/product/dust-and-chip-aspirators/workbench-hood-91.jpg") }
-        ],
-        videos: [
-          { id: 1, uri: "https://www.youtube.com/embed/s5mR1RJ_BRY" },
-          { id: 2, uri: "https://www.youtube.com/embed/Dd5uX7fuRjc" },
-          { id: 3, uri: "https://www.youtube.com/embed/bxsrD2H-oOY" },
-          { id: 4, uri: "https://www.youtube.com/embed/z2t9IsWPH7Y" }
-        ]
-      };
-
     case "electric-cutters":
       return {
         images: [
@@ -1103,9 +1067,9 @@ const ProductData = (name) => {
     case "industrial-oxygen-generators":
       return {
         images: [
-          { id: 1, path: require("../assets/images/product/industrial-oxygen-generators/1.jpeg") },
+          { id: 1, path: require("../assets/images/product/industrial-oxygen-generators/1.jpg") },
           { id: 2, path: require("../assets/images/product/industrial-oxygen-generators/11.jpg") },
-          { id: 3, path: require("../assets/images/product/industrial-oxygen-generators/21.jpeg") },
+          { id: 3, path: require("../assets/images/product/industrial-oxygen-generators/21.jpg") },
           { id: 4, path: require("../assets/images/product/industrial-oxygen-generators/industrial_oxygen_generators_3.jpg") },
           { id: 5, path: require("../assets/images/product/industrial-oxygen-generators/industrial_oxygen_generators_slider.jpg") }
         ],
@@ -1160,6 +1124,42 @@ const ProductData = (name) => {
         ],
         videos: [
 
+        ]
+      };
+
+    case "industrial-vacuum-cleaner":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/industrial-vacuum-cleaner/CHIPVAC-400.jpg") },
+          { id: 2, path: require("../assets/images/product/industrial-vacuum-cleaner/CHIPVAC200-1.jpg") },
+          { id: 3, path: require("../assets/images/product/industrial-vacuum-cleaner/GAMMA-ASPIRATORI-MONOFASE-1.jpg") },
+          { id: 4, path: require("../assets/images/product/industrial-vacuum-cleaner/OILVAC-300.jpg") },
+          { id: 5, path: require("../assets/images/product/industrial-vacuum-cleaner/OILVAC100-2.jpg") },
+          { id: 6, path: require("../assets/images/product/industrial-vacuum-cleaner/OILVAC60-2.jpg") },
+          { id: 7, path: require("../assets/images/product/industrial-vacuum-cleaner/PROVAC-150-D-1.jpg") },
+          { id: 8, path: require("../assets/images/product/industrial-vacuum-cleaner/SILOVAC-100-T-1.jpg") },
+          { id: 9, path: require("../assets/images/product/industrial-vacuum-cleaner/SILOVAC-600-PRO-1.jpg") },
+          { id: 10, path: require("../assets/images/product/industrial-vacuum-cleaner/SILOVAC600.jpg") },
+          { id: 11, path: require("../assets/images/product/industrial-vacuum-cleaner/W1-001.jpg") },
+          { id: 12, path: require("../assets/images/product/industrial-vacuum-cleaner/W1-AIR.jpg") },
+          { id: 13, path: require("../assets/images/product/industrial-vacuum-cleaner/W2-INFINI-M-4.jpg") },
+          { id: 14, path: require("../assets/images/product/industrial-vacuum-cleaner/WD-1500.jpg") },
+          { id: 15, path: require("../assets/images/product/industrial-vacuum-cleaner/WD4500-1.jpg") },
+          { id: 16, path: require("../assets/images/product/industrial-vacuum-cleaner/banner-aria-compressa.jpg") },
+          { id: 17, path: require("../assets/images/product/industrial-vacuum-cleaner/gamma-aspiratori-professionali-dupuy.jpg") },
+          { id: 18, path: require("../assets/images/product/industrial-vacuum-cleaner/gamma-oil-and-chips-1.jpg") },
+          { id: 19, path: require("../assets/images/product/industrial-vacuum-cleaner/industrial-vacuum-cleaner.jpg") },
+          { id: 20, path: require("../assets/images/product/industrial-vacuum-cleaner/m50.jpg") },
+          { id: 21, path: require("../assets/images/product/industrial-vacuum-cleaner/oilvac-500.jpg") },
+          { id: 22, path: require("../assets/images/product/industrial-vacuum-cleaner/provac-703-c-wd.jpg") }
+        ],
+        videos: [
+          { id: 1, uri: "https://www.youtube.com/embed/qJ9_sxNt8cM" },
+          { id: 2, uri: "https://www.youtube.com/embed/UMaxnywfuwY" },
+          { id: 3, uri: "https://www.youtube.com/embed/p6dUGzkF9Qs" },
+          { id: 4, uri: "https://www.youtube.com/embed/SrIP3P7DB3U" },
+          { id: 5, uri: "https://www.youtube.com/embed/mJXxsJLuRuk" },
+          { id: 6, uri: "https://www.youtube.com/embed/8V6J6LAYpFE" }
         ]
       };
 
@@ -1382,18 +1382,17 @@ const ProductData = (name) => {
         images: [
           { id: 1, path: require("../assets/images/product/medical-oxygen-generators/1.jpg") },
           { id: 2, path: require("../assets/images/product/medical-oxygen-generators/2.jpg") },
-          { id: 3, path: require("../assets/images/product/medical-oxygen-generators/24.jpeg") },
-          { id: 4, path: require("../assets/images/product/medical-oxygen-generators/3.jpeg") },
-          { id: 5, path: require("../assets/images/product/medical-oxygen-generators/3.jpg") },
-          { id: 6, path: require("../assets/images/product/medical-oxygen-generators/4.jpg") },
-          { id: 7, path: require("../assets/images/product/medical-oxygen-generators/5.jpg") },
-          { id: 8, path: require("../assets/images/product/medical-oxygen-generators/6.jpg") },
-          { id: 9, path: require("../assets/images/product/medical-oxygen-generators/8.jpg") },
-          { id: 10, path: require("../assets/images/product/medical-oxygen-generators/key1.jpg") },
-          { id: 11, path: require("../assets/images/product/medical-oxygen-generators/key2.jpg") },
-          { id: 12, path: require("../assets/images/product/medical-oxygen-generators/medical_oxygen_22.jpg") },
-          { id: 13, path: require("../assets/images/product/medical-oxygen-generators/medical_oxygen_23.jpg") },
-          { id: 14, path: require("../assets/images/product/medical-oxygen-generators/medical_oxygen_slider.jpg") }
+          { id: 3, path: require("../assets/images/product/medical-oxygen-generators/24.jpg") },
+          { id: 4, path: require("../assets/images/product/medical-oxygen-generators/3.jpg") },
+          { id: 5, path: require("../assets/images/product/medical-oxygen-generators/4.jpg") },
+          { id: 6, path: require("../assets/images/product/medical-oxygen-generators/5.jpg") },
+          { id: 7, path: require("../assets/images/product/medical-oxygen-generators/6.jpg") },
+          { id: 8, path: require("../assets/images/product/medical-oxygen-generators/8.jpg") },
+          { id: 9, path: require("../assets/images/product/medical-oxygen-generators/key1.jpg") },
+          { id: 10, path: require("../assets/images/product/medical-oxygen-generators/key2.jpg") },
+          { id: 11, path: require("../assets/images/product/medical-oxygen-generators/medical_oxygen_22.jpg") },
+          { id: 12, path: require("../assets/images/product/medical-oxygen-generators/medical_oxygen_23.jpg") },
+          { id: 13, path: require("../assets/images/product/medical-oxygen-generators/medical_oxygen_slider.jpg") }
         ],
         videos: [
 
@@ -1505,7 +1504,7 @@ const ProductData = (name) => {
         images: [
           { id: 1, path: require("../assets/images/product/nitrogen-generators/1-1.jpg") },
           { id: 2, path: require("../assets/images/product/nitrogen-generators/2-1.jpg") },
-          { id: 3, path: require("../assets/images/product/nitrogen-generators/23.jpeg") },
+          { id: 3, path: require("../assets/images/product/nitrogen-generators/23.jpg") },
           { id: 4, path: require("../assets/images/product/nitrogen-generators/3-1.jpg") },
           { id: 5, path: require("../assets/images/product/nitrogen-generators/4-1.jpg") },
           { id: 6, path: require("../assets/images/product/nitrogen-generators/9.jpg") },
@@ -1522,26 +1521,23 @@ const ProductData = (name) => {
         ]
       };
 
-    case "oil-aspirators":
+    case "oil-and-chip-vacuum-cleaner":
       return {
         images: [
-          { id: 1, path: require("../assets/images/product/oil-aspirators/blow-mist-3.jpg") },
-          { id: 2, path: require("../assets/images/product/oil-aspirators/centralized-plants-21.jpg") },
-          { id: 3, path: require("../assets/images/product/oil-aspirators/inter-oil2-66.jpg") },
-          { id: 4, path: require("../assets/images/product/oil-aspirators/key1-4.jpg") },
-          { id: 5, path: require("../assets/images/product/oil-aspirators/key1-6.jpg") },
-          { id: 6, path: require("../assets/images/product/oil-aspirators/key2-3.jpg") },
-          { id: 7, path: require("../assets/images/product/oil-aspirators/masterclean-oil-59.jpg") },
-          { id: 8, path: require("../assets/images/product/oil-aspirators/mastermist-2.jpg") },
-          { id: 9, path: require("../assets/images/product/oil-aspirators/mastertank-76.jpg") },
-          { id: 10, path: require("../assets/images/product/oil-aspirators/tecnomist-57.jpg") },
-          { id: 11, path: require("../assets/images/product/oil-aspirators/universal-oil-58.jpg") }
+          { id: 1, path: require("../assets/images/product/oil-and-chip-vacuum-cleaner/OILVAC-130.jpg") },
+          { id: 2, path: require("../assets/images/product/oil-and-chip-vacuum-cleaner/OILVAC60-2.jpg") },
+          { id: 3, path: require("../assets/images/product/oil-and-chip-vacuum-cleaner/OILVAC600HV-1.jpg") },
+          { id: 4, path: require("../assets/images/product/oil-and-chip-vacuum-cleaner/blow-mist-3.jpg") },
+          { id: 5, path: require("../assets/images/product/oil-and-chip-vacuum-cleaner/centralized-plants-21.jpg") },
+          { id: 6, path: require("../assets/images/product/oil-and-chip-vacuum-cleaner/gamma-oil-and-chips-1.jpg") },
+          { id: 7, path: require("../assets/images/product/oil-and-chip-vacuum-cleaner/inter-oil2-66.jpg") },
+          { id: 8, path: require("../assets/images/product/oil-and-chip-vacuum-cleaner/oil-and-chip-vacuum-cleaner.jpg") },
+          { id: 9, path: require("../assets/images/product/oil-and-chip-vacuum-cleaner/oilvac-500.jpg") }
         ],
         videos: [
-          { id: 1, uri: "https://www.youtube.com/embed/s5mR1RJ_BRY" },
-          { id: 2, uri: "https://www.youtube.com/embed/Dd5uX7fuRjc" },
-          { id: 3, uri: "https://www.youtube.com/embed/z2t9IsWPH7Y" },
-          { id: 4, uri: "https://www.youtube.com/embed/bxsrD2H-oOY" }
+          { id: 1, uri: "https://www.youtube.com/embed/SrIP3P7DB3U" },
+          { id: 2, uri: "https://www.youtube.com/embed/qJ9_sxNt8cM" },
+          { id: 3, uri: "https://www.youtube.com/embed/w3cfzuaDISs" }
         ]
       };
 
