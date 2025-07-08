@@ -418,6 +418,27 @@ const ProductData = (name) => {
         ]
       };
 
+    case "custom-lift-solutions":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/custom-lift-solutions/3-1.jpg") },
+          { id: 2, path: require("../assets/images/product/custom-lift-solutions/4-1.jpg") },
+          { id: 3, path: require("../assets/images/product/custom-lift-solutions/5-1.jpg") },
+          { id: 4, path: require("../assets/images/product/custom-lift-solutions/6-1.jpg") },
+          { id: 5, path: require("../assets/images/product/custom-lift-solutions/7-1.jpg") },
+          { id: 6, path: require("../assets/images/product/custom-lift-solutions/8-1.jpg") },
+          { id: 7, path: require("../assets/images/product/custom-lift-solutions/9.jpg") },
+          { id: 8, path: require("../assets/images/product/custom-lift-solutions/custom-lift-solutions.jpg") }
+        ],
+        videos: [
+          { id: 1, uri: "https://www.youtube.com/embed/VBgL70XJ50Y" },
+          { id: 2, uri: "https://www.youtube.com/embed/0hBvS8epChY" },
+          { id: 3, uri: "https://www.youtube.com/embed/k-Gzt4XfgcI" },
+          { id: 4, uri: "https://www.youtube.com/embed/DryVGhHIo80" },
+          { id: 5, uri: "https://www.youtube.com/embed/bMdVK--ntf8" }
+        ]
+      };
+
     case "cutting-and-machining-tools":
       return {
         images: [
@@ -2265,6 +2286,25 @@ const ProductData = (name) => {
           { id: 2, uri: "https://www.youtube.com/embed/3N7kUakoOSA" },
           { id: 3, uri: "https://www.youtube.com/embed/K0b9fWJxFHc" },
           { id: 4, uri: "https://www.youtube.com/embed/kHT8_JC5jeo" }
+        ]
+      };
+
+    case "standard-lift-solutions":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/standard-lift-solutions/Adjustable-Height-Work-Platform-Full-Part-Surround.jpg") },
+          { id: 2, path: require("../assets/images/product/standard-lift-solutions/Aircraft-Scissor-Platform.jpg") },
+          { id: 3, path: require("../assets/images/product/standard-lift-solutions/High-Solids-Paint-Personnel-Man-Lifts.jpg") },
+          { id: 4, path: require("../assets/images/product/standard-lift-solutions/Long-Adjustable-Height-Work-Platform.jpg") },
+          { id: 5, path: require("../assets/images/product/standard-lift-solutions/Material-Fork-Lift-SOLUTION-NO-.jpg") },
+          { id: 6, path: require("../assets/images/product/standard-lift-solutions/standard-lift-solutions.jpg") }
+        ],
+        videos: [
+          { id: 1, uri: "https://www.youtube.com/embed/eTdsPBz8j7U" },
+          { id: 2, uri: "https://www.youtube.com/embed/EhQEOFlWc4g" },
+          { id: 3, uri: "https://www.youtube.com/embed/CsiRXoC1qNo" },
+          { id: 4, uri: "https://www.youtube.com/embed/iY5BUZl7e_0" },
+          { id: 5, uri: "https://www.youtube.com/embed/NfMOhouD9fM" }
         ]
       };
 

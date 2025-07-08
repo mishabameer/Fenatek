@@ -53,6 +53,8 @@ export const getProductInCategory = (catName) => {
               { id: 1121, name: "Scissor Lifters" },
               { id: 1122, name: "Mobile Lifters" },
               { id: 1123, name: "Heavy Roll Handling Equipment" },
+              { id: 1124, name: "Standard Lift Solutions" },
+              { id: 1125, name: "Custom Lift Solutions" },
             ],
           },
           { id: 113, name: "Drum Handling Solutions" },
