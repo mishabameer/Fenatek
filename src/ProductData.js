@@ -108,6 +108,22 @@ const ProductData = (name) => {
         ]
       };
 
+    case "beveling-machine":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/beveling-machine/1-1.jpg") },
+          { id: 2, path: require("../assets/images/product/beveling-machine/1.jpg") },
+          { id: 3, path: require("../assets/images/product/beveling-machine/2-1.jpg") },
+          { id: 4, path: require("../assets/images/product/beveling-machine/2-2.jpg") },
+          { id: 5, path: require("../assets/images/product/beveling-machine/2-3.jpg") },
+          { id: 6, path: require("../assets/images/product/beveling-machine/3-2.jpg") },
+          { id: 7, path: require("../assets/images/product/beveling-machine/3.jpg") }
+        ],
+        videos: [
+
+        ]
+      };
+
     case "cable-pulling-system":
       return {
         images: [
@@ -787,6 +803,24 @@ const ProductData = (name) => {
         ]
       };
 
+    case "glass-storage-systems":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/glass-storage-systems/CLO3300-S-Glass-storage-system.jpg") },
+          { id: 2, path: require("../assets/images/product/glass-storage-systems/CLO3300B-480x240.jpg") },
+          { id: 3, path: require("../assets/images/product/glass-storage-systems/CLO6000-S-Glass-storage-systemrid-480x240.jpg") },
+          { id: 4, path: require("../assets/images/product/glass-storage-systems/CLV-2-480x240.jpg") },
+          { id: 5, path: require("../assets/images/product/glass-storage-systems/CLV-2.jpg") },
+          { id: 6, path: require("../assets/images/product/glass-storage-systems/CLV-4.jpg") },
+          { id: 7, path: require("../assets/images/product/glass-storage-systems/Glass-racks-storage-system-CLO6000-S.jpg") },
+          { id: 8, path: require("../assets/images/product/glass-storage-systems/Lateral-glass-storage-system-UCS3300-S-1.jpg") },
+          { id: 9, path: require("../assets/images/product/glass-storage-systems/UCS3300-S-Ultra-compact-storage-system.jpg") }
+        ],
+        videos: [
+
+        ]
+      };
+
     case "glass-vacuum-lifters":
       return {
         images: [
@@ -809,6 +843,20 @@ const ProductData = (name) => {
           { id: 2, uri: "https://www.youtube.com/embed/qPTTSMV6kY4" },
           { id: 3, uri: "https://www.youtube.com/embed/ZqIvjFDBs6s" },
           { id: 4, uri: "https://www.youtube.com/embed/F_NEUOm7-p8" }
+        ]
+      };
+
+    case "glass-washing-machine":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/glass-washing-machine/Glass-washing-machine-EASY1600-4-480x240.jpg") },
+          { id: 2, path: require("../assets/images/product/glass-washing-machine/Glass-washing-machine-HYDRO-e1510663891994.jpg") },
+          { id: 3, path: require("../assets/images/product/glass-washing-machine/HTL2600rid-480x240.jpg") },
+          { id: 4, path: require("../assets/images/product/glass-washing-machine/LVM400-vertical-washing-machine-for-straight-edgersrid-480x240.jpg") },
+          { id: 5, path: require("../assets/images/product/glass-washing-machine/TOP2600.6-480x240.jpg") }
+        ],
+        videos: [
+
         ]
       };
 
@@ -1181,6 +1229,21 @@ const ProductData = (name) => {
           { id: 4, uri: "https://www.youtube.com/embed/SrIP3P7DB3U" },
           { id: 5, uri: "https://www.youtube.com/embed/mJXxsJLuRuk" },
           { id: 6, uri: "https://www.youtube.com/embed/8V6J6LAYpFE" }
+        ]
+      };
+
+    case "infinate-crane":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/infinate-crane/20241217-Ceilix_B9A5617-Roboter-e1737816183450-768x512.jpg") },
+          { id: 2, path: require("../assets/images/product/infinate-crane/20241217-Ceilix_B9A5751-Roboter-768x512.jpg") },
+          { id: 3, path: require("../assets/images/product/infinate-crane/Bild.png") },
+          { id: 4, path: require("../assets/images/product/infinate-crane/Bild1-Robots-2-1-e1736427328858.jpg") },
+          { id: 5, path: require("../assets/images/product/infinate-crane/robotSwitched-1-e1737713364656-768x512.jpg") },
+          { id: 6, path: require("../assets/images/product/infinate-crane/web-20250422-_50A8028-768x512.jpg") }
+        ],
+        videos: [
+
         ]
       };
 
@@ -1709,6 +1772,20 @@ const ProductData = (name) => {
         ]
       };
 
+    case "pipe-beveling":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/pipe-beveling/1-51.jpg") },
+          { id: 2, path: require("../assets/images/product/pipe-beveling/2-50.jpg") },
+          { id: 3, path: require("../assets/images/product/pipe-beveling/3-49.jpg") },
+          { id: 4, path: require("../assets/images/product/pipe-beveling/4-37.jpg") },
+          { id: 5, path: require("../assets/images/product/pipe-beveling/5-28.jpg") }
+        ],
+        videos: [
+
+        ]
+      };
+
     case "pipe-beveling-machine":
       return {
         images: [
@@ -1841,6 +1918,18 @@ const ProductData = (name) => {
           { id: 1, uri: "https://www.youtube.com/embed/2OmW9gJxJjQ" },
           { id: 2, uri: "https://www.youtube.com/embed/xkkkzQeugfU" },
           { id: 3, uri: "https://fenatek.com/wp-content/uploads/2025/03/E79-1568-COR-NC-CONTROLLED.mp4" }
+        ]
+      };
+
+    case "portable-beveling":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/portable-beveling/AP1020-32_파이프-클린-687x499_c.png") },
+          { id: 2, path: require("../assets/images/product/portable-beveling/EP1020-00_FP-687x515_c.png") },
+          { id: 3, path: require("../assets/images/product/portable-beveling/MP0020-26-687x515_c.png") }
+        ],
+        videos: [
+
         ]
       };
 
@@ -2401,6 +2490,22 @@ const ProductData = (name) => {
         ]
       };
 
+    case "stud-welding":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/stud-welding/1-4.jpg") },
+          { id: 2, path: require("../assets/images/product/stud-welding/2-4.jpg") },
+          { id: 3, path: require("../assets/images/product/stud-welding/3-3.jpg") },
+          { id: 4, path: require("../assets/images/product/stud-welding/5.jpg") },
+          { id: 5, path: require("../assets/images/product/stud-welding/6-1.jpg") },
+          { id: 6, path: require("../assets/images/product/stud-welding/7.jpg") },
+          { id: 7, path: require("../assets/images/product/stud-welding/8.jpg") }
+        ],
+        videos: [
+
+        ]
+      };
+
     case "surface-protection-and-industrial-coating":
       return {
         images: [
@@ -2655,6 +2760,20 @@ const ProductData = (name) => {
           { id: 2, uri: "https://www.youtube.com/embed/NbhDFbu9iGY" },
           { id: 3, uri: "https://www.youtube.com/embed/Pjcrd0bUZxM" },
           { id: 4, uri: "https://www.youtube.com/embed/d3sfKns8gdo" }
+        ]
+      };
+
+    case "weld-fume-extraction":
+      return {
+        images: [
+          { id: 1, path: require("../assets/images/product/weld-fume-extraction/11.jpg") },
+          { id: 2, path: require("../assets/images/product/weld-fume-extraction/3-1.jpg") },
+          { id: 3, path: require("../assets/images/product/weld-fume-extraction/5-1.jpg") },
+          { id: 4, path: require("../assets/images/product/weld-fume-extraction/8.jpg") },
+          { id: 5, path: require("../assets/images/product/weld-fume-extraction/9.jpg") }
+        ],
+        videos: [
+
         ]
       };
 

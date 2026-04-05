@@ -287,6 +287,39 @@
             }
         ]
     },
+    "beveling-machine": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/beveling-machine/1-1.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/beveling-machine/1.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/beveling-machine/2-1.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/beveling-machine/2-2.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/beveling-machine/2-3.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/beveling-machine/3-2.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/beveling-machine/3.jpg"
+            }
+        ],
+        "videos": []
+    },
     "cable-pulling-system": {
         "images": [
             {
@@ -2204,6 +2237,47 @@
             }
         ]
     },
+    "glass-storage-systems": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/glass-storage-systems/CLO3300-S-Glass-storage-system.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/glass-storage-systems/CLO3300B-480x240.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/glass-storage-systems/CLO6000-S-Glass-storage-systemrid-480x240.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/glass-storage-systems/CLV-2-480x240.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/glass-storage-systems/CLV-2.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/glass-storage-systems/CLV-4.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/glass-storage-systems/Glass-racks-storage-system-CLO6000-S.jpg"
+            },
+            {
+                "id": 8,
+                "path": "../assets/images/product/glass-storage-systems/Lateral-glass-storage-system-UCS3300-S-1.jpg"
+            },
+            {
+                "id": 9,
+                "path": "../assets/images/product/glass-storage-systems/UCS3300-S-Ultra-compact-storage-system.jpg"
+            }
+        ],
+        "videos": []
+    },
     "glass-vacuum-lifters": {
         "images": [
             {
@@ -2277,6 +2351,31 @@
                 "uri": "https://www.youtube.com/embed/F_NEUOm7-p8"
             }
         ]
+    },
+    "glass-washing-machine": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/glass-washing-machine/Glass-washing-machine-EASY1600-4-480x240.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/glass-washing-machine/Glass-washing-machine-HYDRO-e1510663891994.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/glass-washing-machine/HTL2600rid-480x240.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/glass-washing-machine/LVM400-vertical-washing-machine-for-straight-edgersrid-480x240.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/glass-washing-machine/TOP2600.6-480x240.jpg"
+            }
+        ],
+        "videos": []
     },
     "gripper-tool": {
         "images": [
@@ -3386,6 +3485,35 @@
                 "uri": "https://www.youtube.com/embed/8V6J6LAYpFE"
             }
         ]
+    },
+    "infinate-crane": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/infinate-crane/20241217-Ceilix_B9A5617-Roboter-e1737816183450-768x512.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/infinate-crane/20241217-Ceilix_B9A5751-Roboter-768x512.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/infinate-crane/Bild.png"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/infinate-crane/Bild1-Robots-2-1-e1736427328858.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/infinate-crane/robotSwitched-1-e1737713364656-768x512.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/infinate-crane/web-20250422-_50A8028-768x512.jpg"
+            }
+        ],
+        "videos": []
     },
     "inkjet-printing": {
         "images": [
@@ -4833,6 +4961,31 @@
             }
         ]
     },
+    "pipe-beveling": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/pipe-beveling/1-51.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/pipe-beveling/2-50.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/pipe-beveling/3-49.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/pipe-beveling/4-37.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/pipe-beveling/5-28.jpg"
+            }
+        ],
+        "videos": []
+    },
     "pipe-beveling-machine": {
         "images": [
             {
@@ -5190,6 +5343,23 @@
                 "uri": "https://fenatek.com/wp-content/uploads/2025/03/E79-1568-COR-NC-CONTROLLED.mp4"
             }
         ]
+    },
+    "portable-beveling": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/portable-beveling/AP1020-32_파이프-클린-687x499_c.png"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/portable-beveling/EP1020-00_FP-687x515_c.png"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/portable-beveling/MP0020-26-687x515_c.png"
+            }
+        ],
+        "videos": []
     },
     "portable-marking-machine": {
         "images": [
@@ -6780,6 +6950,39 @@
         ],
         "videos": []
     },
+    "stud-welding": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/stud-welding/1-4.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/stud-welding/2-4.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/stud-welding/3-3.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/stud-welding/5.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/stud-welding/6-1.jpg"
+            },
+            {
+                "id": 6,
+                "path": "../assets/images/product/stud-welding/7.jpg"
+            },
+            {
+                "id": 7,
+                "path": "../assets/images/product/stud-welding/8.jpg"
+            }
+        ],
+        "videos": []
+    },
     "surface-protection-and-industrial-coating": {
         "images": [
             {
@@ -7501,6 +7704,31 @@
                 "uri": "https://www.youtube.com/embed/d3sfKns8gdo"
             }
         ]
+    },
+    "weld-fume-extraction": {
+        "images": [
+            {
+                "id": 1,
+                "path": "../assets/images/product/weld-fume-extraction/11.jpg"
+            },
+            {
+                "id": 2,
+                "path": "../assets/images/product/weld-fume-extraction/3-1.jpg"
+            },
+            {
+                "id": 3,
+                "path": "../assets/images/product/weld-fume-extraction/5-1.jpg"
+            },
+            {
+                "id": 4,
+                "path": "../assets/images/product/weld-fume-extraction/8.jpg"
+            },
+            {
+                "id": 5,
+                "path": "../assets/images/product/weld-fume-extraction/9.jpg"
+            }
+        ],
+        "videos": []
     },
     "welding-curtains": {
         "images": [

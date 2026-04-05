@@ -23,7 +23,7 @@ const CustomHeader: React.FC<CustomHeaderProps> = ({ title }) => {
     <View style={styles.title}>
       <View style={styles.titleDiv}>
         <TouchableOpacity onPress={handleBackPress} style={styles.backButton}>
-          <AntDesign name="arrowleft" size={28} color={"#FFFFFF"} />
+          <AntDesign name="arrow-left" size={28} color={"#FFFFFF"} />
         </TouchableOpacity>
         <Text style={styles.titleText}>{title.toUpperCase()}</Text>
       </View>

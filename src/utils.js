@@ -27,7 +27,14 @@ export const getProductInCategory = (catName) => {
           { id: 104, name: "Tool balancer" },
           { id: 105, name: "Vacuum Tube lifters" },
           { id: 106, name: "Pipe Vacuum Lifters" },
-          { id: 107, name: "Crane System" },
+          {
+            id: 107,
+            name: "Crane Systems",
+            subCategories: [
+              { id: 1071, name: "Crane System" },
+              { id: 1072, name: "Infinate Crane" },
+            ],
+          },
           { id: 108, name: "Magnetic Lifter" },
           { id: 109, name: "Chain Hoists" },
           {
@@ -44,6 +51,7 @@ export const getProductInCategory = (catName) => {
             subCategories: [
               { id: 1111, name: "Lean System" },
               { id: 1112, name: "Automated Vertical Storage" },
+              { id: 1113, name: "Glass Storage Systems" },
             ],
           },
           {
@@ -124,86 +132,103 @@ export const getProductInCategory = (catName) => {
             ],
           },
           {
-            id: 204,
+            id: 205,
             name: "Forming Technology",
             subCategories: [
-              { id: 2041, name: "Dishing Press" },
-              { id: 2042, name: "Flanging Machines" },
-              { id: 2043, name: "Plate Rolling Machines" },
-              { id: 2044, name: "Sheet Metal Processing Lines" },
-              { id: 2045, name: "Angle Roll" },
-              { id: 2046, name: "Profile Bending Machines" },
+              { id: 2051, name: "Dishing Press" },
+              { id: 2052, name: "Flanging Machines" },
+              { id: 2053, name: "Plate Rolling Machines" },
+              { id: 2054, name: "Sheet Metal Processing Lines" },
+              { id: 2055, name: "Angle Roll" },
+              { id: 2056, name: "Profile Bending Machines" },
             ],
           },
           {
-            id: 205,
+            id: 206,
             name: "Cutting Technology",
             subCategories: [
-              { id: 2051, name: "MultiTapper Machine" },
-              { id: 2052, name: "Electric Tapping Machine" },
-              { id: 2053, name: "Sawing Machines" },
-              { id: 2054, name: "Metal Cutting Bandsaw" },
+              { id: 2061, name: "MultiTapper Machine" },
+              { id: 2062, name: "Electric Tapping Machine" },
+              { id: 2063, name: "Sawing Machines" },
+              { id: 2064, name: "Metal Cutting Bandsaw" },
             ],
           },
           {
-            id: 206,
+            id: 207,
             name: "CNC Machines",
             subCategories: [
-              { id: 2061, name: "CNC Laser Cutting Machine" },
-              { id: 2062, name: "CNC Plasma Gas Cutting Machine" },
-              { id: 2062, name: "CNC Milling Machine" },
+              { id: 2071, name: "CNC Laser Cutting Machine" },
+              { id: 2072, name: "CNC Plasma Gas Cutting Machine" },
+              { id: 2073, name: "CNC Milling Machine" },
             ],
           },
           {
-            id: 206,
+            id: 207,
             name: "Tooling Solutions",
             subCategories: [
-              { id: 2061, name: "Cutting and Machining Tools" },
-              { id: 2062, name: "Crimping Machine" },
-              { id: 2062, name: "Clinching Machine" },
+              { id: 2071, name: "Cutting and Machining Tools" },
+              { id: 2072, name: "Crimping Machine" },
+              { id: 2073, name: "Clinching Machine" },
             ],
-          },
-          {
-            id: 207,
-            name: "Cord Machines",
-          },
-          {
-            id: 207,
-            name: "Surface Protection and Industrial Coating",
           },
           {
             id: 208,
+            name: "Cord Machines",
+          },
+          // {
+          //   id: 207,
+          //   name: "Surface Protection and Industrial Coating",
+          // },
+          {
+            id: 209,
             name: "Tube Bending Machine",
           },
           {
-            id: 209,
+            id: 210,
             name: "Assembly Solutions",
             subCategories: [
-              { id: 2091, name: "Clamps and Pliers" },
-              { id: 2092, name: "Fastener Insertion Machine" },
+              { id: 2101, name: "Clamps and Pliers" },
+              { id: 2102, name: "Fastener Insertion Machine" },
             ],
           },
 
           {
-            id: 210,
+            id: 211,
             name: "Storage Solutions",
             subCategories: [
-              { id: 2101, name: "Sheet Metal and Bar Stock Storage" },
-              { id: 2102, name: "Tool Cabinets and Road Boxes" },
-              { id: 2103, name: "Work Benches with Storage" },
-            ],
-          },
-          {
-            id: 211,
-            name: "Marking Solutions",
-            subCategories: [
-              { id: 2111, name: "Laser Marking" },
-              { id: 2111, name: "Portable Marking Machine" },
+              { id: 2111, name: "Sheet Metal and Bar Stock Storage" },
+              { id: 2112, name: "Tool Cabinets and Road Boxes" },
+              { id: 2113, name: "Work Benches with Storage" },
             ],
           },
           {
             id: 212,
+            name: "Marking Solutions",
+            subCategories: [
+              { id: 2121, name: "Laser Marking" },
+              { id: 2122, name: "Portable Marking Machine" },
+            ],
+          },
+          {
+            id: 213,
             name: "Slag Cleaner",
+          },
+          {
+            id: 214,
+            name: "Stud Welding",
+          },
+          {
+            id: 215,
+            name: "Weld Fume Extraction",
+          },
+          {
+            id: 216,
+            name: "Edge Preparation & Shampers",
+            subCategories: [
+              { id: 2161, name: "Beveling Machine" },
+              { id: 2162, name: "Pipe Beveling" },
+              { id: 2163, name: "Portable Beveling" },
+            ],
           },
         ],
       };
@@ -308,6 +333,7 @@ export const getProductInCategory = (catName) => {
               { id: 4173, name: "Nitrogen Generators" },
             ],
           },
+          { id: 418, name: "Glass Washing Machine" },
         ],
       };
 
